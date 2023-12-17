@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: ./about
 ---
 ## About PakCrypt
 In an ever-evolving digital world, we are increasingly vulnerable to privacy invasion and security threats. Cryptography plays a critical role in safeguarding communication and data on modern computer systems. There is a pressing need for a robust national strategy on cryptography that promotes its widespread use to protect the information interests of people and organizations, and to maintain national sovereignty.
@@ -25,4 +25,4 @@ PakCrypt Society's objectives are grouped under three key themes:
 
 We hope you find our website informative and engaging. If you have any questions or would like to get involved, please contact us.
 
-![Closing]({{site.baseurl}}/assets/images/about.jpg)
+![Closing](.{{site.baseurl}}/assets/images/about.jpg)

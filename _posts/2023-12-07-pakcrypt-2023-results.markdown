@@ -6,6 +6,6 @@ categories: comp update
 ---
 ### A huge congratulations to all the finalists and winners
 
-![AmateurTrack](assets/images/pakcrypt23/amotrackwinner.png)
+![AmateurTrack](./pk_blog/assets/images/pakcrypt23/amotrackwinner.png)
 
-![ProfessionalTrack](assets/images/pakcrypt23/protrackwinner.png)
+![ProfessionalTrack](./pk_blog/assets/images/pakcrypt23/protrackwinner.png)

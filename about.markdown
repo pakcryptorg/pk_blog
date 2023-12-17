@@ -25,4 +25,4 @@ PakCrypt Society's objectives are grouped under three key themes:
 
 We hope you find our website informative and engaging. If you have any questions or would like to get involved, please contact us.
 
-![Closing](/{{site.baseurl}}/assets/images/about.jpg)
+![Closing]({{site.baseurl}}/assets/images/about.jpg)

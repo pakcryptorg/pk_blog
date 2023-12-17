@@ -10,6 +10,6 @@ categories: comp update
 
 ![ProfessionalTrack]({{site.url}}/{{site.baseurl}}/assets/images/pro.png)
 
-![ProfessionalTrack]({{site.url}}/{{site.baseurl}}/assets/images/amo_win.png)
+![ProfessionalTrack]({{site.url}}/{{site.baseurl}}/assets/images/amo_win.jpg)
 
-![ProfessionalTrack]({{site.url}}/{{site.baseurl}}/assets/images/pro_win.png)
+![ProfessionalTrack]({{site.url}}/{{site.baseurl}}/assets/images/pro_win.jpg)

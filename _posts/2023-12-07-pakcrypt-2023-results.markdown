@@ -6,6 +6,6 @@ categories: comp update
 ---
 ### Huge *Congratulations* to all the Finalists and Winners
 
-![AmateurTrack](.{{site.baseurl}}/assets/images/amo.png)
+![AmateurTrack]({{site.url}}/{{site.baseurl}}/assets/images/amo.png)
 
-![ProfessionalTrack](.{{site.baseurl}}/assets/images/pro.png)
+![ProfessionalTrack]({{site.url}}/{{site.baseurl}}/assets/images/pro.png)

@@ -5,4 +5,4 @@
 layout: home
 title: PakCrypt 
 ---
-![PakCrypt](assets/images/logo.png)
+![PakCrypt](/assets/images/logo.png)

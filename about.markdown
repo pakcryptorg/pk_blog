@@ -24,3 +24,5 @@ PakCrypt Society's objectives are grouped under three key themes:
 **Scientific Exchange:** We organize annual cryptography meetings, conferences, and competitions for members and the wider cryptography community. We facilitate international training and networking opportunities to help members and the wider cryptography community advance their knowledge and skills.
 
 We hope you find our website informative and engaging. If you have any questions or would like to get involved, please contact us.
+
+![Closing](/{{site.baseurl}}/assets/images/about.jpg)

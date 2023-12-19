@@ -10,6 +10,8 @@ categories: comp update
 
 ![ProfessionalTrack]({{site.url}}/{{site.baseurl}}/assets/images/pro.png)
 
-![ProfessionalTrack]({{site.url}}/{{site.baseurl}}/assets/images/amo_win.jpg)
+![AmoWinner]({{site.url}}/{{site.baseurl}}/assets/images/amo_win.jpg)
 
-![ProfessionalTrack]({{site.url}}/{{site.baseurl}}/assets/images/pro_win.jpg)
+![ProWinner]({{site.url}}/{{site.baseurl}}/assets/images/pro_win.jpg)
+
+![AllWinners]({{site.url}}/{{site.baseurl}}/assets/images/allwinners.jpg)

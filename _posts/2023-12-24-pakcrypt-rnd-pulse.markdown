@@ -4,6 +4,13 @@ title:  "PakCrypt R&D Pulse"
 date:   2023-12-23 07:22:34 +0500
 categories: rnd update
 ---
+### The Silent Threat in SSH Key Security ###
+*2023-11-05*
+![SSHBreak]({{site.url}}/{{site.baseurl}}/assets/images/pulse/20231105_ssh_break.jpg)
+ a groundbreaking discovery has been made. Researchers have unveiled a silent threat lurking in the shadows of Secure Shell (SSH) key security. A paper published in CCS23, titled **[Passive SSH Key Compromise via Lattices](https://eprint.iacr.org/2023/1711.pdf)**, reveals that a passive network attacker can opportunistically obtain private RSA host keys from an SSH server that experiences a naturally arising fault during signature computation. 
+The paper shows that for the signature parameters commonly in use for SSH, there is an efficient lattice attack to recover the private key in case of a signature fault.
+The paper provides a security analysis of the SSH, IKEv1, and IKEv2 protocols in this scenario, and uses the attack to discover hundreds of compromised keys in the wild from several independently vulnerable implementations.
+
 ### Cracking the Code: How a Weekend Laptop Session Broke the Rainbow ###
 *2022-06-21*
 ![RainbowBreak]({{site.url}}/{{site.baseurl}}/assets/images/pulse/rainbow_break.jpg)

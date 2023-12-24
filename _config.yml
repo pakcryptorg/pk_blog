@@ -32,7 +32,7 @@ twitter_username: PakCryptOrg
 
 # Build settings
 theme: minima
-#plugins:
+plugins:
   - jekyll-feed
 
 # Exclude from processing.

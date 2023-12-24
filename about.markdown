@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: ./about
 ---
-![Team](.{{site.baseurl}}/assets/images/landing_pg.png)
+![Team](.{{site.baseurl}}/assets/images/team.jpg)
 ## About PakCrypt
 In an ever-evolving digital world, we are increasingly vulnerable to privacy invasion and security threats. Cryptography plays a critical role in safeguarding communication and data on modern computer systems. There is a pressing need for a robust national strategy on cryptography that promotes its widespread use to protect the information interests of people and organizations, and to maintain national sovereignty.
 

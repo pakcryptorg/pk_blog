@@ -29,8 +29,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pakcrypt.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: PakCryptOrg
 #github_username:  PakCryptOrg
-author:
-  twitter: PakCryptOrg
+author: Team PakCrypt
 
 # Build settings
 theme: minima

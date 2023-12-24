@@ -6,5 +6,5 @@ layout: home
 title: Pakistan Cryptography Organization
 ---
 
-![PakCrypt](.{{site.baseurl}}/assets/images/landing_pic.jpg)
+![PakCrypt](.{{site.baseurl}}/assets/images/landing.jpg)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "PakCrypt R&D Pulse"
-date:   2023-12-27 21:22:34 +0500
+date:   2023-12-23 07:22:34 +0500
 categories: rnd update
 ---
 ### Cracking the Code: How a Weekend Laptop Session Broke the Rainbow ###

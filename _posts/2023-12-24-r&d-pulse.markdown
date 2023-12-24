@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "PakCrypt R&D Pulse"
+title:  "R&D Pulse"
 date:   2023-12-23 07:22:34 +0500
 categories: rnd update
 ---

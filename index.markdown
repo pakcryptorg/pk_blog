@@ -6,5 +6,5 @@ layout: home
 title: PakCrypt 
 ---
 
-![PakCrypt](.{{site.baseurl}}/assets/images/logo.png)
+![PakCrypt](.{{site.baseurl}}/assets/images/landing_pic.jpg)
 

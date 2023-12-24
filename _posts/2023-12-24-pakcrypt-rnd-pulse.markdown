@@ -13,7 +13,7 @@ The paper provides a security analysis of the SSH, IKEv1, and IKEv2 protocols in
 
 ### Cracking the Code: How a Weekend Laptop Session Broke the Rainbow ###
 *2022-06-21*
-![RainbowBreak]({{site.url}}/{{site.baseurl}}/assets/images/pulse/rainbow_break.jpg)
+![RainbowBreak]({{site.url}}/{{site.baseurl}}/assets/images/pulse/20220621_rainbow_break.jpg)
  In the world of cryptography, there's a complex signature scheme known as Rainbow. It's been a finalist in the NIST Post-Quantum Cryptography standardization project, which is a big deal in the cryptography community. The Rainbow signature scheme has been around since 2005 and is based on the Oil and Vinegar signature scheme, which has withstood all cryptanalysis since 1999.
 
 However, a recent **[study](https://eprint.iacr.org/2022/214)** has found a vulnerability in the Rainbow algorithm that allows it to be broken in just 53 hours, or roughly a weekend, on a standard laptop. This is a significant finding because it means that the security provided by the Rainbow signature scheme might not be as robust as previously thought.

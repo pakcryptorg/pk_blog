@@ -1,9 +1,17 @@
 ---
 layout: post
 title:  "Whitepapers"
-date:   2023-12-22 07:22:34 +0500
+date:   2023-12-23 07:22:34 +0500
 categories: whitepapers v1
 ---
+
+
+### What is a Digital Certificate ? ###
+*2023-12-23*|
+A digital certificate serves as a definitive proof of information authenticity through the application of a digital signature. 
+Typically, this certificate comprises the public key of a party, be it a website or user, along with a digital signature from a Certification Authority (CA). Anyone who trusts in CA can verify the signature, thereby validating the public key to the respective party.
+When you access a website with an HTTPS in its URL, the browser tries to ascertain whether the site possesses a valid digital certificate issued by one of the CAs trusted by your browser. 
+[PDF]({{site.url}}/{{site.baseurl}}/assets/whitepapers/what_is_digital_cert.pdf)
 
 ### Quest for Quantum Supremacy ###
 *2023-12-22*|

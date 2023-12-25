@@ -1,9 +1,16 @@
 ---
 layout: post
 title:  "Whitepapers"
-date:   2023-12-20 07:22:34 +0500
+date:   2023-12-22 07:22:34 +0500
 categories: whitepapers v1
 ---
+
+### Quest for Quantum Supremacy ###
+*2023-12-22*|
+Quantum computer cannot be built in 100 years: This view assumes that quantum technology is complex and may take time before reaching the level of performance and functionality that can pose a serious threat to traditional cryptography.
+Quantum computer is just around the corner, due to breakthroughs in improving qubit quality and coherence. Therefore, it may take less than a decade before quantum computers can break encryption methods such as RSA or ECC.
+Probably reality lies somewhere in between these two extremes. 
+[PDF]({{site.url}}/{{site.baseurl}}/assets/whitepapers/quest_for_quantum_supremacy.pdf)
 
 ### What is Digital Trust ? ###
 *2023-12-21*|

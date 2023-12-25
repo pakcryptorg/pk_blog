@@ -7,5 +7,6 @@ title: Pakistan Cryptography Organization
 ---
 
 ![PakCrypt](.{{site.baseurl}}/assets/images/landing.jpg)
-![PakCrypt](https://youtu.be/BBCtAYk64ZE?si=fIXATgcv1lVVua0n)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BBCtAYk64ZE?si=bwVpXA3C6ex9B4YM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

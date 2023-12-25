@@ -8,6 +8,7 @@ title: Pakistan Cryptography Organization
 
 ![PakCrypt](.{{site.baseurl}}/assets/images/landing.jpg)
 
-<iframe width= iframe.contentWindow.document.body.scrollWidth; height= iframe.contentWindow.document.body.scrollHeight; 
+> "By failing to prepare, you are preparing to fail." - **Benjamin Franklin**
+<iframe width= "560"; height= "315"; 
 src="https://www.youtube.com/embed/BBCtAYk64ZE?si=bwVpXA3C6ex9B4YM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

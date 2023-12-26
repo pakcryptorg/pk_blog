@@ -1,9 +1,15 @@
 ---
 layout: post
 title:  "Whitepapers"
-date:   2023-12-23 07:22:34 +0500
+date:   2023-12-24 07:22:34 +0500
 categories: whitepapers v1
 ---
+
+### The Spy Game That Shook the World ###
+*2023-12-24*|
+In an audacious secret operation “Rubicon”, the CIA and West German intelligence turned the tables on over 120 countries. They covertly owned Crypto AG, a Swiss firm that sold encryption devices worldwide. Unbeknownst to these countries, their most secret communications were being intercepted and decoded. This was not a mere breach of trust, but a monumental intelligence coup.
+The agencies exploited the devices to decipher the codes of their customers, including nations like Iran, India, Pakistan, and even the Vatican. This operation was also a glaring spotlight on the incompetence of decision makers in the customer countries. Their inability to detect or halt this spying operation raises serious questions about their judgment and capabilities. 
+[PDF]({{site.url}}/{{site.baseurl}}/assets/whitepapers/The_Spy_Game_That_Shook_the_World.pdf)
 
 
 ### What is a Digital Certificate ? ###

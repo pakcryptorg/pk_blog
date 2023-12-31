@@ -8,7 +8,7 @@ categories: whitepapers v1
 
 ### High Cost of Availability in C.I.A. ###
 *2023-12-29*|
-Achieving availability in CIA is indeed costly due to the need for redundancy, jam resistance, and sophisticated technologies. Unlike confidentiality and integrity, which can be managed with encryption and algorithms respectively, availability requires continuous access to data. This necessitates robust infrastructure, including backup systems, and careful planning to avoid system failures. The cost escalates with different accessibility needs of workers and clients. Ensuring availability is a complex, resource-intensive task, making it the most expensive component of CIA triad.  
+Achieving availability in CIA is indeed costly due to the need for redundancy, jam resistance, and sophisticated technologies. Unlike confidentiality and integrity, which can be managed with encryption and algorithms respectively, availability requires continuous access to data. This necessitates robust infrastructure, including backup systems, and careful planning to avoid system failures. The cost escalates with different accessibility needs of workers and clients. Ensuring availability is a complex, resource-intensive task, making it the most expensive component of CIA triad.
 [PDF]({{site.url}}/{{site.baseurl}}/assets/whitepapers/availability_most_expensive.pdf)
 
 ### Confidentiality vs Integrity vs Availability: How to Priortize? ###

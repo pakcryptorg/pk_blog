@@ -1,9 +1,16 @@
 ---
 layout: post
 title:  "Whitepapers"
-date:   2023-12-24 07:22:34 +0500
+date:   2023-12-27 07:22:34 +0500
 categories: whitepapers v1
 ---
+
+
+### Entity Authentication: Most Elusive Security Goal ###
+*2023-12-27*|
+Entity authentication is crucial in ensuring the security of user and machine interactions. It establishes trust by confirming the identity of entities involved. Fine-level properties, including liveliness (active participation), identification (accurate recognition), willingness (voluntary engagement), and two-way ness (bidirectional verification), enhance the robustness of authentication. 
+[PDF]({{site.url}}/{{site.baseurl}}/assets/whitepapers/what_is_entity_auth.pdf)
+
 
 ### The Spy Game That Shook the World ###
 *2023-12-24*|

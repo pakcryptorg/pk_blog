@@ -1,10 +1,14 @@
 ---
 layout: post
 title:  "Whitepapers"
-date:   2023-12-27 07:22:34 +0500
+date:   2023-12-28 07:22:34 +0500
 categories: whitepapers v1
 ---
 
+### Confidentiality vs Integrity vs Availability: which one is MOST CRITICAL? ###
+*2023-12-28*|
+The CIA triad is crucial for secure digital world. Confidentiality ensures that data is accessible only to authorized parties, Integrity guarantees that data remains unaltered during storage and transfer, and Availability ensures data is accessible when needed. The importance of each property varies based on context, leading to debates among experts. For example, Availability becomes paramount in critical systems like healthcare, where any downtime can have severe consequences. In a hospital, unavailability of patient data could delay life-saving treatments. 
+[PDF]({{site.url}}/{{site.baseurl}}/assets/whitepapers/cia_which_is_critical.pdf)
 
 ### Entity Authentication: Most Elusive Security Goal ###
 *2023-12-27*|

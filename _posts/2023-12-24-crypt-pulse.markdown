@@ -1,14 +1,13 @@
 ---
 layout: post
 title:  "Crypt Pulse"
-date:   2023-12-25 07:22:34 +0500
+date:   2023-12-03 07:22:34 +0500
 categories: pulse v1
 ---
-
 ### The Discovery of Magnetic Backdoors ###
 *2023-12-03*
 ![MagBackdoor]({{site.url}}/{{site.baseurl}}/assets/images/pulse/20231203_magbackdoor.gif)
- A very interesting study shows that voice-enabled devices, which are increasingly common in homes and workplaces, can be manipulated using magnetic fields. This could lead to unauthorized access or control of these devices. **[MagBackdoor]](https://doi.org/10.1109/SP46215.2023.10179364)** reveals a novel magnetic field attack that uses a loudspeaker to inject malicious commands into voice-enabled devices. By focusing on the magnetic threat to loudspeakers, it stealthily manipulates sound production. The closely packed internal audio systems inevitably pick up this malicious sound. 
+ A very interesting study shows that voice-enabled devices, which are increasingly common in homes and workplaces, can be manipulated using magnetic fields. This could lead to unauthorized access or control of these devices. **[MagBackdoor](https://doi.org/10.1109/SP46215.2023.10179364)** reveals a novel magnetic field attack that uses a loudspeaker to inject malicious commands into voice-enabled devices. By focusing on the magnetic threat to loudspeakers, it stealthily manipulates sound production. The closely packed internal audio systems inevitably pick up this malicious sound. 
 
 ### Widely Spread Spread New Flaws of Wi-Fi Encryption ###
 *2023-12-02*

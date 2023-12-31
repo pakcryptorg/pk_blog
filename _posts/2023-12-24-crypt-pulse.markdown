@@ -4,6 +4,7 @@ title:  "Crypt Pulse"
 date:   2023-12-03 07:22:34 +0500
 categories: pulse v1
 ---
+
 ### The Discovery of Magnetic Backdoors ###
 *2023-12-03*
 ![MagBackdoor]({{site.url}}/{{site.baseurl}}/assets/images/pulse/20231203_magbackdoor.gif)
@@ -12,8 +13,8 @@ categories: pulse v1
 ### Widely Spread Spread New Flaws of Wi-Fi Encryption ###
 *2023-12-02*
 ![WiFiExpl]({{site.url}}/{{site.baseurl}}/assets/images/pulse/20231202_wifi_expl.gif)
-Security researchers **[Schepers, Domien, Ranganathan, and Vanhoef](https://www.usenix.org/system/files/sec23summer_355-schepers-prepub.pdf)** exploited power-save features to trick access points into leaking frames in plaintext, or encrypted using the group or an all-zero key. 
-They demonstrates how an attacker can override and control the security context of frames that are yet to be queued. This exploits a design flaw in hotspot-like networks and allows the attacker to force an access point to encrypt yet-to-be-queued frames using an adversary-chosen key, thereby bypassing Wi-Fi encryption entirely.
+Security researchers Schepers, Domien, Ranganathan, and Vanhoef exploited power-save features to trick access points into leaking frames in plaintext, or encrypted using the group or an all-zero key. 
+In **[detailed report](https://www.usenix.org/system/files/sec23summer_355-schepers-prepub.pdf)**, they demonstrates how an attacker can override and control the security context of frames that are yet to be queued. This exploits a design flaw in hotspot-like networks and allows the attacker to force an access point to encrypt yet-to-be-queued frames using an adversary-chosen key, thereby bypassing Wi-Fi encryption entirely.
 The attacks have a widespread impact as they affect various devices and operating systems (Linux, FreeBSD, iOS, and Android) and can be used to hijack TCP connections or intercept client and web traffic.
 
 ### Timekeepers of the Future need Change ###

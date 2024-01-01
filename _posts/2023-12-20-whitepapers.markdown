@@ -6,6 +6,11 @@ categories: whitepapers v1
 ---
 
 
+### Absolute Security *does not* Exist ###
+*2023-12-29*|
+Some people believe that absolute security is possible, using advanced technologies such as embedded solutions, one-time pad, or quantum tech. However, such a view is unrealistic and ignores the human factor, the complexity of systems, and the unpredictability of threats. Absolute security does not exist, because there is always a trade-off between security and usability, a possibility of human error or malicious insider, and a risk of unknown vulnerabilities or zero-day attacks³. Security is continuous process, not a final state.
+[PDF]({{site.url}}/{{site.baseurl}}/assets/whitepapers/no_absolute_security.pdf)
+
 ### High Cost of Availability in C.I.A. ###
 *2023-12-29*|
 Achieving availability in CIA is indeed costly due to the need for redundancy, jam resistance, and sophisticated technologies. Unlike confidentiality and integrity, which can be managed with encryption and algorithms respectively, availability requires continuous access to data. This necessitates robust infrastructure, including backup systems, and careful planning to avoid system failures. The cost escalates with different accessibility needs of workers and clients. Ensuring availability is a complex, resource-intensive task, making it the most expensive component of CIA triad.

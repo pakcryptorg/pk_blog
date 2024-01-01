@@ -1,14 +1,18 @@
 ---
 layout: post
 title:  "Whitepapers"
-date:   2023-12-29 07:22:34 +0500
+date:   2023-12-30 07:22:34 +0500
 categories: whitepapers v1
 ---
 
+### Dark Side of Mega-constellations ###
+*2023-12-30*|
+Mega constellations, like Starlink, pose significant risks. They can obstruct clear sky views, leaving bright streaks that interfere with astronomical observations. The congestion in Low Earth Orbit (LEO) increases collision risks, exacerbating space debris issues. This could hinder space exploration. Additionally, the proliferation of satellites raises privacy concerns, potentially enabling widespread eavesdropping and tracking. Despite the benefits of global connectivity, the adverse impacts on our skies and privacy are considerable.
+[PDF]({{site.url}}/{{site.baseurl}}/assets/whitepapers/dark_side_of_starlink.pdf)
 
 ### Absolute Security *does not* Exist ###
 *2023-12-29*|
-Some people believe that absolute security is possible, using advanced technologies such as embedded solutions, one-time pad, or quantum tech. However, such a view is unrealistic and ignores the human factor, the complexity of systems, and the unpredictability of threats. Absolute security does not exist, because there is always a trade-off between security and usability, a possibility of human error or malicious insider, and a risk of unknown vulnerabilities or zero-day attacks³. Security is continuous process, not a final state.
+Some people believe that absolute security is possible, using advanced technologies such as embedded solutions, one-time pad, or quantum tech. However, such a view is unrealistic and ignores the human factor, the complexity of systems, and the unpredictability of threats. Absolute security does not exist, because there is always a trade-off between security and usability, a possibility of human error or malicious insider, and a risk of unknown vulnerabilities or zero-day attacks. Security is continuous process, not a final state.
 [PDF]({{site.url}}/{{site.baseurl}}/assets/whitepapers/no_absolute_security.pdf)
 
 ### High Cost of Availability in C.I.A. ###

@@ -6,9 +6,9 @@ layout: home
 title: Pakistan Cryptography Organization
 ---
 
-![PakCrypt](.{{site.baseurl}}/assets/images/landing.jpg)
+![PakCrypt](.{{site.baseurl}}/assets/images/landing2.jpg)
 
-> "By failing to prepare, you are preparing to fail." - **Benjamin Franklin**
+> "Innovation distinguishes between a leader and a follower." - **Steve Jobs**
 <iframe id="myiframe"
 src="https://www.youtube.com/embed/BBCtAYk64ZE?si=bwVpXA3C6ex9B4YM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <script>

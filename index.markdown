@@ -6,7 +6,7 @@ layout: home
 title: Pakistan Cryptography Organization
 ---
 
-![PakCrypt](.{{site.baseurl}}/assets/images/landing2.jpg)
+![PakCrypt](.{{site.baseurl}}/assets/images/landing3.jpg)
 
 > "Innovation distinguishes between a leader and a follower." - **Steve Jobs**
 <iframe id="myiframe"

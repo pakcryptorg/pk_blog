@@ -8,7 +8,7 @@ title: Pakistan Cryptography Organization
 
 ![PakCrypt](.{{site.baseurl}}/assets/images/landing3.jpg)
 
-> "Innovation distinguishes between a leader and a follower." - **Steve Jobs**
+> "If you're worried about someone factoring large numbers, then you've got much bigger problems to worry about." - **Martin Hellman**
 <iframe id="myiframe"
 src="https://www.youtube.com/embed/BBCtAYk64ZE?si=bwVpXA3C6ex9B4YM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <script>

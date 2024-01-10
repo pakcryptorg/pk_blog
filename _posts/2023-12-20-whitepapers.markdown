@@ -5,6 +5,12 @@ date:   2023-12-30 07:22:34 +0500
 categories: whitepapers v1
 ---
 
+
+### Zero Knowledge: Proof without Privacy Panic ###
+*2024-01-01*|
+Imagine proving you're over 21 without flashing your ID. Sounds impossible, right? But with zero-knowledge, magic isn't required: just ingenious cryptography. This revolutionary concept is transforming how we prove things online, safeguarding our privacy while ensuring security.
+[PDF]({{site.url}}/{{site.baseurl}}/assets/whitepapers/zero-knowledge_authentication.pdf)
+
 ### Dark Side of Mega-constellations ###
 *2023-12-30*|
 Mega constellations, like Starlink, pose significant risks. They can obstruct clear sky views, leaving bright streaks that interfere with astronomical observations. The congestion in Low Earth Orbit (LEO) increases collision risks, exacerbating space debris issues. This could hinder space exploration. Additionally, the proliferation of satellites raises privacy concerns, potentially enabling widespread eavesdropping and tracking. Despite the benefits of global connectivity, the adverse impacts on our skies and privacy are considerable.

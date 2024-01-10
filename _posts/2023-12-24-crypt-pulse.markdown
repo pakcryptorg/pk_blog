@@ -1,9 +1,16 @@
 ---
 layout: post
 title:  "Crypt Pulse"
-date:   2023-12-03 07:22:34 +0500
+date:   2024-01-03 07:22:34 +0500
 categories: pulse v1
 ---
+
+### Crypto Fix Needed: Glitch Found in Popular Security Algorithms ###
+*2023-12-03*
+![MagBackdoor]({{site.url}}/{{site.baseurl}}/assets/images/pulse/20240102_sha3_imp.gif)
+ **[This research](https://eprint.iacr.org/2023/331.pdf)** highlights the importance of constantly reviewing and improving these algorithms to ensure their robustness against potential attacks.
+The vulnerability identified by Nicky Mouha doesn't break the underlying algorithms, but rather exploits weaknesses in specific implementations. Think of it like finding a loose brick in a castle wall: it doesn't mean the entire castle is compromised, but it's definitely a security risk that needs to be addressed.
+Developers of software and services utilizing these algorithms are now working on implementing fixes to address the vulnerability. Users should make sure to keep their software up to date to benefit from these fixes. 
 
 ### The Discovery of Magnetic Backdoors ###
 *2023-12-03*

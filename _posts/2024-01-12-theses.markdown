@@ -5,14 +5,6 @@ date:   2024-01-03 07:22:34 +0500
 categories: theses v1
 ---
 
-@media (prefers-color-scheme: dark) {
-  body {
-    background-color: #2E2E2E;
-    color: #FFFFFF;
-    /* Other dark mode styles */
-  }
-}
-
 # Financial Assistance Program for Cryptology Thesis Projects
 
 We are pleased to announce a new program aimed at providing financial assistance to final year undergraduate (BE / BS) and graduate (MS) students in higher education institutions for their final year thesis projects related to cryptology. This initiative is designed to foster creativity, innovation, and a mathematical mindset among students interested in pursuing careers in cryptology.

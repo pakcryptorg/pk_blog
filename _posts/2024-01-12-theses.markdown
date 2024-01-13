@@ -8,7 +8,7 @@ categories: theses v1
 
 We are pleased to announce a new program aimed at providing financial assistance to final year undergraduate (BE / BS) and graduate (MS) students in higher education institutions for their final year thesis projects related to cryptology. This initiative is designed to foster creativity, innovation, and a mathematical mindset among students interested in pursuing careers in cryptology.
 
-![MagBackdoor]({{site.url}}/{{site.baseurl}}/assets/images/pulse/thesis.jpg)
+![Thesis]({{site.url}}/{{site.baseurl}}/assets/images/thesis.jpg)
 
 ## Eligibility Criteria
 

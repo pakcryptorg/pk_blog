@@ -6,7 +6,7 @@ categories: theses v1
 ---
 # Financial Assistance Program for Cryptology Thesis Projects
 
-We are pleased to announce a new program aimed at providing financial assistance to final year undergraduate and graduate (MS) students in higher education institutions for their final year thesis projects related to cryptology. This initiative is designed to foster creativity, innovation, and a mathematical mindset among students interested in pursuing careers in cryptology.
+We are pleased to announce a new program aimed at providing financial assistance to final year undergraduate (BE / BS) and graduate (MS) students in higher education institutions for their final year thesis projects related to cryptology. This initiative is designed to foster creativity, innovation, and a mathematical mindset among students interested in pursuing careers in cryptology.
 
 ## Eligibility Criteria
 
@@ -18,7 +18,7 @@ The first 30 approved project proposals will receive funding ranging from 100,00
 
 # Project Participation at Crypto Corner
 
-If you are interested in any of the projects listed on this page, please visit **CryptoCorner** at [nccs.pk](https://nccs.pk).
+If you are interested in any of the projects listed on this page, please visit Crypto Corner at [nccs.pk](https://nccs.pk).
 
 To express your interest, you are required to:
 
@@ -30,14 +30,63 @@ To express your interest, you are required to:
 
 We believe that this multi-step engagement process ensures commitment, clarity, and effective communication throughout the research collaboration.
  
+
 ---
 
+## Topic 3
+
+### Background:
+- Wide-trail strategy: This highly successful design principle ensures provable security bounds against linear and differential cryptanalysis in SPN (Substitution-Permutation Network) ciphers. Its focus lies in maximizing diffusion through linear layers and minimizing weight of differential trails.
+- Non-SPN ciphers: These ciphers employ diverse operations beyond substitutions and permutations, offering potential for resilience against evolving cryptanalytical techniques. However, designing non-SPN ciphers with provable security guarantees remains a challenge.
+Recent research trends (past 5 years):  
+- Sparx and LAX: These ARX-based ciphers (Addition, Rotation, Xor) utilize the "Long Trail Strategy" to achieve provably secure non-SPN designs. Long trails focus on large S-boxes with moderate diffusion, contrasting with the wide-trail approach.
+- Mixed ciphers: Combining SPN and non-SPN operations (e.g., PRESENT, SKINNY) demonstrates promising security features and performance enhancements. However, provable security analysis for such structures remains complex. 
+
+### Problem:
+Investigate and develop a design strategy for mixed ciphers that offers provable security bounds against advanced cryptanalytic attacks (e.g., integral cryptanalysis, boomerang attacks) by leveraging both wide-trail and long-trail principles.
+
+### Guideline:
+
+1. **Understand the basics**: Thoroughly analyze existing works on wide-trail strategy, long-trail strategy, mixed ciphers, and relevant cryptanalytic techniques. This informs your understanding of design principles, security vulnerabilities, and potential research gaps..
+
+2. **Formalize design strategy**: Define the specific mix of SPN and non-SPN operations you'll employ. Develop a clear framework for incorporating wide-trail and long-trail principles within the chosen mixed structure. 
+
+3. **Security Analysis**: TUtilize formal mathematical tools (e.g., Boolean functions, trails, differentials) to derive provable security bounds against targeted cryptanalytic attacks. This demonstrates the robustness of your proposed design strategy.
+
+4. **Implementation**: Implement your proposed cipher and compare its performance (e.g., encryption/decryption speed, memory footprint) with existing ciphers. This showcases the practicality and efficiency of your research.
+
+5. **validation**: Analyze the effectiveness of your security analysis by applying attack simulations on your implemented cipher. Compare your design with other mixed ciphers in terms of both security and performance.
+
+---
+
+## Topic 2
+
+### Description:
+Traditional methods for finding high-probability trails in ciphers can be computationally expensive and limited in scope. Deep learning models have shown potential in discovering complex trails with higher probabilities.
+In this project, you will develop a deep learning architecture that efficiently identifies high-probability trails for a specific cipher with better results compared to existing methods. 
+A distinguisher is a tool that can distinguish between a random permutation and a cryptographic algorithm. In this context, a machine learning-based distinguisher is a tool that uses machine learning techniques to distinguish between a random permutation and a cryptographic algorithm. Recent research has shown that machine learning-based distinguishers can be more efficient than traditional distinguishers 
+
+### Guideline:
+
+1. **Understand the basics**: Before you can design a machine learning-based distinguisher, you need to have a good understanding of the basics of differential cryptanalysis. You can start by reading [this paper](https://eprint.iacr.org/2020/913.pdf).
+
+2. **existing ML distinguishers**: You should study the existing machine learning-based distinguishers that have been proposed in recent research. 
+
+3. **Identify a suitable dataset**: To train a machine learning-based distinguisher, you need a suitable dataset. Luckily for this problem you can generate dataset by simulations.
+
+4. **Preprocess the dataset**: You need to preprocess it to make it suitable for training your model. This may involve tasks such as data cleaning, feature extraction, and normalization.
+
+5. **Train the machine learning model**: You can use a variety of machine learning algorithms to train your model, such as decision trees, random forests, and neural networks. You should experiment with different algorithms and hyperparameters to find the best model for your dataset.
+
+6. **Evaluate the performance **: You can do this by using metrics such as accuracy, precision, recall, and F1 score. You should also compare the performance of your model to that of existing distinguishers.
+
+---
 ## Topic 1
 
 ### Description:
 Investigate the feasibility and performance of implementing Simon's algorithm on a near-term quantum computer to break a specific class of block ciphers vulnerable to  differential attacks.
 
-### Step-by-Step Guideline:
+### Guideline:
 
 1. **Literature Review:**
    - Conduct an in-depth literature review on the current state of differential cryptanalysis, symmetric key ciphers, and existing quantum algorithms that could potentially accelerate such cryptanalysis.

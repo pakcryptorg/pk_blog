@@ -1,0 +1,66 @@
+---
+layout: post
+title:  "Thesis Projects"
+date:   2024-01-03 07:22:34 +0500
+categories: theses v1
+---
+# Financial Assistance Program for Cryptology Thesis Projects
+
+We are pleased to announce a new program aimed at providing financial assistance to final year undergraduate and graduate (MS) students in higher education institutions for their final year thesis projects related to cryptology. This initiative is designed to foster creativity, innovation, and a mathematical mindset among students interested in pursuing careers in cryptology.
+
+## Eligibility Criteria
+
+To be eligible for the program, students must be enrolled in a full-time undergraduate or graduate program.
+
+## Funding Details
+
+The first 30 approved project proposals will receive funding ranging from 100,000 to 200,000 depending on student engagement. This funding is primarily intended for students and for proof-of-concept (PoC).
+
+# Project Participation at Crypto Corner
+
+If you are interested in any of the projects listed on this page, please visit **CryptoCorner** at [nccs.pk](https://nccs.pk).
+
+To express your interest, you are required to:
+
+1. **Sign Up:** Visit Crypto Corner at [nccs.pk](https://nccs.pk) and complete the sign-up process.
+
+2. **Concept 1-Pager:** Write a one-page concept on a topic of your choice related to the project you're interested in.
+
+3. **Nominate a Focal Person:** Nominate a focal person from your university faculty with whom our team will interact to track the progress of your research.
+
+We believe that this multi-step engagement process ensures commitment, clarity, and effective communication throughout the research collaboration.
+ 
+---
+
+## Topic 1
+
+### Description:
+Investigate the feasibility and performance of implementing Simon's algorithm on a near-term quantum computer to break a specific class of block ciphers vulnerable to  differential attacks.
+
+### Step-by-Step Guideline:
+
+1. **Literature Review:**
+   - Conduct an in-depth literature review on the current state of differential cryptanalysis, symmetric key ciphers, and existing quantum algorithms that could potentially accelerate such cryptanalysis.
+   - Identify gaps or areas where quantum computing could bring significant improvements.
+
+2. **Select Symmetric Key Ciphers:**
+   - Choose a set of symmetric key ciphers for your analysis. Consider widely used algorithms like AES, DES, or other relevant ones.
+
+3. **Understand Differential Cryptanalysis:**
+   - Gain a solid understanding of traditional (non-quantum) differential cryptanalysis techniques for the selected ciphers.
+
+4. **Explore Quantum Algorithms:**
+   - Investigate existing quantum algorithms applicable to differential cryptanalysis. This may involve studying algorithms like Grover's algorithm and adapting them to the context of differential cryptanalysis.
+
+5. **Select Quantum Framework:**
+   - Choose a quantum computing framework for your implementation. Options include Cirq, Qiskit, ProjectQ, or Google TFQ. Select the one that aligns with your preferences and available resources.
+
+6. **Implement Quantum Differential Cryptanalysis:**
+   - Develop quantum algorithms for differential cryptanalysis within your chosen framework. Ensure that the implementation is accurate and efficient.
+
+7. **Simulations and Benchmarking:**
+   - Use the quantum framework to simulate the quantum algorithms and benchmark their performance against classical methods for the chosen symmetric key ciphers.
+
+8. **Quantum Circuit Optimization:**
+   - Optimize your quantum circuits to improve efficiency and reduce errors. Consider techniques such as circuit compilation and error mitigation.
+

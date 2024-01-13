@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Whitepapers"
-date:   2024-01-01 07:22:34 +0500
+date:   2024-01-02 07:22:34 +0500
 categories: whitepapers v1
 ---
 
 
 ### Zero Knowledge: Proof without Privacy Panic ###
-*2024-01-01*|
+*2024-01-02*|
 Imagine proving you're over 21 without flashing your ID. Sounds impossible, right? But with zero-knowledge, magic isn't required: just ingenious cryptography. This revolutionary concept is transforming how we prove things online, safeguarding our privacy while ensuring security.
 [PDF]({{site.url}}/{{site.baseurl}}/assets/whitepapers/zero-knowledge_authentication.pdf)
 

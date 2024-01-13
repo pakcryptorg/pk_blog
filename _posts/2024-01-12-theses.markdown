@@ -4,6 +4,15 @@ title:  "Thesis Projects"
 date:   2024-01-03 07:22:34 +0500
 categories: theses v1
 ---
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #2E2E2E;
+    color: #FFFFFF;
+    /* Other dark mode styles */
+  }
+}
+
 # Financial Assistance Program for Cryptology Thesis Projects
 
 We are pleased to announce a new program aimed at providing financial assistance to final year undergraduate (BE / BS) and graduate (MS) students in higher education institutions for their final year thesis projects related to cryptology. This initiative is designed to foster creativity, innovation, and a mathematical mindset among students interested in pursuing careers in cryptology.
@@ -18,7 +27,7 @@ To be eligible for the program, students must be enrolled in a full-time undergr
 
 The first 30 approved project proposals will receive funding ranging from 100,000 to 200,000 depending on student engagement. This funding is primarily intended for students and for proof-of-concept (PoC).
 
-# Project Participation at Crypto Corner
+# Register at Crypto Corner
 
 If you are interested in any of the projects listed on this page, please visit Crypto Corner at [nccs.pk](https://nccs.pk).
 

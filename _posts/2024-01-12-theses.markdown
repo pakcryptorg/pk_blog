@@ -146,6 +146,8 @@ Investigate the feasibility and performance of implementing Simon's algorithm on
    - Optimize your quantum circuits to improve efficiency and reduce errors. Consider techniques such as circuit compilation and error mitigation.
 
 ---
+---
+---
 
 ## Funding Details
 

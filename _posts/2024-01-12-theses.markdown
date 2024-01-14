@@ -155,25 +155,25 @@ If you are interested in any of the projects listed on this page, please follow 
 
 **Steps to Apply:**
 
-* **Concept 1-Pager:**
-    - Introduction: Briefly introduce the project, highlighting its importance and relevance.
-    - Objectives: Clearly state the goals and objectives of the project that you want to achieve.
-    - Timeline (6 Markers): Provide a timeline or schedule with at least 6 milestones/progress markers for the different phases of the project.
-    - Budget: If applicable, outline the estimated financial requirements for the project.
-        - **Note:** The funding provided is primarily allocated to support the student and is not tied to the overall project budget. The funding amount is contingent on the student's individual contribution to the research and development activities.
-    - References: Include 2-3 recent references to published work that are most relevant to this project.
+* **Concept Paper:**
+    - **Introduction**: Briefly introduce the project, highlighting its importance and relevance.
+    - **Objectives**: Clearly state the goals and objectives of the project that you want to achieve.
+    - **Timeline (6 Markers)**: Provide a timeline or schedule with at least 6 milestones/progress markers for the different phases of the project.
+    - **Budget**: If applicable, outline the estimated financial requirements for the project.
+        - Note that the funding provided is primarily allocated to support the student and is not tied to the overall project budget. 
+    - **References**: Include 2-3 recent references to published work that are most relevant to this project.
 
 * **Nominate a Focal Person:**
     - Nominate a focal person from your university faculty with whom our team will interact to track the progress of your research.
         - Ideally, the focal person should be the Head of Department.
         - Alternatively, they may also be a full-time faculty member (minimum rank of Assistant Professor) or an officer from the university’s management.
-    - Responsibilities of the focal person:
-        - Verify student data.
-        - Ensure timely execution of the project.
-        - Facilitate disbursements of funds received from the funding agency (NCCS) to the student.
+    - **Responsibilities of the focal person**:
+        - Authenticate student identities, review records and eligibility.
+        - Supervise / Ensure timely execution of the project.
+        - Facilitate disbursements of project funds to the students.
 
 * **Sign Up:**
-    - Fill in the [Request Form](https://bit.ly/pakcryptsfund) and complete the sign-up process.
+    - Fill in the [Request Form](https://bit.ly/pakcryptsfund).
 
 
 We believe that this multi-step engagement process ensures commitment, clarity, and effective communication throughout the research collaboration. 

@@ -149,13 +149,11 @@ Investigate the feasibility and performance of implementing Simon's algorithm on
 
 The approved project proposals will receive funding ranging from 100,000 to 200,000 depending on student engagement. This funding is a token of appreciation primarily intended to encourage cutting-edge research.
 
-# Register Your Project
+If you are interested in any of the projects listed on this page, please follow these three steps:
 
-If you are interested in any of the projects listed on this page, please follow these steps:
+### 3 Steps
 
-**Steps to Apply:**
-
-* **Concept Paper:**
+1. **Concept Paper:**
     - **Introduction**: Briefly introduce the project, highlighting its importance and relevance.
     - **Objectives**: Clearly state the goals and objectives of the project that you want to achieve.
     - **Timeline (6 Markers)**: Provide a timeline or schedule with at least 6 milestones/progress markers for the different phases of the project.
@@ -163,7 +161,7 @@ If you are interested in any of the projects listed on this page, please follow 
         - Note that the funding provided is primarily allocated to support the student and is not tied to the overall project budget. 
     - **References**: Include 2-3 recent references to published work that are most relevant to this project.
 
-* **Nominate a Focal Person:**
+2. **Nominate a Focal Person:**
     - Nominate a focal person from your university faculty with whom our team will interact to track the progress of your research.
         - Ideally, the focal person should be the Head of Department.
         - Alternatively, they may also be a full-time faculty member (minimum rank of Assistant Professor) or an officer from the university’s management.
@@ -172,7 +170,7 @@ If you are interested in any of the projects listed on this page, please follow 
         - Supervise / Ensure timely execution of the project.
         - Facilitate disbursements of project funds to the students.
 
-* **Sign Up:**
+3. **Sign Up:**
     - Fill in the [Request Form](https://bit.ly/pakcryptsfund).
 
 

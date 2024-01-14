@@ -13,7 +13,7 @@ We are pleased to announce a new program aimed at providing financial assistance
 
 ## Eligibility Criteria
 
-To be eligible for the program, students must be enrolled in a full-time undergraduate or graduate program. Funding details can be found at the bottom of this page.
+To be eligible for the program, students must be enrolled in a full-time undergraduate or graduate program. Further details can be found at the [bottom](#lastsec) of this page.
 
 
 ---
@@ -145,13 +145,12 @@ Investigate the feasibility and performance of implementing Simon's algorithm on
 8. **Quantum Circuit Optimization:**
    - Optimize your quantum circuits to improve efficiency and reduce errors. Consider techniques such as circuit compilation and error mitigation.
 
----
+
 ![Thesis]({{site.url}}/{{site.baseurl}}/assets/images/theses2.png)
 
+## How to Apply for Funding ? <a id="lastsec"></a>
 
-## Funding Details
-
-The first 30 approved project proposals will receive funding ranging from 100,000 to 200,000 depending on student engagement. This funding is primarily intended for students and for proof-of-concept (PoC).
+The approved project proposals will receive funding ranging from 100,000 to 200,000 depending on student engagement. This funding is a token of appreciation primarily intended to encourage cutting-edge research.
 
 # Register Your Project
 

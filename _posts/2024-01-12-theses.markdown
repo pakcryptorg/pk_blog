@@ -8,15 +8,11 @@ categories: theses v1
 # Financial Assistance Program for Cryptology Thesis Projects
 
 We are pleased to announce a new program aimed at providing financial assistance to final year undergraduate (BE / BS) and graduate (MS) students in higher education institutions for their final year thesis projects related to cryptology. This initiative is designed to foster creativity, innovation, and a mathematical mindset among students interested in pursuing careers in cryptology.
+**Eligibility Criteria**
+To be eligible for the program, students must be enrolled in a full-time undergraduate or graduate program. Further details can be found at the [bottom](#lastsec) of this page.
 
 ![Thesis]({{site.url}}/{{site.baseurl}}/assets/images/theses1.jpg)
 
-## Eligibility Criteria
-
-To be eligible for the program, students must be enrolled in a full-time undergraduate or graduate program. Further details can be found at the [bottom](#lastsec) of this page.
-
-
----
 ## Topic 5 
 Protocol R&D
 ### Description:

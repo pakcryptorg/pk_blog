@@ -5,6 +5,13 @@ date:   2024-01-03 07:22:34 +0500
 categories: pulse v1
 ---
 
+### Decoding Starlink: Can SpaceX's satellites power a new GPS? ###
+*2023-12-03*
+![MagBackdoor]({{site.url}}/{{site.baseurl}}/assets/images/pulse/20240102_sha3_imp.gif)
+ A team of researchers has cracked the code of SpaceX's Starlink satellites, potentially paving the way for a new, independent navigation system. But is it too good to be true?
+  GPS has become our go-to for everything from finding our way home to tracking our workouts. But what if there was another option, one that wasn't controlled by a single country? That's the dream of a team of researchers who have managed to **[reverse-engineer the signals from SpaceX's Starlink constellation](https://arxiv.org/abs/2210.11578)**, turning them into a makeshift navigation system, 
+  as **[MIT Tech review](https://www.technologyreview.com/2022/10/21/1062001/spacex-starlink-signals-reverse-engineered-gps/)** rightly highlighted it. 
+
 ### Crypto Fix Needed: Glitch Found in Popular Security Algorithms ###
 *2023-12-03*
 ![MagBackdoor]({{site.url}}/{{site.baseurl}}/assets/images/pulse/20240102_sha3_imp.gif)

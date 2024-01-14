@@ -5,13 +5,6 @@ date:   2024-01-03 07:22:34 +0500
 categories: pulse v1
 ---
 
-### Decoding Starlink: Can SpaceX's satellites power a new GPS? ###
-*2023-12-03*
-![MagBackdoor]({{site.url}}/{{site.baseurl}}/assets/images/pulse/20221021 starlink_gnss.jpg)
- A team of researchers has cracked the code of SpaceX's Starlink satellites, potentially paving the way for a new, independent navigation system. But is it too good to be true?
-  GPS has become our go-to for everything from finding our way home to tracking our workouts. But what if there was another option, one that wasn't controlled by a single country? That's the dream of a team of researchers who have managed to **[reverse-engineer the signals from SpaceX's Starlink constellation](https://arxiv.org/abs/2210.11578)**, turning them into a makeshift navigation system, 
-  as **[MIT Tech review](https://www.technologyreview.com/2022/10/21/1062001/spacex-starlink-signals-reverse-engineered-gps/)** rightly highlighted it. 
-
 ### Crypto Fix Needed: Glitch Found in Popular Security Algorithms ###
 *2023-12-03*
 ![MagBackdoor]({{site.url}}/{{site.baseurl}}/assets/images/pulse/20240102_sha3_imp.gif)
@@ -45,6 +38,14 @@ The researchers discovered that the very element that keeps us in sync *the cloc
  A groundbreaking discovery has been made. Researchers have unveiled a silent threat lurking in the shadows of Secure Shell (SSH) key security. A paper published in CCS23, titled **[Passive SSH Key Compromise via Lattices](https://eprint.iacr.org/2023/1711.pdf)**, reveals that a passive network attacker can opportunistically obtain private RSA host keys from an SSH server that experiences a naturally arising fault during signature computation. 
 The paper shows that for the signature parameters commonly in use for SSH, there is an efficient lattice attack to recover the private key in case of a signature fault.
 The paper provides a security analysis of the SSH, IKEv1, and IKEv2 protocols in this scenario, and uses the attack to discover hundreds of compromised keys in the wild from several independently vulnerable implementations.
+
+### Decoding Starlink: Can SpaceX's satellites power a new GPS? ###
+*2022-10-21*
+![MagBackdoor]({{site.url}}/{{site.baseurl}}/assets/images/pulse/20221021 starlink_gnss.jpg)
+ A team of researchers has cracked the code of SpaceX's Starlink satellites, potentially paving the way for a new, independent navigation system. But is it too good to be true?
+  GPS has become our go-to for everything from finding our way home to tracking our workouts. But what if there was another option, one that wasn't controlled by a single country? That's the dream of a team of researchers who have managed to **[reverse-engineer the signals from SpaceX's Starlink constellation](https://arxiv.org/abs/2210.11578)**, turning them into a makeshift navigation system, 
+  as **[MIT Tech review](https://www.technologyreview.com/2022/10/21/1062001/spacex-starlink-signals-reverse-engineered-gps/)** rightly highlighted it. 
+
 
 ### How a Weekend Laptop Session Broke the Rainbow ###
 *2022-06-21*

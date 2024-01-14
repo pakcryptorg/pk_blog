@@ -9,7 +9,7 @@ categories: theses v1
 
 We are pleased to announce a new program aimed at providing financial assistance to final year undergraduate (BE / BS) and graduate (MS) students in higher education institutions for their final year thesis projects related to cryptology. This initiative is designed to foster creativity, innovation, and a mathematical mindset among students interested in pursuing careers in cryptology.
 
-![Thesis]({{site.url}}/{{site.baseurl}}/assets/images/theses.jpg)
+![Thesis]({{site.url}}/{{site.baseurl}}/assets/images/theses1.jpg)
 
 ## Eligibility Criteria
 
@@ -146,8 +146,8 @@ Investigate the feasibility and performance of implementing Simon's algorithm on
    - Optimize your quantum circuits to improve efficiency and reduce errors. Consider techniques such as circuit compilation and error mitigation.
 
 ---
----
----
+![Thesis]({{site.url}}/{{site.baseurl}}/assets/images/theses2.png)
+
 
 ## Funding Details
 

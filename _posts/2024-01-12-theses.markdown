@@ -19,20 +19,23 @@ To be eligible for the program, students must be enrolled in a full-time undergr
 
 The first 30 approved project proposals will receive funding ranging from 100,000 to 200,000 depending on student engagement. This funding is primarily intended for students and for proof-of-concept (PoC).
 
-# Register at Crypto Corner
+# Register Your Project
 
-If you are interested in any of the projects listed on this page, please visit Crypto Corner at [nccs.pk](https://nccs.pk).
+If you are interested in any of the projects listed on this page, please follow these steps:
 
-To express your interest, you are required to:
-
-1. **Sign Up:** Visit Crypto Corner at [nccs.pk](https://nccs.pk) and complete the sign-up process.
-
-2. **Concept 1-Pager:** Write a one-page concept on a topic of your choice related to the project you're interested in.
-
-3. **Nominate a Focal Person:** Nominate a focal person from your university faculty with whom our team will interact to track the progress of your research.
+1. **Concept 1-Pager:** Write a short "Project Concept Paper" on a topic of your choice related to the project you're interested in. Format is as follows:
+   -Introduction: Briefly introduce the project, highlighting its importance and relevance.
+   -Objectives: Clearly state the goals and objectives of the project that you want to achieve.
+   -Timeline (6 Markers): Provide a timeline or schedule with at least 6 milestones / progress markers for the different phases of the project.
+   -Budget: If applicable, outline the estimated financial requirements for the project. (It's important to note that the funding we provide is primarily allocated to support the student and is not tied to the overall project budget. The funding amount is contingent on the student's individual contribution to the research and development activities.)
+   -References: Include 2-3 recent references to published work that are most relevant to this project.
+2. **Nominate a Focal Person:** Nominate a focal person from your university faculty with whom our team will interact to track the progress of your research.
+   -Ideally, the focal person should be the Head of Department, but alternatively, they may also be a full-time faculty member (minimum rank of Assistant Professor) or an officer from the university's management.
+   -The focal person shall be responsible to verify the student data, ensure timely execution of project, and facilitate in disbursements of funds received from funding agency (NCCS) to student.
+1. **Sign Up:** Fill in [Request Form](https://forms.gle/cMb7boH6PJdgcmGk8) and complete the sign-up process.
 
 We believe that this multi-step engagement process ensures commitment, clarity, and effective communication throughout the research collaboration. 
-Please [reach us](team@pakcrypt.org) if you didn't get reply within 7 days. 
+Please [reach us](team@pakcrypt.org) if you didn't get reply within 15 days. 
  
 
 ---

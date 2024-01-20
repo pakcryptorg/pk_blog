@@ -5,6 +5,11 @@ date:   2024-01-04 07:22:34 +0500
 categories: whitepapers v1
 ---
 
+### Trust on Electronic Voting Machine ###
+*2024-01-17*|
+Electronic voting machines (EVMs) are devices that allow voters to cast their ballots electronically, without the need for paper ballots or manual counting. EVMs have been widely adopted in many countries, especially in India. EVMs have several advantages, such as faster results, reduced human errors, and improved accessibility. However, EVMs also pose significant risks that could compromise the integrity of the electoral process. 
+[PDF]({{site.url}}/{{site.baseurl}}/assets/whitepapers/trust_on_voting_machine.pdf)
+
 ### The StarShield Program ###
 *2024-01-04*|
 StarShield represents a paradigm shift in space-based communication, offering unbreakable security, 

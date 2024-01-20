@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Whitepapers"
-date:   2024-01-04 07:22:34 +0500
+date:   2024-01-17 07:22:34 +0500
 categories: whitepapers v1
 ---
 

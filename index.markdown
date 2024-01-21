@@ -17,3 +17,33 @@ src="https://www.youtube.com/embed/BBCtAYk64ZE?si=bwVpXA3C6ex9B4YM" title="YouTu
    iframe.height = iframe.contentWindow.document.body.scrollHeight;
 </script>
 
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feedback Button</title>
+    <style>
+        /* Style for the button */
+        .feedback-button {
+            display: inline-block;
+            padding: 10px 20px;
+            font-size: 16px;
+            font-weight: bold;
+            text-align: center;
+            text-decoration: none;
+            background-color: #3498db;
+            color: #ffffff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+
+<!-- Feedback Button -->
+<a href="https://bit.ly/fbpakcrypt" class="feedback-button" target="_blank">Feedback</a>
+
+</body>
+</html>

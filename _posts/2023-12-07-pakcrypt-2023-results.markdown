@@ -16,3 +16,36 @@ permalink: ./comp
 ![ProWinner]({{site.url}}/{{site.baseurl}}/assets/images/pro_win.jpg)
 
 ![AllWinners]({{site.url}}/{{site.baseurl}}/assets/images/allwinners.jpg)
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Jekyll Site</title>
+    <style>
+        /* Style for the button */
+        .feedback-button {
+            display: block; /* Change to block to make it a block element and start on a new line */
+            margin-bottom: 15px; /* Add some space below the button */
+            padding: 10px 20px;
+            font-size: 16px;
+            font-weight: bold;
+            text-align: center;
+            text-decoration: none;
+            background-color: #3498db;
+            color: #ffffff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+
+<!-- Feedback Button -->
+<a href="https://bit.ly/fbpakcrypt" class="feedback-button" target="_blank">Quick Feedback</a>
+
+<!-- Your other Jekyll content goes here -->
+
+</body>
+</html>

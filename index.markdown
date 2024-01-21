@@ -18,7 +18,6 @@ src="https://www.youtube.com/embed/BBCtAYk64ZE?si=bwVpXA3C6ex9B4YM" title="YouTu
 </script>
 
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -45,7 +44,7 @@ src="https://www.youtube.com/embed/BBCtAYk64ZE?si=bwVpXA3C6ex9B4YM" title="YouTu
 <body>
 
 <!-- Feedback Button -->
-<a href="https://bit.ly/fbpakcrypt" class="feedback-button" target="_blank">Feedback</a>
+<a href="https://bit.ly/fbpakcrypt" class="feedback-button" target="_blank">Give Feedback to PakCrypt Team</a>
 
 <!-- Your other Jekyll content goes here -->
 

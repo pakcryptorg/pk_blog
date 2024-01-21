@@ -3,6 +3,7 @@ layout: post
 title:  "Thesis Projects"
 date:   2024-01-03 07:22:34 +0500
 categories: theses v1
+permalink: ./theses
 ---
 
 # Financial Assistance Program for Cryptology Thesis Projects

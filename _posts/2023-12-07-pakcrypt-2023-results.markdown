@@ -3,6 +3,7 @@ layout: post
 title:  "PakCrypt Competitions"
 date:   2023-12-07 21:22:34 +0500
 categories: comp update
+permalink: ./comp
 ---
 ### Huge *Congratulations* to all the Finalists and Winners
 

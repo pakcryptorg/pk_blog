@@ -3,6 +3,7 @@ layout: post
 title:  "Crypt Pulse"
 date:   2024-01-03 07:22:34 +0500
 categories: pulse v1
+permalink: ./pulse
 ---
 
 ### Crypto Fix Needed: Glitch Found in Popular Security Algorithms ###

@@ -3,6 +3,7 @@ layout: post
 title:  "Whitepapers"
 date:   2024-01-18 07:22:34 +0500
 categories: whitepapers v1
+permalink: ./wp
 ---
 
 ### Aging of AES (Encryption Standard) ###

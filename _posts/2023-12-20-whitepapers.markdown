@@ -1,9 +1,15 @@
 ---
 layout: post
 title:  "Whitepapers"
-date:   2024-01-17 07:22:34 +0500
+date:   2024-01-18 07:22:34 +0500
 categories: whitepapers v1
 ---
+
+### Aging of AES (Encryption Standard) ###
+*2024-01-18*|
+AES encryption is one of the most widely trusted methods of protecting data. It was adopted by the U.S. Gov in 2001. AES is a symmetric-key algorithm that uses the same key (up to 256-bit) for both encryption and decryption.
+But how secure is AES encryption in practice? Can it withstand attacks from hackers and adversaries who want to break into our systems and steal our secrets? Read the whitepaper: 
+[PDF]({{site.url}}/{{site.baseurl}}/assets/whitepapers/aging_of_aes.pdf)
 
 ### Trust on Electronic Voting Machine ###
 *2024-01-17*|

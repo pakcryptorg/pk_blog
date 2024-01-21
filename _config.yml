@@ -22,42 +22,9 @@ title: PakCrypt.Org
 email: team@pakcrypt.org
 description: >- # this means to ignore newlines until "baseurl:"
  PakCrypt is a platform that aims to promote the field of cryptography and
-  its applications in Pakistan. It organizes an annual competition called 
-  PakCrypt Competition, which is a multi-round challenge that tests the skills and 
-  knowledge of young talent in cryptography. 
-  <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Jekyll Site</title>
-    <style>
-        /* Style for the button */
-        .feedback-button {
-            display: block; /* Change to block to make it a block element and start on a new line */
-            margin-bottom: 15px; /* Add some space below the button */
-            padding: 10px 20px;
-            font-size: 16px;
-            font-weight: bold;
-            text-align: center;
-            text-decoration: none;
-            background-color: #3498db;
-            color: #ffffff;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-        }
-    </style>
-</head>
-<body>
-
-<!-- Feedback Button -->
-<a href="https://bit.ly/fbpakcrypt" class="feedback-button" target="_blank">Quick Feedback</a>
-
-<!-- Your other Jekyll content goes here -->
-
-</body>
-</html>
-
+  its applications. It organizes an annual competition called 
+  PakCrypt Competition, which is a multi-track challenge that tests the skills and 
+  knowledge in math and cryptography. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pakcrypt.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: PakCryptOrg

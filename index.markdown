@@ -18,15 +18,17 @@ src="https://www.youtube.com/embed/BBCtAYk64ZE?si=bwVpXA3C6ex9B4YM" title="YouTu
 </script>
 
 
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Feedback Button</title>
+    <title>Your Jekyll Site</title>
     <style>
         /* Style for the button */
         .feedback-button {
-            display: inline-block;
+            display: block; /* Change to block to make it a block element and start on a new line */
+            margin-bottom: 15px; /* Add some space below the button */
             padding: 10px 20px;
             font-size: 16px;
             font-weight: bold;
@@ -44,6 +46,8 @@ src="https://www.youtube.com/embed/BBCtAYk64ZE?si=bwVpXA3C6ex9B4YM" title="YouTu
 
 <!-- Feedback Button -->
 <a href="https://bit.ly/fbpakcrypt" class="feedback-button" target="_blank">Feedback</a>
+
+<!-- Your other Jekyll content goes here -->
 
 </body>
 </html>

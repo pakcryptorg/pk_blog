@@ -15,6 +15,32 @@ To be eligible for the program, students must be enrolled in a full-time undergr
 
 ![Thesis]({{site.url}}/{{site.baseurl}}/assets/images/theses1.jpg)
 
+## Topic 6 
+Risk Management
+
+### Description:
+The rapid growth of mega-constellations in low Earth orbit (LEO) poses a serious threat to the space environment and national interests. The goal of this project is to conduct a comprehensive risk assessment, analysis, and identification for mega-constellations in LEO, and to propose effective and feasible risk management strategies and solutions. The project will focus on the current and future scenarios of mega-constellation deployment and operation, and will consider the technical, legal, economic, national sovereignty and cyber security of the problem.
+
+### Guideline:
+
+1. **Understand Target Domain**:
+First, you need to understand what mega-constellations in LEO. 
+- **Starlink**, operated by the American company SpaceX, which plans to launch up to 42,000 satellites in LEO to provide global Internet service.
+- **OneWeb**, a British company that aims to deploy about 6,400 satellites in LEO to offer high-speed Internet access to remote areas.
+- **Iridium Next**, a constellation of 66 satellites in LEO that replaced the original Iridium constellation and provides satellite telephony and data services.
+- **Globalstar**, a constellation of 48 satellites in LEO that offers voice and data communication services, as well as satellite-based tracking and messaging devices.
+- **Flock**, a constellation of small satellites operated by the American company Planet Labs, which provides high-resolution Earth imagery and analytics.
+
+2. **Identify Relevant Risks**:
+Second you need to understand why they pose a risk to the space environment, other satellites, national sovereignty, and in particular to cyber security. 
+You need to identify the main sources and types of risks associated with mega-constellations in LEO, such as collision, debris, interference, regulation, and cybersecurity. You can use a risk identification framework, to help you categorize and prioritize the risks based on their likelihood and impact.
+ 
+ 1. **Analyize Risks**:
+ Third, you need to analyze the risks and assess their potential consequences and mitigation strategies. You can use a risk analysis tool, to help you quantify and visualize the risks and their interdependencies. You can also use a risk assessment matrix to help you evaluate the risks and decide how to respond to them.
+
+1. **Communicate Risks**:
+Fourth, you need to communicate the risks and your recommendations to the stakeholders and decision-makers of your project. You can use a risk report template to help you structure and present your findings and suggestions in a clear and concise way.
+
 ## Topic 5 
 Protocol R&D
 ### Description:

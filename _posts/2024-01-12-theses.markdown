@@ -41,6 +41,8 @@ You need to identify the main sources and types of risks associated with mega-co
 1. **Communicate Risks**:
 Fourth, you need to communicate the risks and your recommendations to the stakeholders and decision-makers of your project. You can use a risk report template to help you structure and present your findings and suggestions in a clear and concise way.
 
+---
+
 ## Topic 5 
 Protocol R&D
 ### Description:

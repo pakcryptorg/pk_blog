@@ -6,7 +6,7 @@ layout: home
 title: Pakistan Cryptography Organization
 ---
 
-![PakCrypt](.{{site.baseurl}}/assets/images/landing5.jpg)
+![PakCrypt](.{{site.baseurl}}/assets/images/landing6.jpg)
 
 > "If you're worried about someone factoring large numbers, then you've got much bigger problems to worry about." - **Martin Hellman**
 <iframe id="myiframe"

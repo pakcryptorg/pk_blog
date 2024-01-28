@@ -1,10 +1,17 @@
 ---
 layout: post
 title:  "Whitepapers"
-date:   2024-01-18 07:22:34 +0500
+date:   2024-01-25 07:22:34 +0500
 categories: whitepapers v1
 permalink: ./wp
 ---
+
+
+### Speed Optimization of AES Function ###
+*2024-01-25*|
+AES is a widely used symmetric encryption algorithm standardized by NIST. Algorithmic optimization involves refining the mathematical operations and structures of the AES algorithm to enhance its speed and resource efficiency.
+Focusing more on algorithmic aspects (cf. hardware-specific optimizations), we can ensure consistent performance across diverse computing environments, ranging from embedded systems to high-performance computing clusters. Read the whitepaper:
+[PDF]({{site.url}}/{{site.baseurl}}/assets/whitepapers/algo_optmz_aes.pdf)
 
 ### Aging of AES (Encryption Standard) ###
 *2024-01-18*|

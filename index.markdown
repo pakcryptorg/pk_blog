@@ -6,7 +6,7 @@ layout: home
 title: Pakistan Cryptography Organization
 ---
 
-![PakCrypt](.{{site.baseurl}}/assets/images/landing12c.png)
+![PakCrypt](.{{site.baseurl}}/assets/images/landing13a.png)
 
 > "We see patterns where others see random data." - **Rubi Noma**
 <iframe id="myiframe"

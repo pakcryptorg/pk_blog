@@ -18,7 +18,6 @@ To be eligible for the program, students must be enrolled in a full-time undergr
 # Project 7: Multi-Platform Virtual Machine for Cryptography and Security 
 Type: Security Software 
 
-<details closed>
 ## Abstract
 
 This project aims to develop a portable virtual machine capable of executing ciphers and security-sensitive code across various operating systems (Linux, Windows, Mac, etc.) without recompilation. This virtual machine will offer several advantages, including:
@@ -35,21 +34,10 @@ This project aims to develop a portable virtual machine capable of executing cip
 * **Security Sandbox:** Implement features to create a hardened environment for running untrusted code, including memory isolation, privilege control, and runtime monitoring.
 * **User Interface and APIs:** Develop user-friendly interfaces and APIs for interacting with the virtual machine, simplifying its use for developers and security professionals.
 
-## Expected Outcomes
-
-* **Functional Virtual Machine:** A fully functional virtual machine capable of running ciphers and security code on multiple platforms.
-* **Dynamic Code Loading:** Upload and execute new code without recompilation, increasing flexibility.
-* **Secure Sandbox:** Secure environment for running untrusted code, mitigating security risks.
-* **Comprehensive Documentation:** Thorough documentation of the project, including design, implementation, and usage instructions.
-* **Successful Thesis Defense:** Presentation and defense of the project for the master's degree.
-
 ## Additional Notes
 
 * This project requires strong skills in computer architecture, system programming, cryptography, and security principles.
 * Consider open-source virtual machine platforms like QEMU or WebAssembly for potential integration or adaptation.
-* Thorough security testing and analysis are crucial throughout the development process.
-* Be mindful of legal and ethical considerations regarding the use of cryptographic tools and security software.
-</details>
 
 ---
 ## Topic 6 

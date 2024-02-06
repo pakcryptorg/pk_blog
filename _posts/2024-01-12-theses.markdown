@@ -18,26 +18,13 @@ To be eligible for the program, students must be enrolled in a full-time undergr
 # Project 7: Multi-Platform Virtual Machine for Cryptography and Security 
 Type: Security Software 
 
-## Abstract
+## Description
 
 This project aims to develop a portable virtual machine capable of executing ciphers and security-sensitive code across various operating systems (Linux, Windows, Mac, etc.) without recompilation. This virtual machine will offer several advantages, including:
 
 * **Platform Independence:** Execute the same code on different platforms, simplifying development and deployment.
 * **Dynamic Code Loading:** Upload new ciphers and security code without recompiling the entire virtual machine, increasing flexibility and adaptability.
 * **Hardened Environment:** Provide a secure sandbox for executing untrusted code, enhancing security and isolation.
-
-## Project Description
-
-* **Design and Implement Virtual Machine:** Develop a virtual machine architecture capable of efficiently executing cryptographic algorithms and handling security-related tasks.
-* **Cross-Platform Functionality:** Ensure the virtual machine operates seamlessly across multiple operating systems, potentially utilizing existing platforms like LLVM or WebAssembly.
-* **Dynamic Code Loading Mechanism:** Design and implement a system for uploading and executing new cipher code without requiring recompilation of the virtual machine.
-* **Security Sandbox:** Implement features to create a hardened environment for running untrusted code, including memory isolation, privilege control, and runtime monitoring.
-* **User Interface and APIs:** Develop user-friendly interfaces and APIs for interacting with the virtual machine, simplifying its use for developers and security professionals.
-
-## Additional Notes
-
-* This project requires strong skills in computer architecture, system programming, cryptography, and security principles.
-* Consider open-source virtual machine platforms like QEMU or WebAssembly for potential integration or adaptation.
 
 ---
 ## Topic 6 

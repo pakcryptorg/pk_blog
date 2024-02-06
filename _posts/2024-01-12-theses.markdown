@@ -15,7 +15,7 @@ To be eligible for the program, students must be enrolled in a full-time undergr
 
 ![Thesis]({{site.url}}/{{site.baseurl}}/assets/images/theses1.jpg)
 ---
-# Project 7: Multi-Platform Virtual Machine for Cryptography and Security [^](#full-content)
+# Project 7: Multi-Platform Virtual Machine for Cryptography and Security 
 Type: Security Software 
 
 <details closed>
@@ -49,9 +49,7 @@ This project aims to develop a portable virtual machine capable of executing cip
 * Consider open-source virtual machine platforms like QEMU or WebAssembly for potential integration or adaptation.
 * Thorough security testing and analysis are crucial throughout the development process.
 * Be mindful of legal and ethical considerations regarding the use of cryptographic tools and security software.
-...</details>
-
-[^]: #full-content
+</details>
 
 ---
 ## Topic 6 

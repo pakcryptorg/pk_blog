@@ -8,13 +8,47 @@ permalink: ./theses
 
 # Financial Assistance Program for Cryptology Thesis Projects
 
-We are pleased to announce a new program aimed at providing financial assistance to final year undergraduate (BE / BS) and graduate (MS) students in higher education institutions for their final year thesis projects related to cryptology. This initiative is designed to foster creativity, innovation, and a mathematical mindset among students interested in pursuing careers in cryptology.
+We are pleased to announce a new program aimed at providing financial assistance (up to Rs. 200K) to final year undergraduate (BE / BS) and graduate (MS) students in higher education institutions for their final year thesis projects related to cryptology. This initiative is designed to foster creativity, innovation, and a mathematical mindset among students interested in pursuing careers in cryptology.
 
 ### Eligibility Criteria
 To be eligible for the program, students must be enrolled in a full-time undergraduate or graduate program. Further details can be found at the [bottom](#lastsec) of this page.
 
 ![Thesis]({{site.url}}/{{site.baseurl}}/assets/images/theses1.jpg)
+---
+# Project 7: Multi-Platform Virtual Machine for Cryptography and Security
+Security Software 
+## Abstract
 
+This project aims to develop a portable virtual machine capable of executing ciphers and security-sensitive code across various operating systems (Linux, Windows, Mac, etc.) without recompilation. This virtual machine will offer several advantages, including:
+
+* **Platform Independence:** Execute the same code on different platforms, simplifying development and deployment.
+* **Dynamic Code Loading:** Upload new ciphers and security code without recompiling the entire virtual machine, increasing flexibility and adaptability.
+* **Hardened Environment:** Provide a secure sandbox for executing untrusted code, enhancing security and isolation.
+
+## Project Description
+
+* **Design and Implement Virtual Machine:** Develop a virtual machine architecture capable of efficiently executing cryptographic algorithms and handling security-related tasks.
+* **Cross-Platform Functionality:** Ensure the virtual machine operates seamlessly across multiple operating systems, potentially utilizing existing platforms like LLVM or WebAssembly.
+* **Dynamic Code Loading Mechanism:** Design and implement a system for uploading and executing new cipher code without requiring recompilation of the virtual machine.
+* **Security Sandbox:** Implement features to create a hardened environment for running untrusted code, including memory isolation, privilege control, and runtime monitoring.
+* **User Interface and APIs:** Develop user-friendly interfaces and APIs for interacting with the virtual machine, simplifying its use for developers and security professionals.
+
+## Expected Outcomes
+
+* **Functional Virtual Machine:** A fully functional virtual machine capable of running ciphers and security code on multiple platforms.
+* **Dynamic Code Loading:** Upload and execute new code without recompilation, increasing flexibility.
+* **Secure Sandbox:** Secure environment for running untrusted code, mitigating security risks.
+* **Comprehensive Documentation:** Thorough documentation of the project, including design, implementation, and usage instructions.
+* **Successful Thesis Defense:** Presentation and defense of the project for the master's degree.
+
+## Additional Notes
+
+* This project requires strong skills in computer architecture, system programming, cryptography, and security principles.
+* Consider open-source virtual machine platforms like QEMU or WebAssembly for potential integration or adaptation.
+* Thorough security testing and analysis are crucial throughout the development process.
+* Be mindful of legal and ethical considerations regarding the use of cryptographic tools and security software.
+
+---
 ## Topic 6 
 Risk Management
 
@@ -176,7 +210,7 @@ Investigate the feasibility and performance of implementing Simon's algorithm on
 
 ## How to Apply for Funding ? <a id="lastsec"></a>
 
-The approved project proposals will receive funding ranging from 100,000 to 200,000 depending on student engagement. This funding is a token of appreciation primarily intended to encourage cutting-edge research.
+The approved project proposals will receive funding up to Rs. 200K / project in total. This funding is a token of appreciation primarily intended to encourage cutting-edge research.
 
 If you are interested in any of the projects listed on this page, please follow these three steps:
 

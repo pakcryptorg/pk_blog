@@ -1,10 +1,17 @@
 ---
 layout: post
 title:  "Whitepapers"
-date:   2024-01-31 07:22:34 +0500
+date:   2024-02-02 07:22:34 +0500
 categories: whitepapers v1
 permalink: ./wp
 ---
+
+
+
+### When the Stars Fall: Starlink’s Apocalypse ###
+*2024-02-02*|
+If the Starlink constellation were to be compromised and fall into the hands of rogue elements, the repercussions would be far-reaching. Imagine a network of thousands of interconnected satellites, designed to provide global internet coverage, suddenly under the control of malicious actors. Here’s what might unfold:
+[PDF]({{site.url}}/{{site.baseurl}}/assets/whitepapers/wislgh.pdf)
 
 
 ### Understand the Cyber Warfare (CW) Concepts ###

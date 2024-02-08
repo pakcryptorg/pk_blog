@@ -15,7 +15,7 @@ To be eligible for the program, students must be enrolled in a full-time undergr
 
 ![Thesis]({{site.url}}/{{site.baseurl}}/assets/images/theses1.jpg)
 ---
-# Project 7: Multi-Platform Virtual Machine for Cryptography and Security 
+# Project 7: Multi-Platform VM for Crypto Lib
 Type: Security Software 
 
 ## Description

@@ -1,10 +1,16 @@
 ---
 layout: post
 title:  "Whitepapers"
-date:   2024-01-25 07:22:34 +0500
+date:   2024-01-31 07:22:34 +0500
 categories: whitepapers v1
 permalink: ./wp
 ---
+
+
+### Speed Optimization of AES Function ###
+*2024-01-31*|
+Cyber Warfare (CW) refers to the strategic use of cyber tools and techniques by state or non-state actors to achieve specific objectives, often with the intent to cause harm or disruption to critical infrastructure, systems, or individuals, potentially impacting national security, economy, or society. Read the whitepaper:
+[PDF]({{site.url}}/{{site.baseurl}}/assets/whitepapers/wticwf.pdf)
 
 
 ### Speed Optimization of AES Function ###

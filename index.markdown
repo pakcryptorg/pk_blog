@@ -6,7 +6,7 @@ layout: home
 title: Pakistan Cryptography Organization
 ---
 
-![PakCrypt](.{{site.baseurl}}/assets/images/landing.jpg)
+![PakCrypt](.{{site.baseurl}}/assets/images/landing1.jpg)
 
 
 <iframe id="myiframe"

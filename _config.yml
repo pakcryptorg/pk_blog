@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Cryptography
+title: PakCRYPT
 email: team@pakcrypt.org
 description: >- # this means to ignore newlines until "baseurl:"
  PakCrypt is a platform that aims to promote the interest in field of cryptography and network security.

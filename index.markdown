@@ -3,7 +3,19 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Pk Crypt
+title: <span style="color: red;">C</span>
+<span style="color: green;">r</span>
+<span style="color: blue;">y</span>
+<span style="color: purple;">p</span>
+<span style="color: orange;">t</span>
+<span style="color: black;">o</span>
+<span style="color: gray;">g</span>
+<span style="color: teal;">r</span>
+<span style="color: yellow;">a</span>
+<span style="color: pink;">p</span>
+<span style="color: brown;">h</span>
+<span style="color: cyan;">y</span>
+
 ---
 
 ![PakCrypt](.{{site.baseurl}}/assets/images/landing1.jpg)

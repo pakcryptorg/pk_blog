@@ -10,13 +10,7 @@ layout: home
 ![PakCrypt](.{{site.baseurl}}/assets/images/landing1.jpg)
 
 
-<iframe id="myiframe"
-src="https://www.youtube.com/embed/BBCtAYk64ZE?si=bwVpXA3C6ex9B4YM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<script>
-   var iframe = document.getElementById("myiframe");
-   iframe.width = iframe.contentWindow.document.body.scrollWidth;
-   iframe.height = iframe.contentWindow.document.body.scrollHeight;
-</script>
+
 
 
 

@@ -1,12 +1,16 @@
 ---
 layout: post
 title:  "Whitepapers"
-date:   2024-02-02 07:22:34 +0500
+date:   2024-02-07 07:22:34 +0500
 categories: whitepapers v1
 permalink: ./wp
 ---
 
 
+### How to do Risk Assessments? ###
+*2024-02-07*|
+Risk assessment is not about avoiding risks, but about managing them. Root cause analysis is not about blaming others, but about learning from mistakes. Risk assessment is not a one-time event, but a continuous process. Read the whitepaper:
+[PDF]({{site.url}}/{{site.baseurl}}/assets/whitepapers/htdra.pdf)
 
 ### When the Stars Fall: Starlink’s Apocalypse ###
 *2024-02-02*|

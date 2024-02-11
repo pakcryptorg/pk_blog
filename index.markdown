@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Pakistan Cryptography Organization
+title: Pk Crypt
 ---
 
 ![PakCrypt](.{{site.baseurl}}/assets/images/landing1.jpg)

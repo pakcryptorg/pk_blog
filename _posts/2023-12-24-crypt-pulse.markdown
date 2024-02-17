@@ -6,6 +6,7 @@ categories: pulse v1
 permalink: ./pulse
 ---
 
+
 ### Crypto Fix Needed: Glitch Found in Popular Security Algorithms ###
 *2023-12-03*
 ![MagBackdoor]({{site.url}}/{{site.baseurl}}/assets/images/pulse/20240102_sha3_imp.gif)

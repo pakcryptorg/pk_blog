@@ -1,11 +1,16 @@
 ---
 layout: post
 title:  "Whitepapers"
-date:   2024-02-07 07:22:34 +0500
+date:   2024-02-08 07:22:34 +0500
 categories: whitepapers v1
 permalink: ./wp
 ---
 
+
+### GNSS as Critical Global Infrastructure ###
+*2024-02-08*|
+The primary time synchronization sources for critical infrastructure systems are signals broadcast by GNSS, such as GPS satellites. This WP provides an overview of how timing systems work discusses the GNSS timing dependencies of critical infrastructure systems operating in the financial, telecommunications, and electric power sectors. Read the whitepaper:
+[PDF]({{site.url}}/{{site.baseurl}}/assets/whitepapers/rogpsiol.pdf)
 
 ### How to do Risk Assessments? ###
 *2024-02-07*|

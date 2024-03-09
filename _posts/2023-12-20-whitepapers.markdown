@@ -1,11 +1,16 @@
 ---
 layout: post
 title:  "Whitepapers"
-date:   2024-02-08 07:22:34 +0500
+date:   2024-03-01 07:22:34 +0500
 categories: whitepapers v1
 permalink: ./wp
 ---
 
+
+### PQC as It Stands in Industry ###
+*2024-03-01*|
+The timeframe for quantum computers capable of breaking standard cryptography is uncertain. IBM aims for a quantum computing inflection point by 2029, while QuEra plans a 10,000-qubit system by 2026. Despite this, bad actors are already harvesting encrypted data for future decryption, known as HNDL attacks, without relying on quantum computers. Read the whitepaper:
+[PDF]({{site.url}}/{{site.baseurl}}/assets/whitepapers/pqcsif2.pdf)
 
 ### GNSS as Critical Global Infrastructure ###
 *2024-02-08*|

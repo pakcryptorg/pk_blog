@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: PakCrypt
-email: team@pakcrypt.org
+email: smk@pakcrypt.org
 description: >- # this means to ignore newlines until "baseurl:"
  PakCrypt is a platform that aims to promote the interest in field of cryptography and network security.
   It organizes an annual competition called 

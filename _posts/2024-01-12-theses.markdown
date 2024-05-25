@@ -9,9 +9,10 @@ permalink: ./theses
 # Financial Assistance Program for Cryptology Thesis Projects
 
 We are pleased to announce a new program aimed at providing financial assistance (up to Rs. 200K) to final year undergraduate (BE / BS) and graduate (MS) students in higher education institutions for their final year thesis projects related to cryptology. This initiative is designed to foster creativity, innovation, and a mathematical mindset among students interested in pursuing careers in cryptology.
+To apply, visit **Crypto Corner** at **[NCCS.pk](https://nccs.pk/)**. (National Center for Cyber Security)
 
 ### Eligibility Criteria
-To be eligible for the program, students must be enrolled in a full-time undergraduate or graduate program. Further details can be found at the [bottom](#lastsec) of this page.
+To be eligible for the program, students must be enrolled in a full-time undergraduate or graduate program. 
 
 ![Thesis]({{site.url}}/{{site.baseurl}}/assets/images/theses1.jpg)
 ---
@@ -190,7 +191,8 @@ Investigate the feasibility and performance of implementing Simon's algorithm on
 
 The approved project proposals will receive funding up to Rs. 200K / project in total. This funding is a token of appreciation primarily intended to encourage cutting-edge research.
 
-If you are interested in any of the projects listed on this page, please follow these three steps:
+If you are interested, we reocmmend visiting **Crypto Corner** at **[NCCS.pk](https://nccs.pk/)**.
+Alternatively, follow these three steps:
 
 ### 3 Steps
 

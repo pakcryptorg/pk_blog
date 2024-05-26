@@ -8,7 +8,7 @@ permalink: ./pulse
 
 ### Leadership in Cryptogrpahy Research Communities ###
 *2024-05-11*|
-![Leadership]({{site.url}}/{{site.baseurl}}/assets/images/pulse/20240511_pseudo2.png)
+![Leadership]({{site.url}}/{{site.baseurl}}/assets/images/pulse/20240511_pseudo3.png)
 This topic is highly relevant for anyone involved in "academic research".
 The authors investigate the role of leadership as a mean for simulating more
 effective research in emerging communities in computer science (CS). Far

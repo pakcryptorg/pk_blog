@@ -8,7 +8,7 @@ permalink: ./pulse
 
 ### Leadership in Cryptogrpahy Research Communities ###
 *2024-05-11*|
-![Leadership]({{site.url}}/{{site.baseurl}}/assets/images/pulse/pseudo2.png)
+![Leadership]({{site.url}}/{{site.baseurl}}/assets/images/pulse/20240511_pseudo2.png)
 This topic is highly relevant for anyone involved in "academic research".
 The authors investigate the role of leadership as a mean for simulating more
 effective research in emerging communities in computer science (CS). Far
@@ -19,7 +19,7 @@ any good for real scientific progress. Indeed some scientific communities
 make more relative progress than others, even under similar conditions.
 We argue that leadership plays an important role for guiding any community
 to the right direction:
-[PDF]({{site.url}}/{{site.baseurl}}/assets/whitepapers/CPFS.pdf)
+[Full PDF]({{site.url}}/{{site.baseurl}}/assets/whitepapers/CPFS.pdf)
 
 
 ### Crypto Fix Needed: Glitch Found in Popular Security Algorithms ###

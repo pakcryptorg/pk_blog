@@ -19,7 +19,7 @@ any good for real scientific progress. Indeed some scientific communities
 make more relative progress than others, even under similar conditions.
 We argue that leadership plays an important role for guiding any community
 to the right direction:
-[Full PDF]({{site.url}}/{{site.baseurl}}/assets/whitepapers/CPFS.pdf)
+[Full PDF]({{site.url}}/{{site.baseurl}}/assets/whitepapers/CFPS.pdf)
 
 
 ### Crypto Fix Needed: Glitch Found in Popular Security Algorithms ###

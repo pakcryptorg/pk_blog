@@ -1,0 +1,60 @@
+---
+layout: post
+title:  "PakCrypt 2024"
+date:   2024-08-24 07:22:34 +0500
+categories: comp e3
+permalink: ./pcc24
+---
+
+![Dates]({{site.url}}/{{site.baseurl}}/assets/images/dl2024.png)
+
+# Our History
+PakCrypt competition was initiated in 2022 to promote young talent in the field of cryptography. Last two events of PakCrypt competition in 2022 and 2023 were a great success! It is truly inspiring to see bright minds across Pakistan come together and showcase their talent in the field of cryptography. 
+
+The PakCrypt 2023 competition included more than 500 participants from all regions of Pakistan competing in the three-round competition that culminated in a final round on the NCCS campus. The finalist teams competed for cash prizes totaling Rs. 1.4M, but the competition was much more than this. It provided young minds with opportunities to connect with industry experts, receive job offers, funding for further research, and engage in mutual collaboration. 
+
+# About PakCrypt 2024 Competition
+PakCrypt 2024 is a two-track, three-round competition that comprises both online and on-campus rounds. The competition aims to bring together talented minds of Pakistan around the world to showcase their skills and compete for cash prizes in both professional and amateur tracks.
+
+## Round 1: Registration 				       
+The first round is open to all Pakistani nationals. It involves a registration process coupled with a screening test. The registration process collects basic information about candidates, while the test serves as an entry-level filter.
+Top qualifiers from Round 1 will be announced by the start of October and invited to compete in the second round.
+
+## Round 2: Online Competition
+The second round of PakCrypt will be conducted online. It is planned to take place in middle of October. Participants who qualify from Round 1 will have the opportunity to display their skills and compete against other talented individuals. The qualifiers of Round 2 will be given opportunity to register for Round 3 as a team of 1-2 persons  (both of whom must be Round 3 qualified). Note that prizes will be equally shared among winning team members. 
+
+## Round 3: On-Campus Final
+The final round of PakCrypt 2024 will be held on campus at NCCS, Air University, Islamabad in Nov 2024. The top teams from the previous rounds will compete for the prize and prestige. 
+
+Please visit the Crypto Corner at the NCCS website regularly for further details & announcements. 
+
+# Instructions
+1. The registration for Round 1 is estimated to take approximately 30 minutes. It’s general math aptitude test.  Plan accordingly. 
+
+2. The concepts in following resources will help to unlock many riddles of Round 2.
+Stu Schwartz: Cryptology for Beginners (Amateur)
+W. Stalling: Cryptography and Network Security 7e and JP Aumasson: Serious Cryptography (Professional)
+
+3. For Round 3, if you are coming out of the twin-cities, there are a number of slots for free accommodation. Please contact the organizers if you are selected for Round 3, at least 2 weeks in advance.
+
+4. No TA / DA is admissible for Round 3 participants, however, food and accommodation may be arranged for qualified top teams. Further, each finalist team that does not fall in top-3 slots will receive an encouragement cash prize.
+
+5. For Amateur Track in Round 3, a teacher of corresponding institute may accompany as part of the student team, however, the teacher will not be allowed to help students in Round 3 challenges.
+
+6. The amount of prize money, allied benefits, and distribution formula will be announced prior to Round 3; At baseline, Rs. 1.7M is already allocated by  PakCrypt organizers for prizes.
+
+7. All Pakistani nationals, except employees of intelligence/sensitive orgs, are allowed to participate. In case of confusion, contact PakCrypt organizers at 2024@pakcrypt.org 
+
+8. For Amateurs, the upper age limit is 20-year.  (born after 01-Jul-2004) 
+
+# PakCrypt Participants Data Collection and Usage Agreement
+
+By participating in PakCrypt, you agree to the  collection and use of your personal information  by the PakCrypt Organization Committee for the  following purposes:
+1. Verification of participants for Age / Association / Nationality / Place of Residence / etc.
+2. Informing participants of PakCrypt Updates
+3. Distributing prizes to participants in the final round. 
+Personal information will not be shared with any commercial entity or used for any other purposes without your consent.
+
+# Disclaimer
+The terms and conditions of the PakCrypt 2024 Competition, including dates and prize money, are subject to change by the PakCrypt organizers without explicit prior notice. The organizers' selected jury has discretionary powers for decision-making including awarding points and the selection of winners. All media, information, and data in this brochure have been collected and assembled by anonymous volunteers. Therefore, the PakCrypt organizers or NCCS bear no responsibility for copyright infringements or any other similar legal claims.
+

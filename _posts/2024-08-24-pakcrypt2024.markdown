@@ -86,7 +86,7 @@ The terms and conditions of the PakCrypt 2024 Competition, including dates and p
 
 ![Sample]({{site.url}}/{{site.baseurl}}/assets/doc/S/pc24s8.PNG)
 
-![Sample]({{site.url}}/{{site.baseurl}}/assets/doc/S/S/pc24s9.PNG)
+![Sample]({{site.url}}/{{site.baseurl}}/assets/doc/S/pc24s9.PNG)
 
 ![Sample]({{site.url}}/{{site.baseurl}}/assets/doc/S/pc24s10.PNG)
 

@@ -8,7 +8,7 @@ permalink: ./pcc24
 
 **[Register Now](https://bit.ly/pc24reg)**
 
-**[*Download PDF]({{site.url}}/{{site.baseurl}}/assets/doc/PC24B-R4.pdf)**
+**[Download PDF]({{site.url}}/{{site.baseurl}}/assets/doc/PC24B-R4.pdf)**
 
 | Stage | Purpose | Date |
 |---|---|---|
@@ -27,7 +27,7 @@ The PakCrypt 2023 competition included more than 500 participants from all regio
 PakCrypt 2024 is a two-track, three-round competition that comprises both online and on-campus rounds. The competition aims to bring together talented minds of Pakistan around the world to showcase their skills and compete for cash prizes in both professional and amateur tracks.
 
 # Round 1: Registration 				       
-The first round is open to all Pakistani nationals. It involves a registration process coupled with a screening test. The registration process collects basic information about candidates, while the test serves as an entry-level filter.
+The first round is open to all Pakistani nationals [here](https://bit.ly/pc24reg). It involves a registration process coupled with a screening test. The registration process collects basic information about candidates, while the test serves as an entry-level filter.
 Top qualifiers from Round 1 will be announced by the start of October and invited to compete in the second round.
 
 # Round 2: Online Competition
@@ -68,8 +68,22 @@ Personal information will not be shared with any commercial entity or used for a
 ## Disclaimer
 The terms and conditions of the PakCrypt 2024 Competition, including dates and prize money, are subject to change by the PakCrypt organizers without explicit prior notice. The organizers' selected jury has discretionary powers for decision-making including awarding points and the selection of winners. All media, information, and data in this brochure have been collected and assembled by anonymous volunteers. Therefore, the PakCrypt organizers or NCCS bear no responsibility for copyright infringements or any other similar legal claims.
 
+## Sample Questions
+
+![Sample]({{site.url}}/{{site.baseurl}}/assets/doc/pc24s1.png)
+![Sample]({{site.url}}/{{site.baseurl}}/assets/doc/pc24s2.png)
+![Sample]({{site.url}}/{{site.baseurl}}/assets/doc/pc24s3.png)
+![Sample]({{site.url}}/{{site.baseurl}}/assets/doc/pc24s4.png)
+![Sample]({{site.url}}/{{site.baseurl}}/assets/doc/pc24s5.png)
+![Sample]({{site.url}}/{{site.baseurl}}/assets/doc/pc24s6.png)
+![Sample]({{site.url}}/{{site.baseurl}}/assets/doc/pc24s7.png)
+![Sample]({{site.url}}/{{site.baseurl}}/assets/doc/pc24s8.png)
+![Sample]({{site.url}}/{{site.baseurl}}/assets/doc/pc24s9.png)
+![Sample]({{site.url}}/{{site.baseurl}}/assets/doc/pc24s10.png)
+![Sample]({{site.url}}/{{site.baseurl}}/assets/doc/pc24s11.png)
+
 
 **[Register Now](https://bit.ly/pc24reg)**
 
-**[*Download PDF]({{site.url}}/{{site.baseurl}}/assets/doc/PC24B-R4.pdf)**
+**[Download PDF]({{site.url}}/{{site.baseurl}}/assets/doc/PC24B-R4.pdf)**
 

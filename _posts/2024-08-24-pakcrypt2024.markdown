@@ -70,27 +70,27 @@ The terms and conditions of the PakCrypt 2024 Competition, including dates and p
 
 ## Sample Questions
 
-![Sample]({{site.url}}/{{site.baseurl}}/assets/doc/pc24s1.PNG)
+![Sample]({{site.url}}/{{site.baseurl}}/assets/doc/S/pc24s1.PNG)
 
-![Sample]({{site.url}}/{{site.baseurl}}/assets/doc/pc24s2.PNG)
+![Sample]({{site.url}}/{{site.baseurl}}/assets/doc/S/pc24s2.PNG)
 
-![Sample]({{site.url}}/{{site.baseurl}}/assets/doc/pc24s3.PNG)
+![Sample]({{site.url}}/{{site.baseurl}}/assets/doc/S/pc24s3.PNG)
 
-![Sample]({{site.url}}/{{site.baseurl}}/assets/doc/pc24s4.PNG)
+![Sample]({{site.url}}/{{site.baseurl}}/assets/doc/S/pc24s4.PNG)
 
-![Sample]({{site.url}}/{{site.baseurl}}/assets/doc/pc24s5.PNG)
+![Sample]({{site.url}}/{{site.baseurl}}/assets/doc/S/pc24s5.PNG)
 
-![Sample]({{site.url}}/{{site.baseurl}}/assets/doc/pc24s6.PNG)
+![Sample]({{site.url}}/{{site.baseurl}}/assets/doc/S/pc24s6.PNG)
 
-![Sample]({{site.url}}/{{site.baseurl}}/assets/doc/pc24s7.PNG)
+![Sample]({{site.url}}/{{site.baseurl}}/assets/doc/S/pc24s7.PNG)
 
-![Sample]({{site.url}}/{{site.baseurl}}/assets/doc/pc24s8.PNG)
+![Sample]({{site.url}}/{{site.baseurl}}/assets/doc/S/pc24s8.PNG)
 
-![Sample]({{site.url}}/{{site.baseurl}}/assets/doc/pc24s9.PNG)
+![Sample]({{site.url}}/{{site.baseurl}}/assets/doc/S/S/pc24s9.PNG)
 
-![Sample]({{site.url}}/{{site.baseurl}}/assets/doc/pc24s10.PNG)
+![Sample]({{site.url}}/{{site.baseurl}}/assets/doc/S/pc24s10.PNG)
 
-![Sample]({{site.url}}/{{site.baseurl}}/assets/doc/pc24s11.PNG)
+![Sample]({{site.url}}/{{site.baseurl}}/assets/doc/S/pc24s11.PNG)
 
 
 **[Register Now](https://bit.ly/pc24reg)**

@@ -6,9 +6,9 @@ categories: comp e3
 permalink: ./pcc24
 ---
 
-[Register Now](https://bit.ly/pc24reg)
+**[Register Now](https://bit.ly/pc24reg)**
 
-[Download PDF]({{site.url}}/{{site.baseurl}}/assets/doc/PC24B-R4.pdf)
+**[*Download PDF]({{site.url}}/{{site.baseurl}}/assets/doc/PC24B-R4.pdf)**
 
 | Stage | Purpose | Date |
 |---|---|---|
@@ -69,7 +69,7 @@ Personal information will not be shared with any commercial entity or used for a
 The terms and conditions of the PakCrypt 2024 Competition, including dates and prize money, are subject to change by the PakCrypt organizers without explicit prior notice. The organizers' selected jury has discretionary powers for decision-making including awarding points and the selection of winners. All media, information, and data in this brochure have been collected and assembled by anonymous volunteers. Therefore, the PakCrypt organizers or NCCS bear no responsibility for copyright infringements or any other similar legal claims.
 
 
-[Download PDF]({{site.url}}/{{site.baseurl}}/assets/doc/PC24B-R4.pdf)
+**[Register Now](https://bit.ly/pc24reg)**
 
-[Register Now](https://bit.ly/pc24reg)
+**[*Download PDF]({{site.url}}/{{site.baseurl}}/assets/doc/PC24B-R4.pdf)**
 

@@ -97,3 +97,5 @@ The terms and conditions of the PakCrypt 2024 Competition, including dates and p
 
 **[Download PDF]({{site.url}}/{{site.baseurl}}/assets/doc/PC24B-R4.pdf)**
 
+**Contact 2024@pakcrypt.org for any query. Response time is approx 48 hours.**
+

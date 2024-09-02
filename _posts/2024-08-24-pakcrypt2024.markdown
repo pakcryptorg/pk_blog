@@ -8,7 +8,9 @@ permalink: ./pcc24
 
 **[Register Now](https://bit.ly/pc24reg)**
 
-**[Download PDF]({{site.url}}/{{site.baseurl}}/assets/doc/PC24B-R4.pdf)**
+**[Download Guide]({{site.url}}/{{site.baseurl}}/assets/doc/PC24B-R4.pdf)**
+
+**[Download Brochure]({{site.url}}/{{site.baseurl}}/assets/doc/PC2024.pdf)**
 
 | Stage | Purpose | Date |
 |---|---|---|
@@ -17,6 +19,7 @@ permalink: ./pcc24
 | Final | On-Campus Competition & Closing Cermony | 06-07 Nov, 2024 |
 |---|---|---|
 
+![PakCrypt2024]({{site.url}}/{{site.baseurl}}/assets/doc/S/pc2024.jpg)
 
 ## Our History
 PakCrypt competition was initiated in 2022 to promote young talent in the field of cryptography. Last two events of PakCrypt competition in 2022 and 2023 were a great success! It is truly inspiring to see bright minds across Pakistan come together and showcase their talent in the field of cryptography. 

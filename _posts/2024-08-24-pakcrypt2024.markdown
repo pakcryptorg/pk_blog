@@ -19,9 +19,9 @@ permalink: ./pcc24
 | Final | On-Campus Competition & Closing Cermony | 05-06 Nov, 2024 |
 |---|---|---|
 
-![PakCrypt2024]({{site.url}}/{{site.baseurl}}/assets/doc/S/1B.png)
+![PakCrypt2024]({{site.url}}/{{site.baseurl}}/assets/doc/S/1B.PNG)
 
-![PakCrypt2024B]({{site.url}}/{{site.baseurl}}/assets/doc/S/2B.png)
+![PakCrypt2024B]({{site.url}}/{{site.baseurl}}/assets/doc/S/2B.PNG)
 
 ## Our History
 PakCrypt competition was initiated in 2022 to promote young talent in the field of cryptography. Last two events of PakCrypt competition in 2022 and 2023 were a great success! It is truly inspiring to see bright minds across Pakistan come together and showcase their talent in the field of cryptography. 

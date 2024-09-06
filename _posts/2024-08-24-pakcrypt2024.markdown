@@ -6,7 +6,7 @@ categories: comp e3
 permalink: ./pcc24
 ---
 
-**[Register Now](https://bit.ly/pc24reg)**
+**[Register Now](https://bit.ly/pc24reg)** 
 
 **[Download Guide]({{site.url}}/{{site.baseurl}}/assets/doc/PC24B-R41.pdf)**
 
@@ -22,6 +22,8 @@ permalink: ./pcc24
 ![PakCrypt2024]({{site.url}}/{{site.baseurl}}/assets/doc/S/1B.PNG)
 
 ![PakCrypt2024B]({{site.url}}/{{site.baseurl}}/assets/doc/S/2B.PNG)
+
+**[Register Now](https://docs.google.com/forms/d/e/1FAIpQLSd-9CE3bfFM8Soeu4pL4NiMNRwVkkXdi-HGuKihLsNIU2rWzA/viewform)** 
 
 ## Our History
 PakCrypt competition was initiated in 2022 to promote young talent in the field of cryptography. Last two events of PakCrypt competition in 2022 and 2023 were a great success! It is truly inspiring to see bright minds across Pakistan come together and showcase their talent in the field of cryptography. 
@@ -98,9 +100,7 @@ The terms and conditions of the PakCrypt 2024 Competition, including dates and p
 ![Sample]({{site.url}}/{{site.baseurl}}/assets/doc/S/pc24s11.PNG)
 
 
-**[Register Now](https://bit.ly/pc24reg)**
-
-**[Download PDF]({{site.url}}/{{site.baseurl}}/assets/doc/PC24B-R4.pdf)**
+**[Register Now](https://docs.google.com/forms/d/e/1FAIpQLSd-9CE3bfFM8Soeu4pL4NiMNRwVkkXdi-HGuKihLsNIU2rWzA/viewform)** 
 
 **Contact 2024@pakcrypt.org for any query. Response time is approx 48 hours.**
 

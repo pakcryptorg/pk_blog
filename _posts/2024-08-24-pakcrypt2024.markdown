@@ -23,7 +23,8 @@ permalink: ./pcc24
 
 ![PakCrypt2024B]({{site.url}}/{{site.baseurl}}/assets/doc/S/2B.PNG)
 
-**[Register Now](https://docs.google.com/forms/d/e/1FAIpQLSd-9CE3bfFM8Soeu4pL4NiMNRwVkkXdi-HGuKihLsNIU2rWzA/viewform)** 
+**[Register Now](https://docs.google.com/forms/d/e/1FAIpQLSd-9CE3bfFM8Soeu4pL4NiMNRwVkkXdi-HGuKihLsNIU2rWzA/viewform)**    
+**[Contact NCCS](https://www.au.edu.pk/Pages/NCCS/nccs_contact_us.aspx)**
 
 ## Our History
 PakCrypt competition was initiated in 2022 to promote young talent in the field of cryptography. Last two events of PakCrypt competition in 2022 and 2023 were a great success! It is truly inspiring to see bright minds across Pakistan come together and showcase their talent in the field of cryptography. 

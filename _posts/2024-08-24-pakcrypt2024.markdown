@@ -8,7 +8,9 @@ permalink: ./pcc24
 
 **[Register Now](https://bit.ly/pc24reg)** 
 
-**[Download Guide]({{site.url}}/{{site.baseurl}}/assets/doc/PC24B-R41.pdf)** | **[Brochure]({{site.url}}/{{site.baseurl}}/assets/doc/brochure2024pcb.pdf)**
+**[Download Guide]({{site.url}}/{{site.baseurl}}/assets/doc/PC24B-R41.pdf)** 
+
+**[Brochure]({{site.url}}/{{site.baseurl}}/assets/doc/brochure2024pcb.pdf)**
 
 | Stage | Purpose | Date |
 |---|---|---|
@@ -21,9 +23,9 @@ permalink: ./pcc24
 
 ![PakCrypt2024B]({{site.url}}/{{site.baseurl}}/assets/doc/S/2B.PNG)
 
-**[Register Now](https://docs.google.com/forms/d/e/1FAIpQLSd-9CE3bfFM8Soeu4pL4NiMNRwVkkXdi-HGuKihLsNIU2rWzA/viewform)** | **[Contact NCCS](https://www.au.edu.pk/Pages/NCCS/nccs_contact_us.aspx)**
+**[Register Now](https://docs.google.com/forms/d/e/1FAIpQLSd-9CE3bfFM8Soeu4pL4NiMNRwVkkXdi-HGuKihLsNIU2rWzA/viewform)** 
 
-## Our History
+ ## Our History
 PakCrypt competition was initiated in 2022 to promote young talent in the field of cryptography. Last two events of PakCrypt competition in 2022 and 2023 were a great success! It is truly inspiring to see bright minds across Pakistan come together and showcase their talent in the field of cryptography. 
 
 The PakCrypt 2023 competition included more than 500 participants from all regions of Pakistan competing in the three-round competition that culminated in a final round on the NCCS campus. The finalist teams competed for cash prizes totaling Rs. 1.4M, but the competition was much more than this. It provided young minds with opportunities to connect with industry experts, receive job offers, funding for further research, and engage in mutual collaboration. 
@@ -99,6 +101,8 @@ The terms and conditions of the PakCrypt 2024 Competition, including dates and p
 
 
 **[Register Now](https://docs.google.com/forms/d/e/1FAIpQLSd-9CE3bfFM8Soeu4pL4NiMNRwVkkXdi-HGuKihLsNIU2rWzA/viewform)** 
+
+**[Contact NCCS](https://www.au.edu.pk/Pages/NCCS/nccs_contact_us.aspx)**
 
 **Contact 2024@pakcrypt.org for any query. Response time is approx 48 hours.**
 

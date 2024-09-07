@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "PakCrypt 2024"
+title:  "Join PakCrypt 2024"
 date:   2024-08-24 07:22:34 +0500
 categories: comp e3
 permalink: ./pcc24

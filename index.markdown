@@ -7,7 +7,7 @@ layout: home
 
 ---
 
-![PakCrypt](.{{site.baseurl}}/assets/images/landing25.jpg)
+![PakCrypt](.{{site.baseurl}}/assets/images/landing26.png)
 
 
 

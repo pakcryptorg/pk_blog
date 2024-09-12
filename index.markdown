@@ -7,10 +7,11 @@ layout: home
 
 ---
 
-![PakCrypt](.{{site.baseurl}}/assets/images/landing26.png)
+![PakCrypt](.{{site.baseurl}}/assets/images/landing25.jpg)
 
 PakCrypt | PakCrypt24 | PakCrypt2024
-National Cryptogrpahy Challenge
+
+Pakistan National Cryptogrpahy Challenge
 
 
 

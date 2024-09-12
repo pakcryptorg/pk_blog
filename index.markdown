@@ -11,7 +11,7 @@ layout: home
 
 PakCrypt | PakCrypt24 | PakCrypt2024
 
-Pakistan National Cryptogrpahy Challenge
+# Pakistan National Cryptogrpahy Challenge
 
 
 

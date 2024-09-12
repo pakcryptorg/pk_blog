@@ -7,11 +7,10 @@ permalink: ./about
 
 ![Team](.{{site.baseurl}}/assets/images/team.jpg)
 ## About PakCrypt
-In an ever-evolving digital world, we are increasingly vulnerable to privacy invasion and security threats. Cryptography plays a critical role in safeguarding communication and data on modern computer systems. There is a pressing need for a robust national strategy on cryptography that promotes its widespread use to protect the information interests of people and organizations, and to maintain national sovereignty.
+Cryptography plays a critical role in safeguarding communication and data on modern computer systems. There is a pressing need for a robust national strategy on cryptography that promotes its widespread use to protect the information interests of people and organizations, and to maintain national sovereignty.
 
 ### Our History
-PakCrypt was initiated to promote young talent in the field of cryptography. The inaugural PakCrypt 2022 and later PakCrypt 2023 competitions were resounding success.
- But PakCrypt is more than just a competition. It's a platform that provides young minds with opportunities to connect with industry experts, receive job offers, secure funding for further research, and engage in mutual collaboration.
+PakCrypt was initiated to promote young talent in the field of cryptography. The inaugural PakCrypt 2022 and later PakCrypt 2023 and 2024 competitions were resounding success. But PakCrypt is more than just a competition. It's a platform that provides young minds with opportunities to connect with industry experts, receive job offers, secure funding for further research, and engage in mutual collaboration.
 
 
 ### Why PakCrypt.org was founded?

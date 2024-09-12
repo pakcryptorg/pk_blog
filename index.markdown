@@ -11,7 +11,7 @@ layout: home
 
 PakCrypt | [Register](https://bit.ly/pc24reg) | [PakCrypt 2024](https://pakcrypt.org/pcc24)
 
-# Pakistan National Cryptogrpahy Challenge
+# Pakistan National Cryptography Challenge
 
 
 

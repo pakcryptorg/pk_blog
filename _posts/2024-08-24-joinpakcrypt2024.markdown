@@ -26,7 +26,7 @@ permalink: ./pcc24
 **[Register Now](https://docs.google.com/forms/d/e/1FAIpQLSd-9CE3bfFM8Soeu4pL4NiMNRwVkkXdi-HGuKihLsNIU2rWzA/viewform)** 
 
 
- ## Our History
+## Our History
 PakCrypt competition was initiated in 2022 to promote young talent in the field of cryptography. Last two events of PakCrypt competition in 2022 and 2023 were a great success! It is truly inspiring to see bright minds across Pakistan come together and showcase their talent in the field of cryptography. 
 
 The PakCrypt 2023 competition included more than 500 participants from all regions of Pakistan competing in the three-round competition that culminated in a final round on the NCCS campus. The finalist teams competed for cash prizes totaling Rs. 1.4M, but the competition was much more than this. It provided young minds with opportunities to connect with industry experts, receive job offers, funding for further research, and engage in mutual collaboration. 

@@ -8,20 +8,17 @@ permalink: ./pcc24
 
 **[Register Now](https://bit.ly/pc24reg)** 
 
-**[Download Guide]({{site.url}}/{{site.baseurl}}/assets/doc/PC24B-R41.pdf)** 
+**[Download Guide]({{site.url}}/{{site.baseurl}}/assets/doc/PC24B-R42.pdf)** 
 
-**[Brochure]({{site.url}}/{{site.baseurl}}/assets/doc/brochure2024pcb.pdf)**
+**[Brochure]({{site.url}}/{{site.baseurl}}/assets/doc/brochure2024pcb2.pdf)**
 
 | Stage | Purpose | Date |
 |---|---|---|
-| Round 1 | Registration and Initial Screening | 01-30 Sep, 2024 |
+| Round 1 | Registration and Screening | Untill 06 Oct, 2024 |
 | Round 2 | Selection of ~35x Finalists | 12-13 Oct, 2024 |
-| Final | On-Campus Competition & Closing Cermony | 05-06 Nov, 2024 |
+| Final | On-Campus Competition & Closing Cermony | 11-13 Nov, 2024 |
 |---|---|---|
 
-![PakCrypt2024]({{site.url}}/{{site.baseurl}}/assets/doc/S/1B.PNG)
-
-![PakCrypt2024B]({{site.url}}/{{site.baseurl}}/assets/doc/S/2B.PNG)
 
 **[Register Now](https://docs.google.com/forms/d/e/1FAIpQLSd-9CE3bfFM8Soeu4pL4NiMNRwVkkXdi-HGuKihLsNIU2rWzA/viewform)** 
 

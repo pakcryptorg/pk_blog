@@ -6,21 +6,22 @@ categories: comp e3
 permalink: ./pcc24
 ---
 
-**[Register Now](https://bit.ly/pc24reg)** 
+##IMPORTANT NOTE
+The registration process (Round 1) has been completed, and the scores have been released.
 
-**[Download Guide]({{site.url}}/{{site.baseurl}}/assets/doc/PC24B-R42.pdf)** 
+If you have received an email confirming your qualification for Round 2, you should receive your personal passcode (PCC) no later than Friday, October 18th, 2024.
+
+If you are unable to find your score or your PCC (if you qualified), please contact us immediately.
 
 **[Brochure]({{site.url}}/{{site.baseurl}}/assets/doc/brochure2024pcb2.pdf)**
 
 | Stage | Purpose | Date |
 |---|---|---|
 | Round 1 | Registration and Screening | Untill 06 Oct, 2024 |
-| Round 2 | Selection of ~35x Finalists | 12-13 Oct, 2024 |
-| Final | On-Campus Competition & Closing Cermony | 11-13 Nov, 2024 |
+| Round 2 | Selection of ~35x Finalists | 20 Oct, 2024 |
+| Final | On-Campus Competition & Closing Cermony | 11-14 Nov, 2024 |
 |---|---|---|
 
-
-**[Register Now](https://docs.google.com/forms/d/e/1FAIpQLSd-9CE3bfFM8Soeu4pL4NiMNRwVkkXdi-HGuKihLsNIU2rWzA/viewform)** 
 
 
 ## Our History

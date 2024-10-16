@@ -9,7 +9,7 @@ layout: home
 
 ![PakCrypt](.{{site.baseurl}}/assets/images/landing25.jpg)
 
-[PakCrypt@X](https://www.twitter.com/PakCryptOrg) | [REGISTER](https://bit.ly/pc24reg) | [Guide](https://pakcrypt.org/pcc24)
+[PakCrypt@X](https://www.twitter.com/PakCryptOrg) | [PKCERT](https://pkcert.gov.pk/events/pcc-hackathon-2024.asp) | [Guide](https://pakcrypt.org/pcc24)
 
 # Pakistan National Cryptography Challenge
 

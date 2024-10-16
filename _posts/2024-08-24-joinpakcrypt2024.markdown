@@ -6,7 +6,7 @@ categories: comp e3
 permalink: ./pcc24
 ---
 
-##IMPORTANT NOTE
+## IMPORTANT NOTE
 The registration process (Round 1) has been completed, and the scores have been released.
 
 If you have received an email confirming your qualification for Round 2, you should receive your personal passcode (PCC) no later than Friday, October 18th, 2024.

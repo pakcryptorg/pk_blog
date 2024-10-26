@@ -1,25 +1,23 @@
 ---
 layout: post
 title:  "Join PakCrypt 2024"
-date:   2024-08-24 07:22:34 +0500
+date:   2024-10-26 07:22:34 +0500
 categories: comp e3
 permalink: ./pcc24
 ---
 
 ## IMPORTANT NOTE
-The registration process (Round 1) has been completed, and the scores have been released.
+The first two rounds have been completed.
 
-If you have received an email confirming your qualification for Round 2, you should receive your personal passcode (PCC) no later than Friday, October 18th, 2024.
-
-If you are unable to find your score or your PCC (if you qualified), please contact us immediately.
+We are now compiling results to select PakCrypt 2024 finalists.
 
 **[Brochure]({{site.url}}/{{site.baseurl}}/assets/doc/brochure2024pcb2.pdf)**
 
 | Stage | Purpose | Date |
 |---|---|---|
 | Round 1 | Registration and Screening | Untill 06 Oct, 2024 |
-| Round 2 | Selection of ~35x Finalists | 20 Oct, 2024 |
-| Final | On-Campus Competition & Closing Cermony | 11-14 Nov, 2024 |
+| Round 2 | Selection of ~35x Finalists | 28 Oct, 2024 |
+| Final | On-Campus Competition & Closing Cermony | 13-14 Nov, 2024 |
 |---|---|---|
 
 

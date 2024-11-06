@@ -21,7 +21,11 @@ We are now compiling results to select PakCrypt 2024 finalists.
 |---|---|---|
 
 ## List of Finalists
+Congrats on making it to the finals of the All Pakistan Cryptography Competition! 
+Out of nearly 900 participants, you’ve secured a spot among the top contenders. 
+We can’t wait to see you bring your best to the final round. Good luck!
 # Professional Track
+The professional competition is an individual event. The list below are in no specific order.
 
 | Name | Association | City |
 |---|---|---|
@@ -39,6 +43,42 @@ We are now compiling results to select PakCrypt 2024 finalists.
 |Warda Altaf	|Jinnah University	|Karachi|
 |Syeda Afia Shah	|UET, Peshawar	|Peshawar|
 |Muhammad Zeeshan	|Islamia University 	|Lodhran|
+|---|---|---|
+
+# Amateur Track
+
+The amateur competition is a team event with two people per team. 
+Team assignments are determined solely by the PakCrypt Organization Committee, 
+with efforts to pair participants from the same institute and based on similar scores from previous rounds. 
+You may request a preferred teammate, though approval is not guaranteed. Team announcements will be made on the event day.
+The list below are in no specific order.
+
+| Name | Association | City |
+|---|---|---|
+|	Zainab Kayani	|	FAST	|	Rawalpindi	|
+|	Tooba Naeem Sattar 	|	CITY School	|	Faisalabad 	|
+|	Syed Ali Shah	|	FAST	|	Rawalpindi	|
+|	Syed M. Kazim Raza Jafferi	|	SuperNova School	|	Islamabad	|
+|	Ayesha Salyana	|	Siddeeq Public School	|	Islamabad	|
+|	Syed Badar Ul Islam Shah	|	LGS, Wah Cantt	|	Haripur	|
+|	Sami Shahbaz	|	SundarSTEM School	|	Lahore	|
+|	Syed Shuja Haider	|	SundarSTEM School	|	Lahore	|
+|	Abiha Azhar	|	Siddeeq Public School 	|	Islamabad 	|
+|	Hissan Kibria	|	Cadet College Hassanabdal	|	Hassanabdal	|
+|	Muhammad Safiullah	|	Mehran UET	|	Hyderabad	|
+|	Mohammad Arslan	|	Cadet College Hasanabdal	|	Hasanabdal	|
+|	Muhammad Arhum Shahid	|	SundarStem School	|	Lahore	|
+|	Muhammad Ahmad Bhatti	|	Karachi Grammar School	|	Karachi	|
+|	Khawaja Assam Arif	|	Sundar STEM School	|	Lahore	|
+|	Muhammad Aneeq	|	SundarSTEM School	|	Lahore	|
+|	Ahmed Imran Malik	|	Sundar STEM School	|	Lahore	|
+|	Maisha Shaikh	|	Siddeeq Public School 	|	Islamabad	|
+|	Muhammad Saad Munir	|	Aitchison College Lahore	|	Lahore	|
+|	M.  Ghulam Mohiuddin	|	SundarSTEM	|	Lahore	|
+|	RUBAB IBRAHIM 	|	Islamabad Career College 	|	Islamabad 	|
+|	Wanya Sajjad 	|	Siddeeq Public School 	|	Rawalpindi 	|
+|	Fatima Khalid	|	Punjab College	|	Islamabad	|
+|	Abeeha Noor	|	KIPS College	|	Wah cantt	|
 |---|---|---|
 
 

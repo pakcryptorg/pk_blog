@@ -27,7 +27,7 @@ We can’t wait to see you bring your best to the final round. Good luck!
 # Professional Track
 The professional competition is an individual event. The list below is in no specific order.
 
-| Name | Association | City |
+| Name | Association | Home Town |
 |---|---|---|
 |Mehmood ul Hassan 	|FAST	|Islamabad |
 |Mehak Usman	|NUST	|Karachi|
@@ -53,7 +53,7 @@ with efforts to pair participants from the same institute and based on similar s
 You may request a preferred teammate, though approval is not guaranteed. Team announcements will be made on the event day.
 The list below is in no specific order.
 
-| Name | Association | City |
+| Name | Association | Home Town |
 |---|---|---|
 |	Zainab Kayani	|	FAST	|	Rawalpindi	|
 |	Tooba Naeem Sattar 	|	CITY School	|	Faisalabad 	|

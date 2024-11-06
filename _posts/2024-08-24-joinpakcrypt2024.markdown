@@ -25,7 +25,7 @@ Congrats on making it to the finals of the All Pakistan Cryptography Competition
 Out of nearly 900 participants, you’ve secured a spot among the top contenders. 
 We can’t wait to see you bring your best to the final round. Good luck!
 # Professional Track
-The professional competition is an individual event. The list below are in no specific order.
+The professional competition is an individual event. The list below is in no specific order.
 
 | Name | Association | City |
 |---|---|---|
@@ -51,7 +51,7 @@ The amateur competition is a team event with two people per team.
 Team assignments are determined solely by the PakCrypt Organization Committee, 
 with efforts to pair participants from the same institute and based on similar scores from previous rounds. 
 You may request a preferred teammate, though approval is not guaranteed. Team announcements will be made on the event day.
-The list below are in no specific order.
+The list below is in no specific order.
 
 | Name | Association | City |
 |---|---|---|

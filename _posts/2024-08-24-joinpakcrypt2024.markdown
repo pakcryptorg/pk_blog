@@ -1,23 +1,23 @@
 ---
 layout: post
 title:  "PakCrypt-2024 FINAL"
-date:   2024-10-26 07:22:34 +0500
+date:   2024-11-12 07:22:34 +0500
 categories: comp e3
 permalink: ./pcc24
 ---
 
-## IMPORTANT NOTE
-The first two rounds have been completed.
+## Schedule of Final Round
 
-We are now compiling results to select PakCrypt 2024 finalists.
 
-**[Brochure]({{site.url}}/{{site.baseurl}}/assets/doc/brochure2024pcb2.pdf)**
 
-| Stage | Purpose | Date |
+| Activity | Date | Time |
 |---|---|---|
-| Round 1 | Registration and Screening | Untill 06 Oct, 2024 |
-| Round 2 | Selection of ~35x Finalists | 28 Oct, 2024 |
-| Final | On-Campus Competition & Closing Cermony | 13-14 Nov, 2024 |
+| Registration | 13 Nov 2024 | 0830 - 0920 |
+| Opening Cermony | 13 Nov 2024 | 0930 - 1030 |
+| Crypto Competition | 13 Nov 2024 | 1100 - 1600 |
+| Evaluation | 13 Nov 2024 | 1600 - 1900 |
+| Workshop Session | 14 Nov 2024 | 0930 - 1230 |
+| Closing Cermony | 14 Nov 2024 | 0330 - 1700 |
 |---|---|---|
 
 ## List of Finalists
@@ -90,6 +90,7 @@ The PakCrypt 2023 competition included more than 500 participants from all regio
 
 ## About PakCrypt 2024 Competition
 PakCrypt 2024 is a two-track, three-round competition that comprises both online and on-campus rounds. The competition aims to bring together talented minds of Pakistan around the world to showcase their skills and compete for cash prizes in both professional and amateur tracks.
+**[Brochure]({{site.url}}/{{site.baseurl}}/assets/doc/brochure2024pcb2.pdf)**
 
 # Round 1: Registration 				       
 The first round is open to all Pakistani nationals [here](https://bit.ly/pc24reg). It involves a registration process coupled with a screening test. The registration process collects basic information about candidates, while the test serves as an entry-level filter.

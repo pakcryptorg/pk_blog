@@ -8,8 +8,13 @@ permalink: ./pcc24
 
 
 ## Finalists and Winners
-
-## Professional Track 
+PakCrypt 2024 finals were held on November 13, 2024, at Air University Islamabad. 
+There were two tracks of competition: Professional and Amateur.
+After a 4-hour competition to solve challenging crypto-related problems, 
+the top five positions in each track were announced. The next day, on November 14, 
+2024, a grand closing ceremony was held, where prizes were awarded. 
+The prize money varied between Rs. 20,000 (runner-ups) to Rs. 250,000 (winners) depending on the track and attained position.
+# Professional Track 
 The professional competition is an individual event. The runner-ups below are in no specific order.
 
 | Name | Association | Home Town | Position|

@@ -10,7 +10,7 @@ permalink: ./pcc24
 ## Finalists and Winners
 
 ## Professional Track 
-The professional competition is an individual event. The list below is in no specific order.
+The professional competition is an individual event. The runner-ups below are in no specific order.
 
 | Name | Association | Home Town | Position|
 |---|---|---|---|
@@ -35,36 +35,36 @@ The professional competition is an individual event. The list below is in no spe
 The amateur competition is a team event with two people per team. 
 Team assignments are determined solely by the PakCrypt Organization Committee, 
 with efforts to pair participants from the same institute and based on similar scores from previous rounds. 
-You may request a preferred teammate, though approval is not guaranteed. Team announcements will be made on the event day.
-The list below is in no specific order.
+The runner-ups below are in no specific order.
 
-| Name | Association | Home Town |
-|---|---|---|
-|	Zainab Kayani	|	FAST	|	Rawalpindi	|
-|	Tooba Naeem Sattar 	|	CITY School	|	Faisalabad 	|
-|	Syed Ali Shah	|	FAST	|	Rawalpindi	|
-|	Syed M. Kazim Raza Jafferi	|	SuperNova School	|	Islamabad	|
-|	Ayesha Salyana	|	Siddeeq Public School	|	Islamabad	|
-|	Syed Badar Ul Islam Shah	|	LGS, Wah Cantt	|	Haripur	|
-|	Sami Shahbaz	|	SundarSTEM School	|	Lahore	|
-|	Syed Shuja Haider	|	SundarSTEM School	|	Lahore	|
-|	Abiha Azhar	|	Siddeeq Public School 	|	Islamabad 	|
-|	Hissan Kibria	|	Cadet College Hassanabdal	|	Hassanabdal	|
-|	Muhammad Safiullah	|	Mehran UET	|	Hyderabad	|
-|	Mohammad Arslan	|	Cadet College Hasanabdal	|	Hasanabdal	|
-|	Muhammad Arhum Shahid	|	SundarStem School	|	Lahore	|
-|	Muhammad Ahmad Bhatti	|	Karachi Grammar School	|	Karachi	|
-|	Khawaja Assam Arif	|	Sundar STEM School	|	Lahore	|
-|	Muhammad Aneeq	|	SundarSTEM School	|	Lahore	|
-|	Ahmed Imran Malik	|	Sundar STEM School	|	Lahore	|
-|	Maisha Shaikh	|	Siddeeq Public School 	|	Islamabad	|
-|	Muhammad Saad Munir	|	Aitchison College Lahore	|	Lahore	|
-|	M.  Ghulam Mohiuddin	|	SundarSTEM	|	Lahore	|
-|	RUBAB IBRAHIM 	|	Islamabad Career College 	|	Islamabad 	|
-|	Wanya Sajjad 	|	Siddeeq Public School 	|	Rawalpindi 	|
-|	Fatima Khalid	|	Punjab College	|	Islamabad	|
-|	Abeeha Noor	|	KIPS College	|	Wah cantt	|
-|---|---|---|
+| Name (Team) | Association | Home Town | Position|
+|---|---|---|---|
+|	M. Ahmad Bhatti	(Quest) |	Karachi Grammar School	|	Karachi	| **1st**	|
+|	M. Safiullah (Quest)	|	Mehran UET	|	Hyderabad	| **1st**	|
+|	Ahmed Imran Malik (SS Blue)	|	Sundar STEM School	|	Lahore	|**2nd**	|
+|	Muhammad Aneeq (SS Blue)	|	SundarSTEM School	|	Lahore	|**2nd**	|
+|	Syed Badar Ul Islam Shah (Eagles)	|	LGS, Wah Cantt	|	Haripur	|**3rd**	|
+|	Khawaja Assam Arif (Eagles)	|	Sundar STEM School	|	Lahore	| **3rd**	|
+|	Muhammad Saad Munir (Falcon)	|	Aitchison College Lahore	|	Lahore	|**4th**	|
+|	Sabih Ahmed (Falcon)	|	Siddque Public School	|	Rawalpindi	|**4th**	|
+|	Syed Shuja Haider (SS Red)	|	SundarSTEM School	|	Lahore	| **5th**	|
+|	Sami Shahbaz (SS Red)	|	SundarSTEM School	|	Lahore	| **5th**	|
+|	Zainab Kayani	|	FAST	|	Rawalpindi	|runner-up |
+|	Tooba Naeem Sattar 	|	CITY School	|	Faisalabad 	|runner-up |
+|	Syed Ali Shah	|	FAST	|	Rawalpindi	|runner-up |
+|	Syed M. Kazim Raza Jafferi	|	SuperNova School	|	Islamabad	|runner-up |
+|	Ayesha Salyana	|	Siddeeq Public School	|	Islamabad	|runner-up |
+|	Abiha Azhar	|	Siddeeq Public School 	|	Islamabad 	|runner-up |
+|	Hissan Kibria	|	Cadet College Hassanabdal	|	Hassanabdal	|runner-up |
+|	Mohammad Arslan	|	Cadet College Hasanabdal	|	Hasanabdal	|runner-up |
+|	Muhammad Arhum Shahid	|	SundarStem School	|	Lahore	|runner-up |
+|	Maisha Shaikh	|	Siddeeq Public School 	|	Islamabad	|runner-up |
+|	M.  Ghulam Mohiuddin	|	SundarSTEM	|	Lahore	|runner-up |
+|	RUBAB IBRAHIM 	|	Islamabad Career College 	|	Islamabad 	|runner-up |
+|	Wanya Sajjad 	|	Siddeeq Public School 	|	Rawalpindi 	|runner-up |
+|	Fatima Khalid	|	Punjab College	|	Islamabad	|runner-up |
+|	Abeeha Noor	|	KIPS College	|	Wah cantt	|runner-up |
+|---|---|---|---|
 
 
 

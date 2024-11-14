@@ -6,44 +6,29 @@ categories: comp e3
 permalink: ./pcc24
 ---
 
-## Schedule of Final Round
 
+## Finalists and Winners
 
-
-| Activity | Date | Time |
-|---|---|---|
-| Registration | 13 Nov 2024 | 0830 - 0920 |
-| Opening Cermony | 13 Nov 2024 | 0930 - 1030 |
-| Crypto Competition | 13 Nov 2024 | 1100 - 1600 |
-| Evaluation | 13 Nov 2024 | 1600 - 1900 |
-| Workshop Session | 14 Nov 2024 | 0930 - 1230 |
-| Closing Cermony | 14 Nov 2024 | 1530 - 1700 |
-|---|---|---|
-
-## List of Finalists
-Congrats on making it to the finals of the All Pakistan Cryptography Competition! 
-Out of nearly 900 participants, you’ve secured a spot among the top contenders. 
-We can’t wait to see you bring your best to the final round. Good luck!
-# Professional Track
+## Professional Track 
 The professional competition is an individual event. The list below is in no specific order.
 
-| Name | Association | Home Town |
-|---|---|---|
-|Mehmood ul Hassan 	|FAST	|Islamabad |
-|Mehak Usman	|NUST	|Karachi|
-|Muhammad Ahmed Raza	|Bahria University 	|Rawalpindi|
-|Nasir Ali	|Bahria University 	|Islamabad|
-|Duaa Aamir	|FAST	|Rawalpindi|
-|Muhammad Moarij Ali 	|FAST	|Islamabad|
-|Umer Farooq	|FAST	|Muzaffarabad |
-|Syed Basim Mehmood	|GIKI	|Karachi|
-|Burhan ud din 	|FAST	|Islamabad |
-|Maheen Khalid	|UET, Taxila	|Rawalpindi|
-|Waleed Ahmed	|NASTP	|Rawalpindi|
-|Warda Altaf	|Jinnah University	|Karachi|
-|Syeda Afia Shah	|UET, Peshawar	|Peshawar|
-|Muhammad Zeeshan	|Islamia University 	|Lodhran|
-|---|---|---|
+| Name | Association | Home Town | Position|
+|---|---|---|---|
+|Syed Basim Mehmood	|GIKI	|Karachi| **1st** |
+|Mehmood ul Hassan 	|FAST	|Islamabad | **2nd** |
+|Waleed Ahmed	|NASTP	|Rawalpindi| **3rd** |
+|Maheen Khalid	|UET, Taxila	|Rawalpindi| **4th** |
+|Muhammad Ahmed Raza	|Bahria University 	|Rawalpindi| **5th** |
+|Mehak Usman	|NUST	|Karachi| runner-up |
+|Nasir Ali	|Bahria University 	|Islamabad|runner-up |
+|Duaa Aamir	|FAST	|Rawalpindi|runner-up |
+|Muhammad Moarij Ali 	|FAST	|Islamabad|runner-up |
+|Umer Farooq	|FAST	|Muzaffarabad |runner-up |
+|Burhan ud din 	|FAST	|Islamabad |runner-up |
+|Warda Altaf	|Jinnah University	|Karachi|runner-up |
+|Syeda Afia Shah	|UET, Peshawar	|Peshawar|runner-up |
+|Muhammad Zeeshan	|Islamia University 	|Lodhran|runner-up |
+|---|---|---|---|
 
 # Amateur Track
 

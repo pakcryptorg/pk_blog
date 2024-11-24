@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "PakCrypt-2024 FINAL"
-date:   2024-11-12 07:22:34 +0500
+date:   2024-11-22 07:22:34 +0500
 categories: comp e3
 permalink: ./pcc24
 ---
@@ -34,6 +34,8 @@ The professional competition is an individual event. The runner-ups below are in
 |Syeda Afia Shah	|UET, Peshawar	|Peshawar|runner-up |
 |Muhammad Zeeshan	|Islamia University 	|Lodhran|runner-up |
 |---|---|---|---|
+
+![Professional Finalists]({{site.url}}/{{site.baseurl}}/assets/images/46463829.PNG)
 
 # Amateur Track
 
@@ -72,6 +74,7 @@ The runner-ups below are in no specific order.
 |---|---|---|---|
 
 
+![Amateur Finalists]({{site.url}}/{{site.baseurl}}/assets/images/3456789.PNG)
 
 ## Our History
 PakCrypt competition was initiated in 2022 to promote young talent in the field of cryptography. Last two events of PakCrypt competition in 2022 and 2023 were a great success! It is truly inspiring to see bright minds across Pakistan come together and showcase their talent in the field of cryptography. 

@@ -15,6 +15,9 @@ the top five positions in each track were announced. The next day, on November 1
 2024, a grand closing ceremony was held, where prizes were awarded. 
 The prize money varied between Rs. 20,000 (runner-ups) to Rs. 250,000 (winners) depending on the track and attained position.
 # Professional Track 
+
+![Professional Finalists]({{site.url}}/{{site.baseurl}}/assets/images/46463829.PNG)
+
 The professional competition is an individual event. The runner-ups below are in no specific order.
 
 | Name | Association | Home Town | Position|
@@ -35,9 +38,10 @@ The professional competition is an individual event. The runner-ups below are in
 |Muhammad Zeeshan	|Islamia University 	|Lodhran|runner-up |
 |---|---|---|---|
 
-![Professional Finalists]({{site.url}}/{{site.baseurl}}/assets/images/46463829.PNG)
+
 
 # Amateur Track
+![Amateur Finalists]({{site.url}}/{{site.baseurl}}/assets/images/3456789.PNG)
 
 The amateur competition is a team event with two people per team. 
 Team assignments are determined solely by the PakCrypt Organization Committee, 
@@ -74,7 +78,7 @@ The runner-ups below are in no specific order.
 |---|---|---|---|
 
 
-![Amateur Finalists]({{site.url}}/{{site.baseurl}}/assets/images/3456789.PNG)
+
 
 ## Our History
 PakCrypt competition was initiated in 2022 to promote young talent in the field of cryptography. Last two events of PakCrypt competition in 2022 and 2023 were a great success! It is truly inspiring to see bright minds across Pakistan come together and showcase their talent in the field of cryptography. 

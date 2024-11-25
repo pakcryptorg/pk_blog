@@ -41,7 +41,7 @@ The professional competition is an individual event. The runner-ups below are in
 
 
 # Amateur Track
-![Amateur Finalists]({{site.url}}/{{site.baseurl}}/assets/images/3456789.PNG)
+![Amateur Finalists]({{site.url}}/{{site.baseurl}}/assets/images/34567890.PNG)
 
 The amateur competition is a team event with two people per team. 
 Team assignments are determined solely by the PakCrypt Organization Committee, 

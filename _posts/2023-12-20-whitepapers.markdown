@@ -1,11 +1,16 @@
 ---
 layout: post
 title:  "Whitepapers"
-date:   2024-03-01 07:22:34 +0500
+date:   2024-12-24 07:22:34 +0500
 categories: whitepapers v1
 permalink: ./wp
 ---
 
+
+### Smishing in Pakistan ###
+*2024-12-24*|
+Smishing, or SMS phishing, has emerged as a significant cybersecurity threat in Pakistan, leveraging the widespread use of mobile phones to deceive users into divulging sensitive information. This paper examines the prevalence of smishing attacks in Pakistan, highlighting notable incidents and analyzing the factors contributing to their rise. Through a survey of reported cases and existing literature, we identify key vulnerabilities within Pakistan's digital landscape. The analysis underscores the role of limited public awareness, inadequate regulatory measures, and technological challenges in exacerbating smishing threats. To mitigate these risks, we propose potential solutions at both individual and governmental levels, including enhanced cybersecurity education and stronger policy enforcement. The findings aim to inform stakeholders and contribute to the development of effective strategies to combat smishing in Pakistan.
+[PDF]({{site.url}}/{{site.baseurl}}/assets/whitepapers/WPSIP2024.pdf)
 
 ### PQC as It Stands in Industry ###
 *2024-03-01*|

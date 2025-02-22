@@ -10,11 +10,11 @@ permalink: ./about
 Cryptography plays a critical role in safeguarding communication and data on modern computer systems. There is a pressing need for a robust national strategy on cryptography that promotes its widespread use to protect the information interests of people and organizations, and to maintain national sovereignty.
 
 ### Our History
-PakCrypt was initiated to promote young talent in the field of cryptography. The inaugural PakCrypt 2022 and later PakCrypt 2023 and 2024 competitions were resounding success. But PakCrypt is more than just a competition. It's a platform that provides young minds with opportunities to connect with industry experts, receive job offers, secure funding for further research, and engage in mutual collaboration.
+PakCrypt was initiated to promote research talent in the field of cryptography. The inaugural PakCrypt 2022 and later PakCrypt 2023 and 2024 competitions were resounding success. But PakCrypt is more than just a research group. It's a platform that provides young minds with opportunities to connect with industry experts, receive job offers, secure funding for further research, and engage in mutual collaboration.
 
 
 ### Why PakCrypt.org was founded?
-Our mission is to promote awareness and understanding of cryptography among ordinary citizens, enabling them to make informed decisions about their privacy. Simultaneously, we aim to foster a conducive environment for state-of-the-art research in cryptography within Pakistan, to ensure our nation is at the forefront of advancements in this crucial field.
+Our primary mission is to promote crypto innovation. Simultaneously, we aim to foster a conducive environment for state-of-the-art research in cryptography within Pakistan, to ensure our industry is at the forefront of advancements in this crucial field.
 
 ### PakCrypt Society 
 PakCrypt Society's objectives are grouped under three key themes:

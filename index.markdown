@@ -11,7 +11,7 @@ layout: home
 
 [PakCrypt@X](https://www.twitter.com/PakCryptOrg) | [CryptCorner](https://nccs.pk/CryptoCorner/Home.html) | [Conference](https://crypto.iacr.org/2025/)
 
-# Pakistan National Cryptography Challenge
+# Pakistan Crypto Research Group
 
 
 

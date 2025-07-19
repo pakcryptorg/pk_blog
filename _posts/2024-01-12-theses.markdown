@@ -135,3 +135,6 @@ Following projects are sought for. The student may finalize the details (deliver
 - PQC for secure mobile communications
 - PQC for securing cyber-physical systems (CPS)
 - Secure DevSecOps using PQC in software development
+
+**Note:** In case of any query, please contact [Dr. S. Malik](mailto:smk@pakcrypt.org) after completing the registration.
+ 

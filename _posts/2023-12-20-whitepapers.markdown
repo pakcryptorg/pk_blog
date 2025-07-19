@@ -1,10 +1,17 @@
 ---
 layout: post
 title:  "Whitepapers"
-date:   2024-12-24 07:22:34 +0500
+date:   2025-06-15 07:22:34 +0500
 categories: whitepapers v1
 permalink: ./wp
 ---
+
+
+
+### Smartphone Hacking ###
+*2025-06-15*|
+Modern Android smartphones carry a wealth of sensitive data, making them prime targets for a spectrum of threat actors – from cybercriminal gangs to advanced persistent threats (APTs) and state agencies. Since 2020, the South Asian region (India, Pakistan, Bangladesh, etc.) has witnessed a surge in real-world Android attacks that range from basic social engineering tricks to sophisticated zero-click exploits. 
+[PDF]({{site.url}}/{{site.baseurl}}/assets/whitepapers/ASHSA.pdf)
 
 
 ### Smishing in Pakistan ###

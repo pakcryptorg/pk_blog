@@ -1,0 +1,96 @@
+---
+layout: post
+title:  "PakCrypt-2025"
+date:   2025-07-19 11:22:34 +0500
+categories: comp e4
+permalink: ./pc25
+---
+
+
+
+## Important Dates
+
+| Event                                                     | Dates                     |
+| --------------------------------------------------------- | ------------------------- |
+| Pre-Qualifier Round for PakCrypt Cryptography Competition | 01-Aug-2025 – 30-Sep-2025 |
+| Qualifier Round PakCrypt Crypto Competition               | 15-Oct-2025 – 30-Oct-2025 |
+| Final Round                                               | 26–27 Nov 2025            |
+| International Cryptography Winter School                  | 24–26 Nov 2025            |
+| International Cyber Security Symposium                    | 26–27 Nov 2025            |
+| Closing Ceremony Prize Distribution                       | 28 Nov 2025               |
+```
+
+Prize Money of at least Rs. 3.0M will be distributed in different competition formats.
+
+For all finalists, registrations in Winter School and Symposium, as well as accommodation will be free of charge.
+
+## Our History
+PakCrypt competition was initiated in 2022 to promote young talent in the field of cryptography. Last three events of PakCrypt from 2022 to 2024 were great success! It’s truly inspiring to see bright minds across Pakistan come together and showcase their talent in the field of cryptography. 
+
+Last year, the PakCrypt 2024 competition included more than 900 participants from all regions of Pakistan competing in the three-round competition that culminated in a final round on the NCCS campus. The finalist teams competed for cash prizes totaling Rs. 1.8M, but the competition was much more than this. It provided young minds with opportunities to connect with industry experts, receive job offers, funding for further research, and engage in mutual collaboration. 
+
+## About PakCrypt 2025 Competition
+PakCrypt 2025 is a two-track, three-round competition that comprises both online and on-campus rounds. The competition aims to bring together talented minds of Pakistan around the world to showcase their skills and compete for cash prizes in both professional and amateur tracks.
+
+### Round 1: Registration 				       
+The first round is open to all Pakistani nationals. It involves a registration process coupled with a screening test. The registration process collects basic information about candidates, while the test serves as an entry-level filter.
+Top qualifiers from Round 1 will be announced by the start of October and invited to compete in the second round.
+
+### Round 2: Online Competition
+The second round of PakCrypt will be conducted online. It is planned to take place in middle of October. Participants who qualify from Round 1 will have the opportunity to display their skills and compete against other talented individuals. The qualifiers of Round 2 will be given opportunity to register for Round 3 as a team of 1-2 persons  (both of whom must be Round 3 qualified). Note that prizes will be equally shared among winning team members. 
+
+### Round 3: On-Campus Final
+The final round of PakCrypt 2025 will be held on campus at NCCS, Air University, Islamabad in Nov 2025. The top teams from the previous rounds will compete for the prize and prestige. 
+
+Please visit the Crypto Corner at the NCCS website regularly for further details & announcements. 
+
+## Instructions
+- The registration for Round 1 is estimated to take approximately 30 minutes. It’s general math aptitude test.  Plan accordingly. 
+
+- The concepts in following resources will help to unlock many riddles of Round 2.
+Stu Schwartz: Cryptology for Beginners (Amateur)
+W. Stalling: Cryptography and Network Security 7e and JP Aumasson: Serious Cryptography (Professional)
+
+- For Round 3, if you are coming out of the twin-cities, there are a number of slots for free accommodation. Please contact the organizers if you are selected for Round 3, at least 2 weeks in advance.
+
+- No TA / DA is admissible for Round 3 participants, however, food and accommodation may be arranged for qualified top teams. Further, each finalist team that does not fall in top-3 slots will receive an encouragement cash prize.
+
+- For Amateur Track in Round 3, a teacher of corresponding institute may accompany as part of the student team, however, the teacher will not be allowed to help students in Round 3 challenges.
+
+- The amount of prize money, allied benefits, and distribution formula will be announced prior to Round 3; At baseline, Rs. 1.7M is already allocated by  PakCrypt organizers for prizes.
+
+- All Pakistani nationals, except employees of intelligence/sensitive orgs, are allowed to participate. In case of confusion, contact PakCrypt organizers at 2025@pakcrypt.org 
+
+- For Amateurs, the upper age limit is 20-year. (born after 01-Jul-2005) 
+
+## Example Questions in Initial Rounds
+
+### Q 1
+Consider the sequence of numbers: 1, 1, 2, 3, 5, 8, 13, .... and so on. What would be the next number in this sequence?
+
+### Q 2
+A group of friends went on a holiday to a beach resort. They’ve decided to participate in a relay race where each person can run at a different speed. The group consists of 4 friends: Alice, Bob, Charlie, and David. Here are their respective speeds:
+
+Alice can complete the race in 10 minutes; Bob can complete the race in 15 minutes; Charlie can complete the race in 20 minutes; David can complete the race in 25 minutes
+However, due to the rules of the relay race, only two people can run at the same time, and they must carry a baton that they pass on to the next pair. The speed of each pair is determined by the slower person.
+Given these conditions: 
+
+- What is the fastest time that all friends can complete the race?
+- What is the order of runners for that fastest time?
+
+
+### Q 3
+ Consider the following statements: “All apples are fruits. No fruit is a vegetable. Some vegetables are green.”
+Based on these statements (and nothing else), answer the following questions:
+
+- Are all fruits apples?
+- Can an apple be a vegetable?
+- Are all vegetables green?
+
+
+
+
+
+
+
+

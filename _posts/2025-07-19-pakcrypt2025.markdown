@@ -33,8 +33,8 @@ PakCrypt competition was initiated in 2022 to promote young talent in the field 
 
 Last year, the PakCrypt 2024 competition included more than 900 participants from all regions of Pakistan competing in the three-round competition that culminated in a final round on the NCCS campus. The finalist teams competed for cash prizes totaling Rs. 1.8M, but the competition was much more than this. It provided young minds with opportunities to connect with industry experts, receive job offers, funding for further research, and engage in mutual collaboration. 
 
-## About PakCrypt 2025 Competition
-PakCrypt 2025 is a two-track, three-round competition that comprises both online and on-campus rounds. The competition aims to bring together talented minds of Pakistan around the world to showcase their skills and compete for cash prizes in both professional and amateur tracks.
+## About PakCrypt 2025 Crypto Competition
+The cryptography competition is a two-track, three-round competition that comprises both online and on-campus rounds. The competition aims to bring together talented minds of Pakistan around the world to showcase their skills and compete for cash prizes in both professional and amateur tracks.
 
 ### Round 1: Registration 				       
 The first round is open to all Pakistani nationals. It involves a registration process coupled with a screening test. The registration process collects basic information about candidates, while the test serves as an entry-level filter.
@@ -48,7 +48,7 @@ The final round of PakCrypt 2025 will be held on campus at NCCS, Air University,
 
 Please visit the Crypto Corner at the NCCS website regularly for further details & announcements. 
 
-## Instructions
+### Instructions for Competition
 - The registration for Round 1 is estimated to take approximately 30 minutes. It’s general math aptitude test.  Plan accordingly. 
 
 - The concepts in following resources will help to unlock many riddles of Round 2.
@@ -61,18 +61,18 @@ W. Stalling: Cryptography and Network Security 7e and JP Aumasson: Serious Crypt
 
 - For Amateur Track in Round 3, a teacher of corresponding institute may accompany as part of the student team, however, the teacher will not be allowed to help students in Round 3 challenges.
 
-- The amount of prize money, allied benefits, and distribution formula will be announced prior to Round 3; At baseline, Rs. 1.7M is already allocated by  PakCrypt organizers for prizes.
+- The amount of prize money, allied benefits, and distribution formula will be announced prior to Round 3.
 
-- All Pakistani nationals, except employees of intelligence/sensitive orgs, are allowed to participate. In case of confusion, contact PakCrypt organizers at 2025@pakcrypt.org 
+- All Pakistani nationals are allowed to participate.  
 
 - For Amateurs, the upper age limit is 20-year. (born after 01-Jul-2005) 
 
-## Example Questions in Initial Rounds
+### Example Questions in Initial Rounds
 
-### Q 1
+**Q 1**
 Consider the sequence of numbers: 1, 1, 2, 3, 5, 8, 13, .... and so on. What would be the next number in this sequence?
 
-### Q 2
+**Q 2**
 A group of friends went on a holiday to a beach resort. They’ve decided to participate in a relay race where each person can run at a different speed. The group consists of 4 friends: Alice, Bob, Charlie, and David. Here are their respective speeds:
 
 Alice can complete the race in 10 minutes; Bob can complete the race in 15 minutes; Charlie can complete the race in 20 minutes; David can complete the race in 25 minutes
@@ -83,7 +83,7 @@ Given these conditions:
 - What is the order of runners for that fastest time?
 
 
-### Q 3
+**Q 3**
  Consider the following statements: “All apples are fruits. No fruit is a vegetable. Some vegetables are green.”
 Based on these statements (and nothing else), answer the following questions:
 

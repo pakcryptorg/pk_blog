@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "PakCrypt-2025"
+title:  "PakCrypt-2025: Intl Symposium and Competitions"
 date:   2025-07-19 11:22:34 +0500
 categories: comp e4
 permalink: ./pc25
 ---
 
 **[Pre-register Now](https://bit.ly/pcs25p)**
+
 
 ## Important Dates
 
@@ -18,14 +19,14 @@ permalink: ./pc25
 | Final Round                                               | 26–27 Nov 2025            |
 | International Cryptography Winter School                  | 24–26 Nov 2025            |
 | International Cyber Security Symposium                    | 26–27 Nov 2025            |
-| Closing Ceremony Prize Distribution                       | 28 Nov 2025               |
+| Closing Ceremony and Prize Distribution                   | 28 Nov 2025               |
 | - | - |
 
 
 ### Note
 - Prize Money of approx Rs. 3.0M will be distributed in different competition formats.
 
-- For all finalists, registrations in Winter School and Symposium, as well as accommodation will be free of charge.
+- For all PakCrypt finalists, registrations in Winter School and Symposium (worth of Rs. 30K), as well as accommodation (worth of Rs. 50K) will be FREE.
 
 ## Our History
 PakCrypt competition was initiated in 2022 to promote young talent in the field of cryptography. Last three events of PakCrypt from 2022 to 2024 were great success! It’s truly inspiring to see bright minds across Pakistan come together and showcase their talent in the field of cryptography. 

@@ -9,11 +9,10 @@ layout: home
 
 ![PakCrypt](.{{site.baseurl}}/assets/images/landing26.jpg)
 
-[PakCrypt@X](https://www.twitter.com/PakCryptOrg) | [CryptCorner](https://nccs.pk/CryptoCorner/Home.html) | [Conference](https://crypto.iacr.org/2025/)
+[PakCrypt@X](https://www.twitter.com/PakCryptOrg) | [CryptCorner](https://nccs.pk/CryptoCorner/Home.html) | [Symposium](https://pakcrypt.org/pc25)
 
-# PakCrypt NPO
 
-**[Pre-register for PakCrypt 2025 Competitions](bit.ly/pcs25p)
+
 
 
 

@@ -9,16 +9,16 @@ permalink: ./pc25
 
 
 ## Important Dates
-
+| - | - |
 | Event                                                     | Dates                     |
-| --------------------------------------------------------- | ------------------------- |
+| - | - |
 | Pre-Qualifier Round for PakCrypt Cryptography Competition | 01-Aug-2025 – 30-Sep-2025 |
 | Qualifier Round PakCrypt Crypto Competition               | 15-Oct-2025 – 30-Oct-2025 |
 | Final Round                                               | 26–27 Nov 2025            |
 | International Cryptography Winter School                  | 24–26 Nov 2025            |
 | International Cyber Security Symposium                    | 26–27 Nov 2025            |
 | Closing Ceremony Prize Distribution                       | 28 Nov 2025               |
-```
+| - | - |
 
 Prize Money of at least Rs. 3.0M will be distributed in different competition formats.
 

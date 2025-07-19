@@ -8,248 +8,130 @@ permalink: ./theses
 
 # Financial Assistance Program for Cryptology Thesis Projects
 
-We are pleased to announce a new program aimed at providing financial assistance (up to Rs. 200K) to final year undergraduate (BE / BS) and graduate (MS) students in higher education institutions for their final year thesis projects related to cryptology. This initiative is designed to foster creativity, innovation, and a mathematical mindset among students interested in pursuing careers in cryptology.
+We are pleased to announce a new program aimed at providing financial assistance (Rs. 100K-200K) to final year undergraduate (BE / BS) and graduate (MS) students in higher education institutions for their final year thesis projects related to cryptology. 
 To apply, visit **Crypto Corner** at **[NCCS.pk](https://nccs.pk/)**. (National Center for Cyber Security)
 
 ### Eligibility Criteria
-To be eligible for the program, students must be enrolled in a full-time undergraduate or graduate program. 
-
-![Thesis]({{site.url}}/{{site.baseurl}}/assets/images/theses1.jpg)
----
-# Project 7: Multi-Platform VM for Crypto Lib
-Type: Security Software 
-
-## Description
-
-This project aims to develop a portable virtual machine capable of executing ciphers and security-sensitive code across various operating systems (Linux, Windows, Mac, etc.) without recompilation. This virtual machine will offer several advantages, including:
-
-* **Platform Independence:** Execute the same code on different platforms, simplifying development and deployment.
-* **Dynamic Code Loading:** Upload new ciphers and security code without recompiling the entire virtual machine, increasing flexibility and adaptability.
-* **Hardened Environment:** Provide a secure sandbox for executing untrusted code, enhancing security and isolation.
-
----
-## Topic 6 
-Risk Management
-
-### Description:
-The rapid growth of mega-constellations in low Earth orbit (LEO) poses a serious threat to the space environment and national interests. The goal of this project is to conduct a comprehensive risk assessment, analysis, and identification for mega-constellations in LEO, and to propose effective and feasible risk management strategies and solutions. The project will focus on the current and future scenarios of mega-constellation deployment and operation, and will consider the technical, legal, economic, national sovereignty and cyber security of the problem.
-
-### Guideline:
-
-1. **Understand Target Domain**:
-First, you need to understand what mega-constellations in LEO. 
-- **Starlink**, operated by the American company SpaceX, which plans to launch up to 42,000 satellites in LEO to provide global Internet service.
-- **OneWeb**, a British company that aims to deploy about 6,400 satellites in LEO to offer high-speed Internet access to remote areas.
-- **Iridium Next**, a constellation of 66 satellites in LEO that replaced the original Iridium constellation and provides satellite telephony and data services.
-- **Globalstar**, a constellation of 48 satellites in LEO that offers voice and data communication services, as well as satellite-based tracking and messaging devices.
-- **Flock**, a constellation of small satellites operated by the American company Planet Labs, which provides high-resolution Earth imagery and analytics.
-
-2. **Identify Relevant Risks**:
-Second you need to understand why they pose a risk to the space environment, other satellites, national sovereignty, and in particular to cyber security. 
-You need to identify the main sources and types of risks associated with mega-constellations in LEO, such as collision, debris, interference, regulation, and cybersecurity. You can use a risk identification framework, to help you categorize and prioritize the risks based on their likelihood and impact.
- 
- 1. **Analyize Risks**:
- Third, you need to analyze the risks and assess their potential consequences and mitigation strategies. You can use a risk analysis tool, to help you quantify and visualize the risks and their interdependencies. You can also use a risk assessment matrix to help you evaluate the risks and decide how to respond to them.
-
-1. **Communicate Risks**:
-Fourth, you need to communicate the risks and your recommendations to the stakeholders and decision-makers of your project. You can use a risk report template to help you structure and present your findings and suggestions in a clear and concise way.
-
----
-
-## Topic 5 
-Protocol R&D
-### Description:
-Develop innovative techniques for utilizing HSM (Hardware Security Module) features (e.g., secure enclaves, tamper-proof hardware) to improve the security and efficiency of MPC protocols. Overall, you must foucus on enhancing the security and performance of existing MPC protocols, opening new possibilities for sensitive data collaboration.
-
-### Guideline:
-
-1. **Identify Specifics**:
-Study HSM features; you may need to expand the range of cryptographic operations supported by HSMs for MPC.
-
-2. **Literature Review**:
- Review existing research on HSM integration for MPC, focusing on Existing approaches and their limitations.
-Identify Research Gaps with focus on efficency of existing MPC protocols.
-
-3. **Design a Novel Solution**:
-Enhanced cryptographic libraries for HSMs supporting MPC-specific operations.
-
-4. **Proof-of-Concept (PoC)**:
- Select an appropriate MPC framework that supports HSM integration, such as MP-SPDZ, SCALE-MAMBA, or others.
-Integrate with HSM. Develop software components to interact with the chosen HSM model, ensuring secure communication and data handling.
-
-5. **Rigorous Evaluation**:
--Benchmark Performance: Measure execution time, communication overhead, and resource utilization compared to existing approaches.
--Analyze Security Properties: Conduct formal security analysis to prove the confidentiality, integrity, and privacy guarantees of your solution.
-
----
-## Topic 4 
-Development Focused
-### Description:
-This project aims to develop a real-time tool for evaluating the cryptographic quality of encrypted data streams generated by IoT devices. The relevance of this problem stems from the growing use of IoT devices and the increasing need for secure communication. However, many mistakes and implementation flaws occur in practice, leading to a weakening of encryption quality. The proposed tool will play a crucial role in detecting the cryptographic quality of encrypted data streams
-
-### Guideline:
-
-1. **Literature Review**: Start by conducting a thorough literature review on the current state of cryptographic quality evaluation tools, focusing on those that work with encrypted data streams, especially in the context of IoT.
-
-2. **Understanding IoT and Encryption**: Deepen your understanding of how encryption is implemented in IoT devices. This could involve studying the architecture of IoT devices, understanding how they handle data streams, and how they implement encryption.
-
-3. **Identifying Evaluation Metrics**: Based on your understanding, identify potential metrics for evaluating the cryptographic quality of encrypted data streams. This could be related to the avalanche effect, entropy, average, Chi-squared test, compression test, and other aspects of the encryption process.
-
-4. **Algorithm Design**: Design algorithms that can evaluate cryptographic quality. These algorithms should be able to evaluate the metrics you have previously determined.
-
-5. **Tool Development**: Develop a tool that implements these algorithms. This tool should be able to handle continuous streams of encrypted data, perform the evaluation in real-time, and highlight potential weak points in the encryption.
-
-6. **Testing and Evaluation**: Test your tool under different scenarios. This could involve using it on different types of IoT devices, with different volumes of encrypted data streams, and different encryption settings. Evaluate its performance, accuracy, and efficiency.
-
----
-
-## Topic 3 
-Methodology R&D Focused
-### Background:
-- Wide-trail strategy: This highly successful design principle ensures provable security bounds against linear and differential cryptanalysis in SPN (Substitution-Permutation Network) ciphers. Its focus lies in maximizing diffusion through linear layers and minimizing weight of differential trails.
-- Non-SPN ciphers: These ciphers employ diverse operations beyond substitutions and permutations, offering potential for resilience against evolving cryptanalytical techniques. However, designing non-SPN ciphers with provable security guarantees remains a challenge.
-Recent research trends (past 5 years):  
-- Sparx and LAX: These ARX-based ciphers (Addition, Rotation, Xor) utilize the "Long Trail Strategy" to achieve provably secure non-SPN designs. Long trails focus on large S-boxes with moderate diffusion, contrasting with the wide-trail approach.
-- Mixed ciphers: Combining SPN and non-SPN operations (e.g., PRESENT, SKINNY) demonstrates promising security features and performance enhancements. However, provable security analysis for such structures remains complex. 
-
-### Problem:
-Investigate and develop a design strategy for mixed ciphers that offers provable security bounds against advanced cryptanalytic attacks (e.g., integral cryptanalysis, boomerang attacks) by leveraging both wide-trail and long-trail principles.
-
-### Guideline:
-
-1. **Understand the basics**: Thoroughly analyze existing works on wide-trail strategy, long-trail strategy, mixed ciphers, and relevant cryptanalytic techniques. This informs your understanding of design principles, security vulnerabilities, and potential research gaps..
-
-2. **Formalize design strategy**: Define the specific mix of SPN and non-SPN operations you'll employ. Develop a clear framework for incorporating wide-trail and long-trail principles within the chosen mixed structure. 
-
-3. **Security Analysis**: TUtilize formal mathematical tools (e.g., Boolean functions, trails, differentials) to derive provable security bounds against targeted cryptanalytic attacks. This demonstrates the robustness of your proposed design strategy.
-
-4. **Implementation**: Implement your proposed cipher and compare its performance (e.g., encryption/decryption speed, memory footprint) with existing ciphers. This showcases the practicality and efficiency of your research.
-
-5. **validation**: Analyze the effectiveness of your security analysis by applying attack simulations on your implemented cipher. Compare your design with other mixed ciphers in terms of both security and performance.
-
----
-
-## Topic 2 
-AI Application Focused
-### Description:
-Traditional methods for finding high-probability trails in ciphers can be computationally expensive and limited in scope. Deep learning models have shown potential in discovering complex trails with higher probabilities.
-In this project, you will develop a deep learning architecture that efficiently identifies high-probability trails for a specific cipher with better results compared to existing methods. 
-A distinguisher is a tool that can distinguish between a random permutation and a cryptographic algorithm. In this context, a machine learning-based distinguisher is a tool that uses machine learning techniques to distinguish between a random permutation and a cryptographic algorithm. Recent research has shown that machine learning-based distinguishers can be more efficient than traditional distinguishers 
-
-### Guideline:
-
-1. **Understand the basics**: Before you can design a machine learning-based distinguisher, you need to have a good understanding of the basics of differential cryptanalysis. You can start by reading [this paper](https://eprint.iacr.org/2020/913.pdf).
-
-2. **existing ML distinguishers**: You should study the existing machine learning-based distinguishers that have been proposed in recent research. 
-
-3. **Identify a suitable dataset**: To train a machine learning-based distinguisher, you need a suitable dataset. Luckily for this problem you can generate dataset by simulations.
-
-4. **Preprocess the dataset**: You need to preprocess it to make it suitable for training your model. This may involve tasks such as data cleaning, feature extraction, and normalization.
-
-5. **Train the machine learning model**: You can use a variety of machine learning algorithms to train your model, such as decision trees, random forests, and neural networks. You should experiment with different algorithms and hyperparameters to find the best model for your dataset.
-
-6. **Evaluate the performance **: You can do this by using metrics such as accuracy, precision, recall, and F1 score. You should also compare the performance of your model to that of existing distinguishers.
-
----
-## Topic 1 
-Algorithm Focused
-
-### Description:
-Investigate the feasibility and performance of implementing Simon's algorithm on a near-term quantum computer to break a specific class of block ciphers vulnerable to  differential attacks.
-
-### Guideline:
-
-1. **Literature Review:**
-   - Conduct an in-depth literature review on the current state of differential cryptanalysis, symmetric key ciphers, and existing quantum algorithms that could potentially accelerate such cryptanalysis.
-   - Identify gaps or areas where quantum computing could bring significant improvements.
-
-2. **Select Symmetric Key Ciphers:**
-   - Choose a set of symmetric key ciphers for your analysis. Consider widely used algorithms like AES, DES, or other relevant ones.
-
-3. **Understand Differential Cryptanalysis:**
-   - Gain a solid understanding of traditional (non-quantum) differential cryptanalysis techniques for the selected ciphers.
-
-4. **Explore Quantum Algorithms:**
-   - Investigate existing quantum algorithms applicable to differential cryptanalysis. This may involve studying algorithms like Grover's algorithm and adapting them to the context of differential cryptanalysis.
-
-5. **Select Quantum Framework:**
-   - Choose a quantum computing framework for your implementation. Options include Cirq, Qiskit, ProjectQ, or Google TFQ. Select the one that aligns with your preferences and available resources.
-
-6. **Implement Quantum Differential Cryptanalysis:**
-   - Develop quantum algorithms for differential cryptanalysis within your chosen framework. Ensure that the implementation is accurate and efficient.
-
-7. **Simulations and Benchmarking:**
-   - Use the quantum framework to simulate the quantum algorithms and benchmark their performance against classical methods for the chosen symmetric key ciphers.
-
-8. **Quantum Circuit Optimization:**
-   - Optimize your quantum circuits to improve efficiency and reduce errors. Consider techniques such as circuit compilation and error mitigation.
-
-
-![Thesis]({{site.url}}/{{site.baseurl}}/assets/images/theses2.png)
-
-## How to Apply for Funding ? <a id="lastsec"></a>
-
-The approved project proposals will receive funding up to Rs. 200K / project in total. This funding is a token of appreciation primarily intended to encourage cutting-edge research.
-
-If you are interested, we reocmmend visiting **Crypto Corner** at **[NCCS.pk](https://nccs.pk/)**.
-Alternatively, follow these three steps:
-
-### 3 Steps
-
-1. **Concept Paper:**
-    - **Introduction**: Briefly introduce the project, highlighting its importance and relevance.
-    - **Objectives**: Clearly state the goals and objectives of the project that you want to achieve.
-    - **Timeline (6 Markers)**: Provide a timeline or schedule with at least 6 milestones/progress markers for the different phases of the project.
-    - **Budget**: If applicable, outline the estimated financial requirements for the project.
-        - Note that the funding provided is primarily allocated to support the student and is not tied to the overall project budget. 
-    - **References**: Include 2-3 recent references to published work that are most relevant to this project.
-
-2. **Nominate a Focal Person:**
-    - Nominate a focal person from your university faculty with whom our team will interact to track the progress of your research.
-        - Ideally, the focal person should be the Head of Department.
-        - Alternatively, they may also be a full-time faculty member (minimum rank of Assistant Professor) or an officer from the university’s management.
-    - **Responsibilities of the focal person**:
-        - Authenticate student identities, review records and eligibility.
-        - Supervise / Ensure timely execution of the project.
-        - Facilitate disbursements of project funds to the students.
-
-3. **Sign Up:**
-    - Fill in the [Request Form](https://bit.ly/pakcryptsfund).
-
-
-We believe that this multi-step engagement process ensures commitment, clarity, and effective communication throughout the research collaboration. 
-Please reach PakCrypt team if you didn't get reply within 15 days. 
-
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Jekyll Site</title>
-    <style>
-        /* Style for the button */
-        .feedback-button {
-            display: block; /* Change to block to make it a block element and start on a new line */
-            margin-bottom: 15px; /* Add some space below the button */
-            padding: 10px 20px;
-            font-size: 16px;
-            font-weight: bold;
-            text-align: center;
-            text-decoration: none;
-            background-color: #3498db;
-            color: #ffffff;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-        }
-    </style>
-</head>
-<body>
-
-<!-- Feedback Button -->
-<a href="https://bit.ly/fbpakcrypt" class="feedback-button" target="_blank">Quick Feedback</a>
-
-<!-- Your other Jekyll content goes here -->
-
-</body>
-</html>
- 
+To be eligible for the program, students must be enrolled in a full-time undergraduate or graduate program in Pakistan. 
+
+# Project Ideas
+
+Following projects are sought for. The student may finalize the details (deliverables, approach, etc.) with help of academic supervisor or PakCrypt team at NCCS.
+
+## Classical Cryptanalysis
+
+- Study and implementation of linear cryptanalysis (ref: M. Heys, Memorial University of Newfoundland)
+- Study and implementation of differential cryptanalysis (ref: M. Heys)
+- Implementation of differential cryptanalysis on 3-round DES
+- Generation and analysis of S-boxes of different orders in Galois Field
+- Homomorphic encryption: Secure telling and other processes
+- Tamper-proof, secure, and reliable blockchain
+- Construction of Boolean function of degree 10
+- Mathematical structures of S-boxes
+- Diehard cipher testing suite for block ciphers
+- New directions in QKD (algorithmic level)
+- Comparison of NIST finalized post-quantum secure key establishment algorithms
+- Comparison of NIST finalized post-quantum secure digital signature algorithms
+- Implementation of ECC for different applications
+
+## Post-Quantum & Embedded Systems
+
+- Smart card and post-quantum cryptography
+- Implementation of PQC on embedded devices in the IoT
+- Threshold cryptography implementation for software applications
+
+## Advanced Cryptanalysis
+
+- Mathematical cryptanalysis
+- Quantum-enhanced linear/differential cryptanalysis (Cirq, Qiskit, ProjectQ, Google TFQ)
+- Cryptanalysis of lightweight block ciphers using linear/differential techniques
+- Machine learning assisted cryptanalysis (discovery of trails and relations)
+- Cipher attacks with access only through encryption modes
+- Provably secure design strategies for non-SPN ciphers
+- Real-time cryptanalysis tool for detecting linear patterns in encrypted network traffic
+
+## Non-linearity in Cipher Design
+
+- Optimization of S-boxes using machine learning
+- Low-latency masking for S-boxes in lightweight crypto
+- S-box representations and their role in algebraic attacks
+- Design of S-boxes for NxM mappings (N > M, N = M, N < M)
+- Implications of using large S-box sizes (10–32 bits)
+- AI/deep-learning based search for new S-box designs
+- Efficient forward/inverse S-box implementations (CPU/FPGA)
+- Theory and analysis of stateful S-boxes
+- S-box design for tactical radios and lightweight crypto standards
+
+## Secure Private Clouds
+
+- Homomorphic encryption for healthcare data on public clouds
+- Secure multi-party computation (MPC) for machine learning
+- Homomorphic encryption in blockchain platforms (e.g., Hyperledger)
+- Cryptographic private cloud layer for semi-trusted cloud providers
+- Multi-cloud architecture for secure computation using MPC & HE
+- Privacy-preserving analytics using HE in DB systems
+- Secure image/video processing using MPC
+
+## Blockchain and HSMs
+
+- Quantum-resistant blockchain systems
+- Blockchain 4.0: Speed, UX, and usability improvements
+- Hardware security modules (HSMs) for private cloud security
+- Post-quantum cryptography inside HSMs
+- Secure CPU/FPGA execution environments in HSMs
+- HSMs for multi-party computation
+- Secure software updates via HSMs
+- Securing ML models via HSMs
+- HSMs + blockchain for secure key management
+- Framework for Android security using private HSMs
+
+## Applied Mathematics for Cryptology
+
+- Boolean functions of higher degree (>10) and cryptographic relevance
+- Blockchain 4.0: usability and infrastructure implications
+- Use of non-associative algebraic structures in cryptography
+- Algebraic attacks on AES (multivariate equation systems)
+- Abstract crypto algorithms on groups/algebras
+- Randomness test techniques (NIST STS, ML-based distinguishers)
+- Direct PRF constructions vs. traditional block cipher based PRFs
+- Quantitative comparison of Feistel, SPN, Sponge, and LWC constructions
+- Hybrid modes of encryption for radio communications
+- Signature schemes in the random oracle model
+- Boolean functions in self-synchronizing stream ciphers
+- Tools for finding affine-equivalent Boolean functions
+- Shannon entropy-based randomness detection for live streams
+
+## Niche Applications
+
+- Advanced threshold cryptography
+- Zero-knowledge authentication and cross-platform mutual auth
+- Multi-user authenticated encryption with tweakable block ciphers
+- Secure key-sharing for WSNs and large user groups
+- Quantum time/memory/data trade-off attacks
+- Fair multi-secret sharing with asymmetric bivariate polynomials
+- Analog signal encryption using quantum techniques
+- Software scrambling for reverse engineering protection
+- Post-quantum threshold cryptography
+- ZKPs in blockchain systems
+- Tweakable encryption for secure cloud storage
+- Provable scrambling techniques in digital watermarking
+- Steganography and info hiding in digital images
+- Secure blockchain-based voting protocols
+- General-purpose homomorphic encryption libraries for cloud
+- Cost-effective QKD with COTS hardware
+- Biometric cryptosystems for secure auth & keygen
+- Privacy-preserving machine learning frameworks
+- White-box secure hardware implementations of crypto algorithms
+
+## Quantum Computing
+
+- Security evaluation of new QKD protocols
+- Performance analysis of NIST post-quantum key establishment algorithms
+- Security assessment of NIST post-quantum digital signature algorithms
+- PQC integration in smart cards and IoT
+- Hybrid QKD systems (classical + quantum)
+- Embedded system implementations of PQC (ARM, RISC, Zynq)
+- Hardware-based PQC (FPGA / GPU / hybrid)
+- PQC for secure mobile communications
+- PQC for securing cyber-physical systems (CPS)
+- Secure DevSecOps using PQC in software development

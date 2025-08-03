@@ -33,9 +33,9 @@ author: Team PakCrypt
 
 # Build settings
 theme: minima
- plugins:
+plugins:
   - jekyll-feed
- feed:
+feed:
   disable: false
 
 # Exclude from processing.

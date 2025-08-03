@@ -21,10 +21,7 @@
 title: PakCrypt
 email: smk@pakcrypt.org
 description: >- # this means to ignore newlines until "baseurl:"
- PakCrypt is a platform that aims to promote the interest in field of cryptography and network security.
-  It organizes an annual competition called 
-  PakCrypt Competition, which is a multi-track challenge that tests the skills and 
-  knowledge in the field. 
+ Intl Symposium and Competitions in Cryptography and Cyber Security 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pakcrypt.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: PakCryptOrg

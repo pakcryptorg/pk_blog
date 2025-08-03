@@ -38,6 +38,13 @@ plugins:
 feed:
   disable: false
 
+# Favicon settings
+favicon:
+  apple_touch_icon: "/assets/images/apple-touch-icon.png"
+  icon_32: "/assets/images/favicon-32x32.png"
+  icon_16: "/assets/images/favicon.ico"
+  manifest: "/assets/images/site.webmanifest"
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

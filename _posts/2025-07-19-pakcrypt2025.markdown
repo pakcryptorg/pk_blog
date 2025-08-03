@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "PakCrypt-2025: Intl Symposium and Competitions"
-date:   2025-07-19 11:22:34 +0500
+date:   2025-08-01 11:22:34 +0500
 categories: comp e4
 permalink: ./pc25
 ---
 
-**[Pre-register Now](https://bit.ly/pcs25p)**
+**[Pre-register Now](https://bit.ly/pcs25p)** to get updates on upcoming deadlines.
 
 
 ## Important Dates
@@ -14,7 +14,7 @@ permalink: ./pc25
 | - | - |
 | Event                                                     | Dates                     |
 | - | - |
-| Pre-Qualifier Round for PakCrypt Cryptography Competition | 01-Aug-2025 – 30-Sep-2025 |
+| Pre-Qualifier Round for PakCrypt Cryptography Competition | 01-Sep-2025 – 30-Sep-2025 |
 | Qualifier Round PakCrypt Crypto Competition               | 15-Oct-2025 – 30-Oct-2025 |
 | Final Round                                               | 26–27 Nov 2025            |
 | International Cryptography Winter School                  | 24–26 Nov 2025            |

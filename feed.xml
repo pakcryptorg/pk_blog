@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>pakcrypt.org</title>
+  <subtitle>pakcrypt cryptography competitions and symposium</subtitle>
+  <link href="https://pakcrypt.org/feed.xml" rel="self"/>
+  <link href="https://pakcrypt.org/"/>
+  <updated>2025-08-03T00:00:00+00:00</updated>
+  <id>https://pakcrypt.org/</id>
+  <author>
+    <name>PakCrypt Organization</name>
+    <email>smk@pakcrypt.org</email>
+  </author>
+
+  <!-- Example entry for a single post -->
+  <entry>
+    <title>Your Post Title</title>
+    <link href="https://your-site-url.com/your-post-url/"/>
+    <updated>2025-08-01T00:00:00+00:00</updated>
+    <id>https://your-site-url.com/your-post-url/</id>
+    <content type="html">
+      <![CDATA[
+        <p>This is a <strong>short summary</strong> of your post. 
+        Escape HTML with CDATA to avoid errors.</p>
+      ]]>
+    </content>
+  </entry>
+</feed>

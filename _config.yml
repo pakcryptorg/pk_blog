@@ -33,7 +33,7 @@ theme: minima
 plugins:
   - jekyll-feed
 feed:
-  disable: false
+  disable: true
 
 # Favicon settings
 favicon:

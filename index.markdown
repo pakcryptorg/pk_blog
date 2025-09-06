@@ -9,7 +9,7 @@ layout: home
 
 ![PakCrypt](.{{site.baseurl}}/assets/images/landing26.jpg)
 
-[PakCrypt@X](https://www.twitter.com/PakCryptOrg) | [CryptCorner](https://nccs.pk/CryptoCorner/Home.html) | [Symposium](https://pakcrypt.org/pc25)
+[X](https://www.twitter.com/PakCryptOrg) | [Competition](cbf.pakcrypt.org) | [PakCrypt Symposium](https://pakcrypt.org/pc25)
 
 
 

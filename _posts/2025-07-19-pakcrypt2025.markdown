@@ -53,6 +53,8 @@ The final round of PakCrypt 2025 will be held on campus at NCCS, Air University,
 
 Please visit the Crypto Corner at the NCCS website regularly for further details & announcements. 
 
+![Final Round](.{{site.baseurl}}/assets/images/C5900999321.jpg)
+
 ### Instructions for Competition
 - The registration for Round 1 is estimated to take approximately 30 minutes. It’s general math aptitude test.  Plan accordingly. 
 

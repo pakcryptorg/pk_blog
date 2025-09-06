@@ -36,11 +36,13 @@ PakCrypt competition was initiated in 2022 to promote young talent in the field 
 
 Last year, the PakCrypt 2024 competition included more than 900 participants from all regions of Pakistan competing in the three-round competition that culminated in a final round on the NCCS campus. The finalist teams competed for cash prizes totaling Rs. 1.8M, but the competition was much more than this. It provided young minds with opportunities to connect with industry experts, receive job offers, funding for further research, and engage in mutual collaboration. 
 
+![History](.{{site.baseurl}}/assets/images/H34234234.jpg)
+
 ## About PakCrypt 2025 Crypto Competition
 The cryptography competition is a two-track, three-round competition that comprises both online and on-campus rounds. The competition aims to bring together talented minds of Pakistan around the world to showcase their skills and compete for cash prizes in both professional and amateur tracks.
 
 ### Round 1: Registration 				       
-The first round is open to all Pakistani nationals. It involves a registration process coupled with a screening test. The registration process collects basic information about candidates, while the test serves as an entry-level filter.
+The first round is open to all Pakistani nationals. It involves a registration process coupled with a screening test. The registration process collects basic information about candidates, while the test serves as an entry-level filter.
 Top qualifiers from Round 1 will be announced by the start of October and invited to compete in the second round.
 
 ### Round 2: Online Competition

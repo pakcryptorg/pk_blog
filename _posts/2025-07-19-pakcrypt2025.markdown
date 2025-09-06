@@ -6,7 +6,7 @@ categories: comp e4
 permalink: ./pc25
 ---
 
-![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/IS349239395.jpg)
+![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/IS349239396.jpg)
 
 
 **[Register for Crypto Competition](https://cbf.pakcrypt.org)** 

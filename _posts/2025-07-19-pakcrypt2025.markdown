@@ -8,16 +8,13 @@ permalink: ./pc25
 
 ![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/IS349239396.jpg)
 
-## Important Links
-
 **[Register for Crypto Competition](https://cbf.pakcrypt.org)** (For Pakistan national only)
 
 **[Foreign Graduate Student Funding](https://forms.gle/mq8uN2JU8iNmak4y6)** (For Foreign national only)
 
 **[Form 121 for Foreign Guests](https://forms.gle/dbyPesbybsqioyMo9)** 
 
-
-
+**[Complaints & Suggestions](https://forms.gle/8QPFREW4PRBRjiyU8)** 
 
 
 ## Important Dates
@@ -41,8 +38,6 @@ All PakCrypt **finalists** who qualify and participate in the **Final Round** an
 * **Runner-up Cash prizes** (Individual) Rs. 30,000 to 50,000
 * **FREE Registration** for the Winter School and Symposium (worth Rs. 30,000)
 * **FREE Accommodation** in Islamabad for the entire duration (worth Rs. 50,000)
-
-**[Complaints & Suggestions](https://forms.gle/8QPFREW4PRBRjiyU8)** 
 
 ## Our History
 PakCrypt competition was initiated in 2022 to promote young talent in the field of cryptography. Last three events of PakCrypt from 2022 to 2024 were great success! It’s truly inspiring to see bright minds across Pakistan come together and showcase their talent in the field of cryptography. 

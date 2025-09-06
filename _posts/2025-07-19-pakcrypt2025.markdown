@@ -27,13 +27,12 @@ permalink: ./pc25
 
 
 ### Note
-- Prize Money of at least **Rs. 3.0M** will be distributed in different competition formats.
+All PakCrypt **finalists** who qualify and participate in the **Final Round** and **Symposium** will receive:
 
-- All PakCrypt **finalists** who participate in the **Final Round** and **Symposium** will receive:
-
-* **Cash prizes** (Rs. 30,000 - 50,000)
-* **Registration** for the Winter School and Symposium (worth Rs. 30,000)
-* **Accommodation** in Islamabad for the entire duration (worth Rs. 50,000)
+* **Winner Cash prizes** (Individual) Rs. 200K, 150K, 100K in each category
+* **Runner-up Cash prizes** (Individual) Rs. 30,000 to 50,000
+* **FREE Registration** for the Winter School and Symposium (worth Rs. 30,000)
+* **FREE Accommodation** in Islamabad for the entire duration (worth Rs. 50,000)
 
 ## Our History
 PakCrypt competition was initiated in 2022 to promote young talent in the field of cryptography. Last three events of PakCrypt from 2022 to 2024 were great success! It’s truly inspiring to see bright minds across Pakistan come together and showcase their talent in the field of cryptography. 

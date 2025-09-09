@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "PakCrypt Intl Symposium 2025"
+date:   2025-09-06 11:23:34 +0500
+categories: comp e4
+permalink: ./pc25h
+published: false
+---
+
+**[Foreign Graduate Student Funding](https://forms.gle/mq8uN2JU8iNmak4y6)** (For Foreign national only)
+
+**[Form 121 for Foreign Guests](https://forms.gle/dbyPesbybsqioyMo9)** 
+
+

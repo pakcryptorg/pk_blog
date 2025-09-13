@@ -6,6 +6,18 @@ permalink: ./about
 [Join PakCrypt 2024](https://pakcrypt.org/pcc24)
 
 ![Team](.{{site.baseurl}}/assets/images/team.jpg)
+
+<div class="video-container">
+  <iframe
+    src="https://www.youtube.com/embed/21RqxFEX5Qk?si=HbsNHINmJLLXgrr6"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    loading="lazy">
+  </iframe>
+</div>
+
 ## About PakCrypt
 Cryptography plays a critical role in safeguarding communication and data on modern computer systems. There is a pressing need for a robust national strategy on cryptography that promotes its widespread use to protect the information interests of people and organizations, and to maintain national sovereignty.
 
@@ -29,14 +41,5 @@ We hope you find our website informative and engaging. If you have any questions
 
 ![Closing](.{{site.baseurl}}/assets/images/about.jpg)
 
-<div class="video-container">
-  <iframe
-    src="https://www.youtube.com/embed/21RqxFEX5Qk?si=HbsNHINmJLLXgrr6"
-    title="YouTube video player"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen
-    loading="lazy">
-  </iframe>
-</div>
+
 

@@ -24,7 +24,7 @@ permalink: ./pc25
 | Closing Ceremony and Prize Distribution                   | 28 Nov 2025               |
 | - | - |
 
-Download [POSTER](.{{site.baseurl}}/assets/images/POSPC2025B.png) for your institution. 
+Download **[Poster 1](.{{site.baseurl}}/assets/images/POSPC2025C.png)** or **[Poster 2](.{{site.baseurl}}/assets/images/POSPC2025D.png)** for your institution. 
 
 ### Note
 All PakCrypt **finalists** who qualify and participate in the **Final Round** and **Symposium** will receive:

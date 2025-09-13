@@ -1,20 +1,14 @@
 ---
 layout: post
 title:  "PakCrypt Intl Symposium 2025"
-date:   2025-09-05 11:23:34 +0500
+date:   2025-09-12 11:23:34 +0500
 categories: comp e4
 permalink: ./pc25
 ---
 
 ![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/IS349239396.jpg)
 
-**[Register for Crypto Competition](https://cbf.pakcrypt.org)** (For Pakistan national only)
-
-**[Foreign Graduate Student Funding](https://forms.gle/mq8uN2JU8iNmak4y6)** (For Foreign national only)
-
-**[Form 121 for Foreign Guests](https://forms.gle/dbyPesbybsqioyMo9)** 
-
-**[Complaints & Suggestions](https://forms.gle/8QPFREW4PRBRjiyU8)** 
+**[Register for Crypto Competition](https://cbf.pakcrypt.org)** 
 
 
 ## Important Dates
@@ -30,14 +24,18 @@ permalink: ./pc25
 | Closing Ceremony and Prize Distribution                   | 28 Nov 2025               |
 | - | - |
 
+Download [POSTER](.{{site.baseurl}}/assets/images/POSPC2025B.png) for your institution. 
 
 ### Note
 All PakCrypt **finalists** who qualify and participate in the **Final Round** and **Symposium** will receive:
 
 * **Winner Cash prizes** (Individual) Rs. 200K, 150K, 100K in each category
-* **Runner-up Cash prizes** (Individual) Rs. 30,000 to 50,000
-* **FREE Registration** for the Winter School and Symposium (worth Rs. 30,000)
+* **Runner-up Cash prizes** (Individual) Rs. 40,000 to 50,000
+* **FREE Registration** for the Winter School and Symposium (worth Rs. 35,000)
 * **FREE Accommodation** in Islamabad for the entire duration (worth Rs. 50,000)
+
+**[Complaints & Suggestions](https://forms.gle/8QPFREW4PRBRjiyU8)** 
+
 
 ## Our History
 PakCrypt competition was initiated in 2022 to promote young talent in the field of cryptography. Last three events of PakCrypt from 2022 to 2024 were great success! It’s truly inspiring to see bright minds across Pakistan come together and showcase their talent in the field of cryptography. 

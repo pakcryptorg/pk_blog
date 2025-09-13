@@ -40,47 +40,6 @@ All PakCrypt **finalists** who qualify and participate in the **Final Round** an
 
 **[Complaints & Suggestions](https://forms.gle/8QPFREW4PRBRjiyU8)** 
 
-<table>
-  <colgroup>
-    <col span="1">
-    <col span="1">
-  </colgroup>
-  <thead>
-    <tr>
-      <th>Event</th>
-      <th>Dates</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Pre-Qualifier Round for PakCrypt Cryptography Competition</td>
-      <td><time datetime="2025-09-06">06-Sep-2025</time> – <time datetime="2025-10-15">15-Oct-2025</time></td>
-    </tr>
-    <tr>
-      <td>Qualifier Round PakCrypt Crypto Competition</td>
-      <td><time datetime="2025-10-15">15-Oct-2025</time> – <time datetime="2025-10-30">30-Oct-2025</time></td>
-    </tr>
-    <tr>
-      <td>Final Round (<a href="https://maps.app.goo.gl/Umj8QsgcDyGSrqbp8" rel="noopener">On-site NCCS, E-9, Islamabad</a>)</td>
-      <td><time datetime="2025-11-26">26</time>–<time datetime="2025-11-27">27 Nov 2025</time></td>
-    </tr>
-    <tr>
-      <td>International Cryptography Winter School</td>
-      <td><time datetime="2025-11-24">24</time>–<time datetime="2025-11-26">26 Nov 2025</time></td>
-    </tr>
-    <tr>
-      <td>International Cyber Security Symposium</td>
-      <td><time datetime="2025-11-26">26</time>–<time datetime="2025-11-27">27 Nov 2025</time></td>
-    </tr>
-    <tr>
-      <td>Closing Ceremony and Prize Distribution</td>
-      <td><time datetime="2025-11-28">28 Nov 2025</time></td>
-    </tr>
-  </tbody>
-</table>
-
-
-
 ## Our History
 PakCrypt competition was initiated in 2022 to promote young talent in the field of cryptography. Last three events of PakCrypt from 2022 to 2024 were great success! It’s truly inspiring to see bright minds across Pakistan come together and showcase their talent in the field of cryptography. 
 

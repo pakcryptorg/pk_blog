@@ -48,7 +48,18 @@ Last year, the PakCrypt 2024 competition included more than 900 participants fro
 
 ![History](.{{site.baseurl}}/assets/images/H34234234.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Zvzz2hDjNM?si=f0PSnNvWwHG7Rn9h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe
+    src="https://www.youtube.com/embed/0Zvzz2hDjNM?si=f0PSnNvWwHG7Rn9h"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
+
 
 ## About PakCrypt 2025 Crypto Competition
 The cryptography competition is a two-track, three-round competition that comprises both online and on-campus rounds. The competition aims to bring together talented minds of Pakistan around the world to showcase their skills and compete for cash prizes in both professional and amateur tracks.

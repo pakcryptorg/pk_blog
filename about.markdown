@@ -6,8 +6,6 @@ permalink: ./about
 
 ![Team](.{{site.baseurl}}/assets/images/team.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/21RqxFEX5Qk?si=gZyCEgSQVdMdDdas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 ## About PakCrypt
 Cryptography plays a critical role in safeguarding communication and data on modern computer systems. There is a pressing need for a robust national strategy on cryptography that promotes its widespread use to protect the information interests of people and organizations, and to maintain national sovereignty.

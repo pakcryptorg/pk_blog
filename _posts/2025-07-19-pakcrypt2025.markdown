@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "PakCrypt Intl Symposium 2025"
-date:   2025-09-19 11:23:34 +0500
+date:   2025-09-20 11:23:34 +0500
 categories: comp e4
 permalink: ./pc25
 ---
@@ -56,7 +56,6 @@ Last year, the PakCrypt 2024 competition included more than 900 participants fro
   </iframe>
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGy22NXhx4&#x2F;lf_93j1i4iXH3NnhLNTNLw&#x2F;watch?utm_content=DAGy22NXhx4&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">
-
 
 
 ## About PakCrypt 2025 Crypto Competition
@@ -119,8 +118,25 @@ Based on these statements (and nothing else), answer the following questions:
 - Can an apple be a vegetable?
 - Are all vegetables green?
 
+**Q 4**
 
+Please listen to following poscast:
 
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https://www.canva.com/design/DAGzn-9a-e0/g-GYOoZP6_f41W_WshmlKQ/watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGzn-9a-e0&#x2F;g-GYOoZP6_f41W_WshmlKQ&#x2F;watch?utm_content=DAGzn-9a-e0&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">
+
+Please answer the following questions:
+
+- What core technological dilemma motivated Whitfield Diffie to embark on his quest to advance cryptography early 1970s?
+- Explain why some experts publicly criticized the Data Encryption Standard (DES), specifically focusing on the key length originally set at 56 bits? 
+- What was the core purpose of the Clipper Chip?
+- What astonishing secret discovery regarding non-secret encryption did James Ellis make at Britain's GCHQ in 1969? 
 
 
 

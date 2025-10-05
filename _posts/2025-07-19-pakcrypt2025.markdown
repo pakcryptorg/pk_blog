@@ -6,7 +6,8 @@ categories: comp e4
 permalink: ./pc25
 ---
 
-![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/IS349239396.jpg)
+![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/landing35.gif)
+# 24-27 Nov, 2025 - Air University E-9
 
 **[Register for Crypto Competition](https://cbf.pakcrypt.org)** 
 

@@ -7,9 +7,10 @@ layout: home
 
 ---
 
-![PakCrypt](.{{site.baseurl}}/assets/images/falling_crypto_mini.gif)
 ![PakCrypt](.{{site.baseurl}}/assets/images/landing26.jpg)
+
 |[**Competition**](https://cbf.pakcrypt.org) | [**Symposium**](https://pakcrypt.org/pc25) | [**Follow X**](https://www.twitter.com/PakCryptOrg)|
+
 ![PakCrypt](.{{site.baseurl}}/assets/images/falling_crypto_mobile.gif)
 
 

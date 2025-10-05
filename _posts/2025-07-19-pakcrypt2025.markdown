@@ -9,6 +9,8 @@ permalink: ./pc25
 ![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/landing35.gif)
 #### 24-27 Nov, Air University, Islamabad
 
+![PakCrypt](.{{site.baseurl}}/assets/images/falling_crypto_mini.gif)
+
 **[Register for Crypto Competition](https://cbf.pakcrypt.org)** 
 
 

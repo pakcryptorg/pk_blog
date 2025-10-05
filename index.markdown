@@ -11,7 +11,7 @@ layout: home
 
 |[**Competition**](https://cbf.pakcrypt.org) | [**Symposium**](https://pakcrypt.org/pc25) | [**Follow X**](https://www.twitter.com/PakCryptOrg)|
 
-![PakCrypt](.{{site.baseurl}}/assets/images/terminal_trans.gif)
+![PakCrypt](.{{site.baseurl}}/assets/images/terminal_trans2.gif)
 
 
 

@@ -43,11 +43,13 @@ All PakCrypt **finalists** who qualify and participate in the **Final Round** an
 
 **[Complaints & Suggestions](https://forms.gle/8QPFREW4PRBRjiyU8)** 
 
+![PakCrypt](.{{site.baseurl}}/assets/images/falling_crypto_mini.gif)
 ## Meet Global Experts
 
 ![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/SP11234.png)
 We’ve brought together the world’s leading experts to deliver keynote talks and lead hands-on workshops—a rare chance to learn directly from the people shaping the field, ask informed questions, and leave with practical guidance you can apply immediately.
 
+![PakCrypt](.{{site.baseurl}}/assets/images/falling_crypto_mini.gif)
 ## Our History
 PakCrypt competition was initiated in 2022 to promote young talent in the field of cryptography. Last three events of PakCrypt from 2022 to 2024 were great success! It’s truly inspiring to see bright minds across Pakistan come together and showcase their talent in the field of cryptography. 
 
@@ -82,6 +84,7 @@ Please visit the Crypto Corner at the NCCS website regularly for further details
 
 ![Final Round](.{{site.baseurl}}/assets/images/C5900999321.jpg)
 
+![PakCrypt](.{{site.baseurl}}/assets/images/falling_crypto_mini.gif)
 ### Instructions for Competition
 - The registration for Round 1 is estimated to take approximately 30 minutes. It’s general math aptitude test.  Plan accordingly. 
 
@@ -102,6 +105,7 @@ W. Stalling: Cryptography and Network Security 7e and JP Aumasson: Serious Crypt
 ![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/landing34.gif)
 ![PakCrypt](.{{site.baseurl}}/assets/images/landing39.gif)
 
+![PakCrypt](.{{site.baseurl}}/assets/images/falling_crypto_mini.gif)
 ### Example Questions in Initial Rounds
 
 **Q 1**
@@ -146,7 +150,7 @@ Please answer the following questions:
 - What was the core purpose of the Clipper Chip?
 - What astonishing secret discovery regarding non-secret encryption did James Ellis make at Britain's GCHQ in 1969? 
 
-
+![PakCrypt](.{{site.baseurl}}/assets/images/falling_crypto_mini.gif)
 
 
 

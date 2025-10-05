@@ -42,9 +42,9 @@ All PakCrypt **finalists** who qualify and participate in the **Final Round** an
 **[Complaints & Suggestions](https://forms.gle/8QPFREW4PRBRjiyU8)** 
 
 ## Meet Global Experts
-We’ve brought together the world’s leading experts to deliver keynote talks and lead hands-on workshops—a rare chance to learn directly from the people shaping the field, ask informed questions, and leave with practical guidance you can apply immediately.
 
 ![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/SP11234.png)
+We’ve brought together the world’s leading experts to deliver keynote talks and lead hands-on workshops—a rare chance to learn directly from the people shaping the field, ask informed questions, and leave with practical guidance you can apply immediately.
 
 ## Our History
 PakCrypt competition was initiated in 2022 to promote young talent in the field of cryptography. Last three events of PakCrypt from 2022 to 2024 were great success! It’s truly inspiring to see bright minds across Pakistan come together and showcase their talent in the field of cryptography. 

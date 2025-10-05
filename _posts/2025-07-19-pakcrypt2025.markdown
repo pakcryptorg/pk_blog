@@ -6,7 +6,7 @@ categories: comp e4
 permalink: ./pc25
 ---
 
-![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/IS349239396.jpg)
+![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/landing33.jpg)
 
 **[Register for Crypto Competition](https://cbf.pakcrypt.org)** 
 
@@ -84,11 +84,9 @@ W. Stalling: Cryptography and Network Security 7e and JP Aumasson: Serious Crypt
 
 - For Round 3, if you are coming out of the twin-cities, there are a number of slots for free accommodation. Please contact the organizers if you are selected for Round 3, at least 2 weeks in advance.
 
-- No TA / DA is admissible for Round 3 participants, however, food and accommodation may be arranged for qualified top teams. Further, each finalist team that does not fall in top-3 slots will receive an encouragement cash prize.
+- No TA / DA is admissible for Round 3 participants, however, food and accommodation may be arranged for qualified top teams. Further, each finalist team that does not fall in top-3 slots will receive an encouragement cash prize (~30K-50K).
 
 - For Amateur Track in Round 3, a teacher of corresponding institute may accompany as part of the student team, however, the teacher will not be allowed to help students in Round 3 challenges.
-
-- The amount of prize money, allied benefits, and distribution formula will be announced prior to Round 3.
 
 - All Pakistani nationals are allowed to participate.  
 

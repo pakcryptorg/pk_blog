@@ -78,6 +78,8 @@ The final round of PakCrypt 2025 will be held on campus at NCCS, Air University,
 Please visit the Crypto Corner at the NCCS website regularly for further details & announcements. 
 
 ![Final Round](.{{site.baseurl}}/assets/images/C5900999321.jpg)
+![PakCrypt](.{{site.baseurl}}/assets/images/falling_crypto_mini.gif)
+![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/landing34.gif)
 
 ### Instructions for Competition
 - The registration for Round 1 is estimated to take approximately 30 minutes. It’s general math aptitude test.  Plan accordingly. 
@@ -96,7 +98,6 @@ W. Stalling: Cryptography and Network Security 7e and JP Aumasson: Serious Crypt
 
 - For Amateurs, the upper age limit is 20-year. (born after 01-Jul-2005) 
 
-![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/landing34.gif)
 ![PakCrypt](.{{site.baseurl}}/assets/images/landing39.gif)
 
 ![PakCrypt](.{{site.baseurl}}/assets/images/falling_crypto_mini.gif)

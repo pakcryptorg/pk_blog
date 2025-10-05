@@ -8,11 +8,8 @@ layout: home
 ---
 
 ![PakCrypt](.{{site.baseurl}}/assets/images/landing26.jpg)
-
-[X](https://www.twitter.com/PakCryptOrg) | [Register for Competition](https://cbf.pakcrypt.org) | [PakCrypt Symposium](https://pakcrypt.org/pc25)
-
-
-
+[Crypto Competition](https://cbf.pakcrypt.org) | [PakCrypt Symposium](https://pakcrypt.org/pc25) | [X](https://www.twitter.com/PakCryptOrg)
+![PakCrypt](.{{site.baseurl}}/assets/images/landing39.gif)
 
 
 

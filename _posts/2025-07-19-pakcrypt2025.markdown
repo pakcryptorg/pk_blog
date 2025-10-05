@@ -41,6 +41,11 @@ All PakCrypt **finalists** who qualify and participate in the **Final Round** an
 
 **[Complaints & Suggestions](https://forms.gle/8QPFREW4PRBRjiyU8)** 
 
+## Meet Global Experts
+We’ve brought together the world’s leading experts to deliver keynote talks and lead hands-on workshops—a rare chance to learn directly from the people shaping the field, ask informed questions, and leave with practical guidance you can apply immediately.
+
+![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/SP11234.png)
+
 ## Our History
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;

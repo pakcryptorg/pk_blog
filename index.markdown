@@ -9,9 +9,9 @@ layout: home
 
 ![PakCrypt](.{{site.baseurl}}/assets/images/landing26.jpg)
 
-**[Crypto Competition](https://cbf.pakcrypt.org) | [PakCrypt Symposium](https://pakcrypt.org/pc25) | [X](https://www.twitter.com/PakCryptOrg)**
+[**Crypto Competition**](https://cbf.pakcrypt.org) | [**PakCrypt Symposium**](https://pakcrypt.org/pc25) | [**X**](https://www.twitter.com/PakCryptOrg)
 
-![PakCrypt](.{{site.baseurl}}/assets/images/landing39.gif)
+
 
 
 

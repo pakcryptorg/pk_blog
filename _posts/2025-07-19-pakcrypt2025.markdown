@@ -98,6 +98,7 @@ W. Stalling: Cryptography and Network Security 7e and JP Aumasson: Serious Crypt
 - For Amateurs, the upper age limit is 20-year. (born after 01-Jul-2005) 
 
 ![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/landing34.gif)
+![PakCrypt](.{{site.baseurl}}/assets/images/landing39.gif)
 
 ### Example Questions in Initial Rounds
 

@@ -4,7 +4,7 @@ title: About
 permalink: ./about
 ---
 
-![Team](.{{site.baseurl}}/assets/images/team.jpg)
+![Team](.{{site.baseurl}}/assets/images/about_us.gif)
 
 
 ## About PakCrypt
@@ -16,6 +16,7 @@ PakCrypt was initiated to promote research talent in the field of cryptography. 
 
 ### Why PakCrypt.org was founded?
 Our primary mission is to promote crypto innovation. Simultaneously, we aim to foster a conducive environment for state-of-the-art research in cryptography within Pakistan, to ensure our industry is at the forefront of advancements in this crucial field.
+![Team](.{{site.baseurl}}/assets/images/team.jpg)
 
 ### PakCrypt Society 
 PakCrypt Society's objectives are grouped under three key themes:

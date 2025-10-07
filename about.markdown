@@ -3,8 +3,7 @@ layout: page
 title: About
 permalink: ./about
 ---
-
-
+![Team](.{{site.baseurl}}/assets/images/about_us5.gif)
 
 ## About PakCrypt
 Cryptography plays a critical role in safeguarding communication and data on modern computer systems. There is a pressing need for a robust national strategy on cryptography that promotes its widespread use to protect the information interests of people and organizations, and to maintain national sovereignty.
@@ -25,8 +24,6 @@ PakCrypt Society's objectives are grouped under three key themes:
 **Research & Development:** The society aims to foster world-class cryptography research and development, develop core competencies, advocate for sustained funding, and promote high-quality publications. The society guides career paths, establishes a collaboration platform, provides mentorship and support to young minds, and advocates for government and industry support for cryptography research.
 
 **Scientific Exchange:** We organize annual cryptography meetings, conferences, and competitions for members and the wider cryptography community. We facilitate international training and networking opportunities to help members and the wider cryptography community advance their knowledge and skills.
-
-We hope you find our website informative and engaging. If you have any questions or would like to get involved, please contact us.
 
 ![Closing](.{{site.baseurl}}/assets/images/about.jpg)
 

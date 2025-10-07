@@ -4,7 +4,7 @@ title: About
 permalink: ./about
 ---
 
-![Team](.{{site.baseurl}}/assets/images/about_us.gif)
+![Team](.{{site.baseurl}}/assets/images/about_us2.gif)
 
 
 ## About PakCrypt

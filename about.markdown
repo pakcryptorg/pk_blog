@@ -19,7 +19,7 @@ PakCrypt was initiated to promote research talent in cryptography and mathematic
 
 - and engage in collaborative projects.
 
-<span style="color: sealue;"> Your network is your net worth. — Porter Gale </span>
+<span style="color: blue;"> Your network is your net worth. — Porter Gale </span>
 
 
 ### <span style="color: seagreen;"> **Why PakCrypt.org was founded?** </span>

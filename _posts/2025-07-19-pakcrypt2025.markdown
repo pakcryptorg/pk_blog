@@ -13,6 +13,7 @@ permalink: ./pc25
 ![PakCrypt](.{{site.baseurl}}/assets/images/falling_crypto_mini.gif)
 
 ## <span style="color: seagreen;"> **Important Dates** </span>
+
 | - | - |
 | Event                                                     | Dates                     |
 | - | - |

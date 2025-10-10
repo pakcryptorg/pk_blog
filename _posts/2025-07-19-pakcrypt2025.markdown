@@ -67,7 +67,7 @@ Last year, the PakCrypt 2024 competition included more than 900 participants fro
 ![PakCrypt](.{{site.baseurl}}/assets/images/falling_crypto_mini.gif)
 
 
-## <span style="color: seagreen;"> **About PakCrypt 2025 Crypto Competition** </span>
+## <span style="color: seagreen;"> **About Competition** </span>
 The cryptography competition is a two-track, three-round competition that comprises both online and on-campus rounds. The competition aims to bring together talented minds of Pakistan around the world to showcase their skills and compete for cash prizes in both professional and amateur tracks.
 
 ### <span style="color: seagreen;"> **Round 1: Registration** </span>		       
@@ -86,7 +86,7 @@ Please visit the Crypto Corner at the NCCS website regularly for further details
 ![PakCrypt](.{{site.baseurl}}/assets/images/falling_crypto_mini.gif)
 ![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/landing34.gif)
 
-### <span style="color: seagreen;"> **Instructions for Competition** </span>
+### <span style="color: seagreen;"> **Instructions** </span>
 - The registration for Round 1 is estimated to take approximately 30 minutes. It’s general math aptitude test.  Plan accordingly. 
 
 - The concepts in following resources will help to unlock many riddles of Round 2.
@@ -106,7 +106,7 @@ W. Stalling: Cryptography and Network Security 7e and JP Aumasson: Serious Crypt
 ![PakCrypt](.{{site.baseurl}}/assets/images/falling_crypto_mini.gif)
 
 
-### <span style="color: seagreen;"> **Example Questions in Initial Rounds** </span>
+### <span style="color: seagreen;"> **Example in Initial Rounds** </span>
 **Q 1**
 Consider the sequence of numbers: 1, 1, 2, 3, 5, 8, 13, .... and so on. What would be the next number in this sequence?
 

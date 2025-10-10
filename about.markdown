@@ -8,7 +8,7 @@ permalink: ./about
 
 Cryptography plays a critical role in safeguarding communication and data on modern computer systems. There is a pressing need for a robust national strategy on cryptography that promotes its widespread use to protect the information interests of people and organizations, and to maintain national sovereignty.
 
-### <span style="color: seagreen;"> Our History </span>
+### <span style="color: seagreen;"> **Our History** </span>
 PakCrypt was initiated to promote research talent in the field of cryptography. The inaugural PakCrypt 2022 and later PakCrypt 2023 and 2024 competitions were resounding success. But PakCrypt is more than just a research group. It's a platform that provides young minds with opportunities to connect with industry experts, receive job offers, secure funding for further research, and engage in mutual collaboration.
 
 

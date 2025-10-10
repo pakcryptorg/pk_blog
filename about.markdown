@@ -27,7 +27,7 @@ Our primary mission is to promote innovation. At the same time, we strive to fos
 
 ![Closing](.{{site.baseurl}}/assets/images/about.jpg)
 
-### <span style="color: seagreen;"> **PakCrypt Society ** </span> 
+### <span style="color: seagreen;"> **PakCrypt Society** </span> 
 PakCrypt Society's objectives are grouped under three key themes:
 
 <span style="color: seagreen;"> **Empower Tomorrow's Minds:** </span>  PakCrypt partners with schools, universities, and industry to host workshops and seminars, and it organizes training programs and competitions to help students engage in advanced research in cybersecurity.

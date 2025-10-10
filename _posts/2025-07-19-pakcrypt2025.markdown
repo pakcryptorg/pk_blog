@@ -11,8 +11,8 @@ permalink: ./pc25
 
 **[Register for Crypto Competition](https://cbf.pakcrypt.org)** 
 ![PakCrypt](.{{site.baseurl}}/assets/images/falling_crypto_mini.gif)
-## Important Dates
 
+## <span style="color: seagreen;"> **Important Dates** </span>
 | - | - |
 | Event                                                     | Dates                     |
 | - | - |
@@ -45,7 +45,9 @@ All PakCrypt **finalists** who qualify and participate in the **Final Round** an
 We’ve brought together the world’s leading experts to deliver keynote talks and lead hands-on workshops—a rare chance to learn directly from the people shaping the field, ask informed questions, and leave with practical guidance you can apply immediately.
 
 ![PakCrypt](.{{site.baseurl}}/assets/images/falling_crypto_mini.gif)
-## Our History
+
+
+## <span style="color: seagreen;"> **Our History** </span>
 PakCrypt competition was initiated in 2022 to promote young talent in the field of cryptography. Last three events of PakCrypt from 2022 to 2024 were great success! It’s truly inspiring to see bright minds across Pakistan come together and showcase their talent in the field of cryptography. 
 
 Last year, the PakCrypt 2024 competition included more than 900 participants from all regions of Pakistan competing in the three-round competition that culminated in a final round on the NCCS campus. The finalist teams competed for cash prizes totaling Rs. 1.8M, but the competition was much more than this. It provided young minds with opportunities to connect with industry experts, receive job offers, funding for further research, and engage in mutual collaboration. 
@@ -62,17 +64,19 @@ Last year, the PakCrypt 2024 competition included more than 900 participants fro
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGy22NXhx4&#x2F;lf_93j1i4iXH3NnhLNTNLw&#x2F;watch?utm_content=DAGy22NXhx4&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">
 
 ![PakCrypt](.{{site.baseurl}}/assets/images/falling_crypto_mini.gif)
-## About PakCrypt 2025 Crypto Competition
+
+
+## <span style="color: seagreen;"> **About PakCrypt 2025 Crypto Competition** </span>
 The cryptography competition is a two-track, three-round competition that comprises both online and on-campus rounds. The competition aims to bring together talented minds of Pakistan around the world to showcase their skills and compete for cash prizes in both professional and amateur tracks.
 
-### Round 1: Registration 				       
+### <span style="color: seagreen;"> **Round 1: Registration** </span>		       
 The first round is open to all Pakistani nationals. It involves a registration process coupled with a screening test. The registration process collects basic information about candidates, while the test serves as an entry-level filter.
 Top qualifiers from Round 1 will be announced by the start of October and invited to compete in the second round.
 
-### Round 2: Online Competition
+### <span style="color: seagreen;"> **Round 2: Online Competition** </span>
 The second round of PakCrypt will be conducted online. It is planned to take place in middle of October. Participants who qualify from Round 1 will have the opportunity to display their skills and compete against other talented individuals. The qualifiers of Round 2 will be given opportunity to register for Round 3 as a team of 1-2 persons  (both of whom must be Round 3 qualified). Note that prizes will be equally shared among winning team members. 
 
-### Round 3: On-Campus Final
+### <span style="color: seagreen;"> **Round 3: On-Campus Final** </span>
 The final round of PakCrypt 2025 will be held on campus at NCCS, Air University, Islamabad in Nov 2025. The top teams from the previous rounds will compete for the prize and prestige. 
 
 Please visit the Crypto Corner at the NCCS website regularly for further details & announcements. 
@@ -81,7 +85,7 @@ Please visit the Crypto Corner at the NCCS website regularly for further details
 ![PakCrypt](.{{site.baseurl}}/assets/images/falling_crypto_mini.gif)
 ![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/landing34.gif)
 
-### Instructions for Competition
+### <span style="color: seagreen;"> **Instructions for Competition** </span>
 - The registration for Round 1 is estimated to take approximately 30 minutes. It’s general math aptitude test.  Plan accordingly. 
 
 - The concepts in following resources will help to unlock many riddles of Round 2.
@@ -94,15 +98,14 @@ W. Stalling: Cryptography and Network Security 7e and JP Aumasson: Serious Crypt
 
 - For Amateur Track in Round 3, a teacher of corresponding institute may accompany as part of the student team, however, the teacher will not be allowed to help students in Round 3 challenges.
 
-- All Pakistani nationals are allowed to participate.  
-
 - For Amateurs, the upper age limit is 20-year. (born after 01-Jul-2005) 
 
 ![PakCrypt](.{{site.baseurl}}/assets/images/landing39.gif)
 
 ![PakCrypt](.{{site.baseurl}}/assets/images/falling_crypto_mini.gif)
-### Example Questions in Initial Rounds
 
+
+### <span style="color: seagreen;"> **Example Questions in Initial Rounds** </span>
 **Q 1**
 Consider the sequence of numbers: 1, 1, 2, 3, 5, 8, 13, .... and so on. What would be the next number in this sequence?
 

@@ -4,6 +4,7 @@ title: About
 permalink: ./about
 ---
 
+![Team](.{{site.baseurl}}/assets/images/team.jpg)
 
 Cryptography plays a critical role in safeguarding communication and data on modern computer systems. There is a pressing need for a robust national strategy on cryptography that promotes its widespread use to protect the information interests of people and organizations, and to maintain national sovereignty.
 
@@ -13,7 +14,8 @@ PakCrypt was initiated to promote research talent in the field of cryptography. 
 
 ### Why PakCrypt.org was founded?
 Our primary mission is to promote crypto innovation. Simultaneously, we aim to foster a conducive environment for state-of-the-art research in cryptography within Pakistan, to ensure our industry is at the forefront of advancements in this crucial field.
-![Team](.{{site.baseurl}}/assets/images/team.jpg)
+
+![Closing](.{{site.baseurl}}/assets/images/about.jpg)
 
 ### PakCrypt Society 
 PakCrypt Society's objectives are grouped under three key themes:
@@ -24,7 +26,6 @@ PakCrypt Society's objectives are grouped under three key themes:
 
 **Scientific Exchange:** We organize annual cryptography meetings, conferences, and competitions for members and the wider cryptography community. We facilitate international training and networking opportunities to help members and the wider cryptography community advance their knowledge and skills.
 
-![Closing](.{{site.baseurl}}/assets/images/about.jpg)
-
+![Meetus](.{{site.baseurl}}/assets/images/our_team.jpg)
 
 

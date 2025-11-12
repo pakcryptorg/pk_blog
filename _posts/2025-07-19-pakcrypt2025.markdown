@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "PakCrypt Intl Symposium 2025"
-date:   2025-10-10 11:23:34 +0500
+date:   2025-11-10 11:23:34 +0500
 categories: comp e4
 permalink: ./pc25
 ---
@@ -22,12 +22,9 @@ permalink: ./pc25
 | Final Round ([On-site NCCS, E-9, Islamabad](https://maps.app.goo.gl/Umj8QsgcDyGSrqbp8))                | 26–27 Nov 2025            |
 | International Cryptography Winter School                  | 24–27 Nov 2025            |
 | International Cyber Security Symposium                    | 24–27 Nov 2025            |
-| Closing Ceremony and Prize Distribution                   | 28 Nov 2025               |
+| Closing Ceremony and Prize Distribution                   | 27 Nov 2025               |
 | - | - |
 
-Please spread the poster of your choice to help us spread the word. 
-
-**[Poster 1](.{{site.baseurl}}/assets/images/POSPC2025C.png)** , **[Poster 2](.{{site.baseurl}}/assets/images/POSPC2025D.png)**, **[Poster 3](.{{site.baseurl}}/assets/images/POSPC2025E.png)**, **[Poster 4](.{{site.baseurl}}/assets/images/POSPC2025F.png)**
 
 ### Note
 All PakCrypt **finalists** who qualify and participate in the **Final Round** and **Symposium** will receive:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "PakCrypt Intl Symposium 2025"
-date:   2025-11-10 11:23:34 +0500
+date:   2025-11-13 11:23:34 +0500
 categories: comp e4
 permalink: ./pc25
 ---
@@ -20,7 +20,7 @@ permalink: ./pc25
 | Pre-Qualifier Round - Crypto Competition       | 06-Sep-2025 – 24-Oct-2025 |
 | Qualifier Round - Crypto Competition               | 25-Oct-2025 – 09-Nov-2025 |
 | Final Round ([On-site NCCS, E-9, Islamabad](https://maps.app.goo.gl/Umj8QsgcDyGSrqbp8))                | 26–27 Nov 2025            |
-| International Cryptography Winter School                  | 24–27 Nov 2025            |
+| **[IACR Intl Crypto Winter School](iacr.org)**                 | 24–27 Nov 2025            |
 | International Cyber Security Symposium                    | 24–27 Nov 2025            |
 | Closing Ceremony and Prize Distribution                   | 27 Nov 2025               |
 | - | - |
@@ -31,8 +31,11 @@ All PakCrypt **finalists** who qualify and participate in the **Final Round** an
 
 * **Winner Cash prizes** (Individual) Rs. 200K, 150K, 100K in each category
 * **Runner-up Cash prizes** (Individual) Rs. 30K to 50K (50x pizes)
-* **FREE Registration** for the Winter School and Symposium (worth Rs. 35,000)
+* **FREE Registration** for IACR Crypto Winter School (24-27 Nov 2025)
 * **FREE Accommodation** in Islamabad for the entire duration (worth Rs. 50,000)
+* **Networking Dinner** on 25 Nov 2025 in honour of all PakCrypt Finalists
+* **Special Interactive Session** with international experts on 26 Nov 2025
+
 
 **[Complaints & Suggestions](https://forms.gle/8QPFREW4PRBRjiyU8)** 
 

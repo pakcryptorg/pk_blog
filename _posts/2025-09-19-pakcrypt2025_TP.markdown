@@ -13,7 +13,7 @@ permalink: ./tp25
 
 | Time | CSS – Cyber Security Symposium (Auditorium) | CWS – Cryptography Winter School (Crypto Hall) |
 | --- | --- | --- |
-| 09:00–10:00 | Registration |  |
+| 09:00–10:00 | Registration   |
 | 10:00–11:00 | Opening Ceremony (Main Auditorium) |  |
 | 11:00–11:20 | Morning Tea Break |  |
 | 11:20–12:05 | Invited / Position Talk – Prof Dr. Siraj Shaikh – <br>“Security of Cyber-Physical Systems” |  |

@@ -21,8 +21,7 @@ permalink: ./tp25
     <tbody>
       <tr>
         <td class="time">09:00–10:00</td>
-        <td>Registration</td>
-        <td></td>
+        <td colspan="2">Registration</td>
       </tr>
       <tr>
         <td class="time">10:00–11:00</td>

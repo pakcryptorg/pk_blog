@@ -90,7 +90,7 @@ permalink: ./tp25
       </tr>
       <tr>
         <td class="time">09:30–10:15</td>
-        <td colspan="2" style="text-align: center;">Invited / Position Talk – Dr <b><font color="#00008B">Orhun Kara</font></b><br>TBD (History of AES and its Security)</td>
+        <td colspan="2" style="text-align: center;">Invited / Position Talk – <b><font color="#00008B">Dr Orhun Kara</font></b><br>TBD (History of AES and its Security)</td>
       </tr>
       <tr>
         <td class="time">10:15–10:20</td>
@@ -98,7 +98,7 @@ permalink: ./tp25
       </tr>
       <tr>
         <td class="time">10:20–11:05</td>
-        <td colspan="2" style="text-align: center;">Invited / Position Talk – Dr <b><font color="#00008B">Mudassar Yamin</font></b> –<br>“TBD - Defensive Cyber Ops”</td>
+        <td colspan="2" style="text-align: center;">Invited / Position Talk – <b><font color="#00008B">Dr Mudassar Yamin</font></b> –<br>“TBD - Defensive Cyber Ops”</td>
       </tr>
       <tr>
         <td class="time">11:05–11:25</td>
@@ -106,8 +106,8 @@ permalink: ./tp25
       </tr>
       <tr>
         <td class="time">11:25–12:10</td>
-        <td>CSS Tech Talk – Dr <b><font color="#00008B">Ali Kashif Bashir</font></b><br>– “AI-Driven Security for IoT and Edge Networks”</td>
-        <td>Tech Talk – Dr <b><font color="#00008B">Jiqiang Lu</font></b> –<br>“White-box Cryptography”</td>
+        <td>CSS Tech Talk – <b><font color="#00008B">Dr Ali Kashif Bashir</font></b><br>– “AI-Driven Security for IoT and Edge Networks”</td>
+        <td>Tech Talk – <b><font color="#00008B">Dr Jiqiang Lu</font></b> –<br>“White-box Cryptography”</td>
       </tr>
       <tr>
         <td class="time">12:10-12:15</td>
@@ -116,7 +116,7 @@ permalink: ./tp25
       <tr>
         <td class="time">12:15–13:00</td>
         <td>Local Industry Invited Talk – Dr Faisal<br> (TBD, AI Impact on Cyber Security)</td>
-        <td>Tech Talk – Dr <b><font color="#00008B">Cihangir Tezcan</font></b> –<br> “Cryptanalysis of Symmetric Ciphers”</td>
+        <td>Tech Talk – <b><font color="#00008B">Dr Cihangir Tezcan</font></b> –<br> “Cryptanalysis of Symmetric Ciphers”</td>
       </tr>
       <tr>
         <td class="time">13:00–14:00</td>
@@ -124,8 +124,8 @@ permalink: ./tp25
       </tr>
       <tr>
         <td class="time">14:00–1450</td>
-        <td>Tech Talk – Dr <b><font color="#00008B">Ali Kashif Bashir</font></b> –<br>“Federated Learning and Intrusion Detection for IIoT”</td>
-        <td>Tutorial - Dr <b><font color="#00008B">Orhun Kara</font></b> (Part 1) –<br>“Wide Trail Strategy for SPN Ciphers”</td>
+        <td>Tech Talk – <b><font color="#00008B">Dr Ali Kashif Bashir</font></b> –<br>“Federated Learning and Intrusion Detection for IIoT”</td>
+        <td>Tutorial - <b><font color="#00008B">Dr Orhun Kara</font></b> (Part 1) –<br>“Wide Trail Strategy for SPN Ciphers”</td>
       </tr>
       <tr>
         <td class="time">14:50-14:55</td>
@@ -134,7 +134,7 @@ permalink: ./tp25
       <tr>
         <td class="time">14:55-15:45</td>
         <td>CSS Panel Discussion – Cyber Security<br>(Foreign &amp; local CSS speakers + industry)</td>
-        <td>Tutorial - Dr <b><font color="#00008B">Orhun Kara</font></b> (Part 2) –<br>“Wide Trail Strategy for SPN Ciphers”</td>
+        <td>Tutorial - <b><font color="#00008B">Dr Orhun Kara</font></b> (Part 2) –<br>“Wide Trail Strategy for SPN Ciphers”</td>
       </tr>
       <tr>
         <td class="time">15:45-16:05</td>
@@ -160,7 +160,7 @@ permalink: ./tp25
     <tbody>
       <tr>
         <td class="time">09:30–10:15</td>
-        <td colspan="2" style="text-align: center;">Invited / Position Talk  – Dr <b><font color="#00008B">Berk Sunar</font></b> (Online)<br> “Emerging Threats in to AI / LLM on Cyber Security”</td>
+        <td colspan="2" style="text-align: center;">Invited / Position Talk  – <b><font color="#00008B">Dr Berk Sunar</font></b> (Online)<br> “Emerging Threats in to AI / LLM on Cyber Security”</td>
         <td></td>
       </tr>
       <tr>
@@ -170,7 +170,7 @@ permalink: ./tp25
       </tr>
       <tr>
         <td class="time">10:20–11:05</td>
-        <td colspan="2" style="text-align: center;">Invited / Position Talk  – Dr <b><font color="#00008B">Cihangir Tezcan</font></b> –<br>“TBD - ”</td>
+        <td colspan="2" style="text-align: center;">Invited / Position Talk  – <b><font color="#00008B">Dr Cihangir Tezcan</font></b> –<br>“TBD - ”</td>
         <td></td>
       </tr>
       <tr>
@@ -180,8 +180,8 @@ permalink: ./tp25
       </tr>
       <tr>
         <td class="time">11:25–12:10</td>
-        <td>Tech Talk – Dr <b><font color="#00008B">Siraj Shaikh</font></b> –<br>“Threat Modelling for Cyber-Physical &amp; Automotive Systems”</td>
-        <td>Tutorial Talk – Dr <b><font color="#00008B">Gregor Leander</font></b>  –<br> “Low Latency Designs in Symmetric Cryptography”</td>
+        <td>Tech Talk – <b><font color="#00008B">Dr Siraj Shaikh</font></b> –<br>“Threat Modelling for Cyber-Physical &amp; Automotive Systems”</td>
+        <td>Tutorial Talk – <b><font color="#00008B">Dr Gregor Leander</font></b>  –<br> “Low Latency Designs in Symmetric Cryptography”</td>
         <td></td>
       </tr>
       <tr>
@@ -192,7 +192,7 @@ permalink: ./tp25
       <tr>
         <td class="time">12:15–13:00</td>
         <td>CSS Local Industry Invited Talk – Dr Yousaf<br>(TBD, Cyber Security for Pakistan NCERT)</td>
-        <td>Tutorial Talk – Dr <b><font color="#00008B">Gregor Leander</font></b>  –<br>“Low Latency Designs in Symmetric Cryptography”</td>
+        <td>Tutorial Talk – <b><font color="#00008B">Dr Gregor Leander</font></b>  –<br>“Low Latency Designs in Symmetric Cryptography”</td>
         <td></td>
       </tr>
       <tr>
@@ -214,8 +214,8 @@ permalink: ./tp25
       </tr>
       <tr>
         <td class="time">14:00–1450</td>
-        <td>CSS Tech Talk – Dr <b><font color="#00008B">Mudassar Yamin</font></b>  – “Pen-Testing and White-Hat Hacking for Critical Infrastructure”</td>
-        <td>Tutorial – Dr <b><font color="#00008B">Cihangir Tezcan</font></b> (Part 1) –<br>“Optimization of Symmetric Ciphers on GPUs”</td>
+        <td>CSS Tech Talk – <b><font color="#00008B">Dr Mudassar Yamin</font></b>  – “Pen-Testing and White-Hat Hacking for Critical Infrastructure”</td>
+        <td>Tutorial – <b><font color="#00008B">Dr Cihangir Tezcan</font></b> (Part 1) –<br>“Optimization of Symmetric Ciphers on GPUs”</td>
         <td> ... Competition </td>
       </tr>
       <tr>
@@ -226,7 +226,7 @@ permalink: ./tp25
       <tr>
         <td class="time">14:55-15:45</td>
         <td>CSS Local Industry Invited Talk – Dr Madeeha<br>(TBD, Quantum Computing &amp; Cyber Security)</td>
-        <td>Tutorial – Dr <b><font color="#00008B">Cihangir Tezcan</font></b> (Part 2) –<br>“Optimization of Symmetric Ciphers on GPUs”</td>
+        <td>Tutorial – <b><font color="#00008B">Dr Cihangir Tezcan</font></b> (Part 2) –<br>“Optimization of Symmetric Ciphers on GPUs”</td>
         <td> ... Competition </td>
       </tr>
       <tr>
@@ -255,7 +255,7 @@ permalink: ./tp25
     <tbody>
       <tr>
         <td class="time">09:15–10:00</td>
-        <td colspan="2" style="text-align: center;">Invited / Position Talk – Dr <b><font color="#00008B">Gregor Leander</font></b> –<br> “Design Principles for Efficient Symmetric Ciphers (Position Talk)”</td>
+        <td colspan="2" style="text-align: center;">Invited / Position Talk – <b><font color="#00008B">Dr Gregor Leander</font></b> –<br> “Design Principles for Efficient Symmetric Ciphers (Position Talk)”</td>
        </tr>
       <tr>
         <td class="time">10:00–10:05</td>
@@ -263,8 +263,8 @@ permalink: ./tp25
       </tr>
       <tr>
         <td class="time">10:05–10:50</td>
-        <td>Tutorial Talk - Dr <b><font color="#00008B">Mudassar Yamin</font></b> –<br>“Vector Space Manipulation in LLMs for Cyber Offence/Defence”</td>
-        <td>Tutorial Talk – Dr <b><font color="#00008B">Cihangir Tezcan</font></b> –<br>“Cryptanalysis in Real-world - Theory vs Practice”</td>
+        <td>Tutorial Talk - <b><font color="#00008B">Dr Mudassar Yamin</font></b> –<br>“Vector Space Manipulation in LLMs for Cyber Offence/Defence”</td>
+        <td>Tutorial Talk – <b><font color="#00008B">Dr Cihangir Tezcan</font></b> –<br>“Cryptanalysis in Real-world - Theory vs Practice”</td>
       </tr>
       <tr>
         <td class="time">10:50–11:10</td>
@@ -273,7 +273,7 @@ permalink: ./tp25
       <tr>
         <td class="time">11:25–12:10</td>
         <td>Invited / Position Talk – <b><font color="#00008B">Hafiz Farooq</font></b> –<br>“Early Detection of Cyber Threats”</td>
-        <td>Tutorial Talk – Dr <b><font color="#00008B">Gregor Leander</font></b><br>“Boolean Functions and Their Applications in Symmetric Cryptography”</td>
+        <td>Tutorial Talk – <b><font color="#00008B">Dr Gregor Leander</font></b><br>“Boolean Functions and Their Applications in Symmetric Cryptography”</td>
       </tr>
       <tr>
         <td class="time">12:10-12:15</td>

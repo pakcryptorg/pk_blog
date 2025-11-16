@@ -272,7 +272,7 @@ permalink: ./tp25
       </tr>
       <tr>
         <td class="time">11:25–12:10</td>
-        <td>Invited / Position Talk – **Hafiz Farooq** –<br>“Early Detection of Cyber Threats”</td>
+        <td>Invited / Position Talk – **<b><font color="#00008B">Hafiz Farooq</font></b>** –<br>“Early Detection of Cyber Threats”</td>
         <td>Tutorial Talk – Dr. **Gregor Leander**<br>“Boolean Functions and Their Applications in Symmetric Cryptography”</td>
       </tr>
       <tr>
@@ -281,7 +281,7 @@ permalink: ./tp25
       </tr>
       <tr>
         <td class="time">12:15-13:15</td>
-        <td>Extended Tech Talk – **Hafiz Farooq** –<br>“Bacteria-Free Generative AI: A Secure AI Pipeline Perspective” and “GenAI Threat Protection Using AI Gateway (LLMInspect)”</td>
+        <td>Extended Tech Talk – **<b><font color="#00008B">Hafiz Farooq</font></b>** –<br>“Bacteria-Free Generative AI: A Secure AI Pipeline Perspective” and “GenAI Threat Protection Using AI Gateway (LLMInspect)”</td>
         <td>Panel Discussion - Future of Crypto and SIGINT</td>
       </tr>
       <tr>

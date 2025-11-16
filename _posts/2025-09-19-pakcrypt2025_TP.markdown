@@ -294,7 +294,7 @@ permalink: ./tp25
       </tr>
       <tr>
         <td class="time">15:00-16:30</td>
-        <td colspan="2" style="text-align: center;">Closing Cermony and Prize Distributions</td>
+        <td colspan="2" style="text-align: center;"><b>Closing Cermony and Prize Distributions</b></td>
       </tr>
       <tr>
         <td class="time">16:30-17:00</td>

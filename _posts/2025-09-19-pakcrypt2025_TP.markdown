@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "PakCrypt 2025 - Technical Program"
-date:   2025-11-15 11:23:34 +0500
+date:   2025-11-15 11:24:34 +0500
 categories: comp e4
 permalink: ./tp25
 ---

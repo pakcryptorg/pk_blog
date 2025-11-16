@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "PakCrypt Intl Symposium 2025"
-date:   2025-11-13 11:23:34 +0500
+date:   2025-11-13 11:24:34 +0500
 categories: comp e4
 permalink: ./pc25
 ---

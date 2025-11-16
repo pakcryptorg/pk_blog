@@ -7,24 +7,23 @@ permalink: ./tp25
 ---
 
 
-# Technical Program
 * IACR Cryptography Winter School (CWS)
 * Cyber Security Symposium (CSS)
-* <span style="color: seagreen;"> **Common Activity (CA)** </span>
+* <span style="color: blue;"> **Common Activity (CA)** </span>
 
-<span style="color: seagreen;"> **CA** </span>
+<span style="color: blue;"> **[CA]** </span>
 
 ## Day 1 - 24 November 2025
 
 | Time | Auditorium Hall 1 | NCCS Hall 2|
 | --- | --- | --- |
-| 09:00–10:00 | Registration <span style="color: seagreen;"> **CA** </span> |   |
-| 10:00–11:00 | Opening Ceremony <span style="color: seagreen;"> **CA** </span> |  |
-| 11:00–11:20 | Morning Tea Break <span style="color: seagreen;"> **CA** </span> |  |
-| 11:20–12:05 | Invited / Position Talk <span style="color: seagreen;"> **CA** </span> – Prof Dr. Siraj Shaikh – <br>“Security of Cyber-Physical Systems” |  |
+| 09:00–10:00 | Registration <span style="color: blue;"> **[CA]** </span> |   |
+| 10:00–11:00 | Opening Ceremony <span style="color: blue;"> **[CA]** </span> |  |
+| 11:00–11:20 | Morning Tea Break <span style="color: blue;"> **[CA]** </span> |  |
+| 11:20–12:05 | Invited / Position Talk <span style="color: blue;"> **[CA]** </span> – Prof Dr. Siraj Shaikh – <br>“Security of Cyber-Physical Systems” |  |
 | 12:05–12:10 | Short Break / Transition |  |
-| 12:10–12:55 | Invited / Position Talk <span style="color: seagreen;"> **CA** </span> – Dr Jiqiang Lu – <br>"Methods and Techniques for Cryptanalysis” |  |
-| 12:55–14:00 | Lunch Break <span style="color: seagreen;"> **CA** </span> |  |
+| 12:10–12:55 | Invited / Position Talk <span style="color: blue;"> **[CA]** </span> – Dr Jiqiang Lu – <br>"Methods and Techniques for Cryptanalysis” |  |
+| 12:55–14:00 | Lunch Break <span style="color: blue;"> **[CA]** </span> |  |
 | 14:00–1450 | Tutorial Talk - Dr Mudassar Yamin – <br>“Vector Space Manipulation in LLMs for Cyber Offence/Defence” | Tutorial (Part 1) – Dr Jiqiang Lu – <br>“Time-Memory Trade-Off Attack on GSM A5/1” |
 | 14:50-14:55 | Short Break / Transition |  |
 | 14:55-15:45 | Local Industry Invited Talk – Dr Mehreen <br>(TBD, Cyber Security Governance) | Tutorial (Part 2) – Dr Jiqiang Lu – <br>“Time-Memory Trade-Off Attack on GSM A5/1” |
@@ -37,7 +36,7 @@ permalink: ./tp25
 
 | Time | Auditorium Hall 1 | NCCS Hall 2|
 | --- | --- | --- |
-| 09:25–09:30 | Brief announcements <span style="color: seagreen;"> **CA** </span> |  |
+| 09:25–09:30 | Brief announcements <span style="color: blue;"> **[CA]** </span> |  |
 | 09:30–10:15 | Invited / Position Talk – Dr Orhun Kara  <br>TBD (History of AES and its Security) |  |
 | 10:15–10:20 | Short break / Transition |  |
 | 10:20–11:05 | Invited / Position Talk – Dr Mudassar Yamin – <br>“TBD - Defensive Cyber Ops” |  |

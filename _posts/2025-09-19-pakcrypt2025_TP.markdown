@@ -25,33 +25,27 @@ permalink: ./tp25
       </tr>
       <tr>
         <td class="time">10:00–11:00</td>
-        <td>Opening Ceremony (Main Auditorium)</td>
-        <td></td>
+        <td colspan="2" style="text-align: center;">Opening Ceremony (Auditorium)</td>
       </tr>
       <tr>
         <td class="time">11:00–11:20</td>
-        <td>Morning Tea Break</td>
-        <td></td>
+        <td colspan="2" style="text-align: center;">Morning Tea Break</td>
       </tr>
       <tr>
         <td class="time">11:20–12:05</td>
-        <td>Invited / Position Talk – Prof Dr. Siraj Shaikh –<br>“Security of Cyber-Physical Systems”</td>
-        <td></td>
+        <td colspan="2" style="text-align: center;">Invited / Position Talk – Prof Dr. Siraj Shaikh –<br>“Security of Cyber-Physical Systems”</td>
       </tr>
       <tr>
         <td class="time">12:05–12:10</td>
-        <td>Short Break / Transition</td>
-        <td></td>
+        <td colspan="2" style="text-align: center;">Short Break / Transition</td>
       </tr>
       <tr>
         <td class="time">12:10–12:55</td>
-        <td>Invited / Position Talk – Dr Jiqiang Lu –<br>"Methods and Techniques for Cryptanalysis”</td>
-        <td></td>
+        <td colspan="2" style="text-align: center;">Invited / Position Talk – Dr Jiqiang Lu –<br>"Methods and Techniques for Cryptanalysis”</td>
       </tr>
       <tr>
         <td class="time">12:55–14:00</td>
-        <td>Lunch Break</td>
-        <td></td>
+        <td colspan="2" style="text-align: center;">Lunch Break</td>
       </tr>
       <tr>
         <td class="time">14:00–1450</td>
@@ -93,28 +87,23 @@ permalink: ./tp25
     <tbody>
       <tr>
         <td class="time">09:25–09:30</td>
-        <td>Brief announcements</td>
-        <td></td>
+        <td colspan="2" style="text-align: center;">Brief announcements</td>
       </tr>
       <tr>
         <td class="time">09:30–10:15</td>
-        <td>Invited / Position Talk – Dr Orhun Kara<br>TBD (History of AES and its Security)</td>
-        <td></td>
+        <td colspan="2" style="text-align: center;">Invited / Position Talk – Dr Orhun Kara<br>TBD (History of AES and its Security)</td>
       </tr>
       <tr>
         <td class="time">10:15–10:20</td>
-        <td>Short break / Transition</td>
-        <td></td>
+        <td colspan="2" style="text-align: center;">Short break / Transition</td>
       </tr>
       <tr>
         <td class="time">10:20–11:05</td>
-        <td>Invited / Position Talk – Dr Mudassar Yamin –<br>“TBD - Defensive Cyber Ops”</td>
-        <td></td>
+        <td colspan="2" style="text-align: center;">Invited / Position Talk – Dr Mudassar Yamin –<br>“TBD - Defensive Cyber Ops”</td>
       </tr>
       <tr>
         <td class="time">11:05–11:25</td>
-        <td>Morning Tea Break</td>
-        <td></td>
+        <td colspan="2" style="text-align: center;">Morning Tea Break</td>
       </tr>
       <tr>
         <td class="time">11:25–12:10</td>
@@ -123,9 +112,8 @@ permalink: ./tp25
       </tr>
       <tr>
         <td class="time">12:10-12:15</td>
-        <td>Short break / Transition</td>
-        <td></td>
-      </tr>
+        <td colspan="2" style="text-align: center;">Short break / Transition</td>
+        </tr>
       <tr>
         <td class="time">12:15–13:00</td>
         <td>Local Industry Invited Talk – Dr Faisal<br> (TBD, AI Impact on Cyber Security)</td>
@@ -133,8 +121,7 @@ permalink: ./tp25
       </tr>
       <tr>
         <td class="time">13:00–14:00</td>
-        <td>Lunch / Prayer Break</td>
-        <td></td>
+        <td colspan="2" style="text-align: center;">Lunch Break</td>
       </tr>
       <tr>
         <td class="time">14:00–1450</td>
@@ -143,9 +130,8 @@ permalink: ./tp25
       </tr>
       <tr>
         <td class="time">14:50-14:55</td>
-        <td>Short break / Transition</td>
-        <td></td>
-      </tr>
+        <td colspan="2" style="text-align: center;">Short break / Transition</td>
+       </tr>
       <tr>
         <td class="time">14:55-15:45</td>
         <td>CSS Panel Discussion – Cyber Security<br>(Foreign &amp; local CSS speakers + industry)</td>
@@ -153,13 +139,11 @@ permalink: ./tp25
       </tr>
       <tr>
         <td class="time">15:45-16:05</td>
-        <td>Afternoon Tea Break</td>
-        <td></td>
-      </tr>
+        <td colspan="2" style="text-align: center;">Afternoon Tea Break</td>
+       </tr>
       <tr>
         <td class="time">16:05–16:55</td>
-        <td>CWS Panel Discussion – Cryptography<br>(CWS speakers + Industry)</td>
-        <td></td>
+        <td colspan="2" style="text-align: center;">CWS Panel Discussion – Cryptography<br>(CWS speakers + Industry)</td>
       </tr>
     </tbody>
   </table>
@@ -177,26 +161,22 @@ permalink: ./tp25
     <tbody>
       <tr>
         <td class="time">09:30–10:15</td>
-        <td>Invited / Position Talk  – Dr. Berk Sunar (Online)<br> “Emerging Threats in to AI / LLM on Cyber Security”</td>
-        <td></td>
+        <td colspan="2" style="text-align: center;">Invited / Position Talk  – Dr. Berk Sunar (Online)<br> “Emerging Threats in to AI / LLM on Cyber Security”</td>
         <td></td>
       </tr>
       <tr>
         <td class="time">10:15–10:20</td>
-        <td>Short break</td>
-        <td></td>
+        <td colspan="2" style="text-align: center;">Short break</td>
         <td></td>
       </tr>
       <tr>
         <td class="time">10:20–11:05</td>
-        <td>Invited / Position Talk  – Dr. Cihangir Tezcan –<br>“TBD - ”</td>
-        <td></td>
+        <td colspan="2" style="text-align: center;">Invited / Position Talk  – Dr. Cihangir Tezcan –<br>“TBD - ”</td>
         <td></td>
       </tr>
       <tr>
         <td class="time">11:05–11:25</td>
-        <td>Morning Tea / Coffee Break</td>
-        <td></td>
+        <td colspan="2" style="text-align: center;">Morning Tea / Coffee Break</td>
         <td></td>
       </tr>
       <tr>
@@ -207,9 +187,8 @@ permalink: ./tp25
       </tr>
       <tr>
         <td class="time">12:10-12:15</td>
-        <td>Short break</td>
-        <td></td>
-        <td></td>
+        <td colspan="2" style="text-align: center;">Short break</td>
+          <td></td>
       </tr>
       <tr>
         <td class="time">12:15–13:00</td>
@@ -225,8 +204,7 @@ permalink: ./tp25
       </tr>
       <tr>
         <td class="time">13:00-13:30</td>
-        <td>Lunch Break</td>
-        <td></td>
+        <td colspan="2" style="text-align: center;">Lunch Break</td>
         <td></td>
       </tr>
       <tr>
@@ -243,8 +221,7 @@ permalink: ./tp25
       </tr>
       <tr>
         <td class="time">14:50-14:55</td>
-        <td>Short break</td>
-        <td></td>
+        <td colspan="2" style="text-align: center;">Short break</td>
         <td></td>
       </tr>
       <tr>
@@ -255,8 +232,7 @@ permalink: ./tp25
       </tr>
       <tr>
         <td class="time">15:45-16:05</td>
-        <td>Afternoon Tea / Coffee Break</td>
-        <td></td>
+        <td colspan="2" style="text-align: center;">Afternoon Tea / Coffee Break</td>
         <td></td>
       </tr>
       <tr>
@@ -280,13 +256,11 @@ permalink: ./tp25
     <tbody>
       <tr>
         <td class="time">09:15–10:00</td>
-        <td>Invited / Position Talk – Dr. Gregor Leander –<br> “Design Principles for Efficient Symmetric Ciphers (Position Talk)”</td>
-        <td></td>
-      </tr>
+        <td colspan="2" style="text-align: center;">Invited / Position Talk – Dr. Gregor Leander –<br> “Design Principles for Efficient Symmetric Ciphers (Position Talk)”</td>
+       </tr>
       <tr>
         <td class="time">10:00–10:05</td>
-        <td>Short break</td>
-        <td></td>
+        <td colspan="2" style="text-align: center;">Short break</td>
       </tr>
       <tr>
         <td class="time">10:05–10:50</td>
@@ -295,8 +269,7 @@ permalink: ./tp25
       </tr>
       <tr>
         <td class="time">10:50–11:10</td>
-        <td>Morning Tea / Coffee Break</td>
-        <td></td>
+        <td colspan="2" style="text-align: center;">Morning Tea / Coffee Break</td>
       </tr>
       <tr>
         <td class="time">11:25–12:10</td>
@@ -305,8 +278,7 @@ permalink: ./tp25
       </tr>
       <tr>
         <td class="time">12:10-12:15</td>
-        <td>Short Break</td>
-        <td></td>
+        <td colspan="2" style="text-align: center;">Short Break</td>
       </tr>
       <tr>
         <td class="time">12:15-13:15</td>
@@ -315,23 +287,19 @@ permalink: ./tp25
       </tr>
       <tr>
         <td class="time">13:15–14:15</td>
-        <td>Lunch Break</td>
-        <td></td>
+        <td colspan="2" style="text-align: center;">Lunch Break</td>
       </tr>
       <tr>
         <td class="time">14:15–15:00</td>
-        <td>Break / Seating for Closing Cermony</td>
-        <td></td>
+        <td colspan="2" style="text-align: center;">Break / Seating for Closing Cermony</td>
       </tr>
       <tr>
         <td class="time">15:00-16:30</td>
-        <td>Closing Cermony and Prize Distributions</td>
-        <td></td>
+        <td colspan="2" style="text-align: center;">Closing Cermony and Prize Distributions</td>
       </tr>
       <tr>
         <td class="time">16:30-17:00</td>
-        <td>Networking - Coffee / Tea Break</td>
-        <td></td>
+        <td colspan="2" style="text-align: center;">Networking - Coffee / Tea Break</td>
       </tr>
     </tbody>
   </table>

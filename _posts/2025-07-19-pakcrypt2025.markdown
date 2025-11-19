@@ -9,7 +9,7 @@ permalink: ./pc25
 ![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/landing35.gif)
 #### 24-27 Nov, Air University, Islamabad
 
-**[Tecnical Program](https://pakcrypt.org/tp25)** 
+**[Tecnical Program](https://cbf.pakcrypt.org/technical-program)** 
 
 ## <span style="color: seagreen;"> **Important Dates** </span>
 

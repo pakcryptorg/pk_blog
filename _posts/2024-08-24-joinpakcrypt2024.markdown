@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "PakCrypt-2024"
-date:   2024-11-22 07:22:34 +0500
+date:   2024-12-01 07:22:34 +0500
 categories: comp e3
 permalink: ./pcc24
 ---

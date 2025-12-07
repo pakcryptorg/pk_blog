@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "PakCrypt Intl Symposium 2025"
-date:   2025-11-13 11:24:34 +0500
+date:   2025-12-02 11:24:34 +0500
 categories: comp e4
 permalink: ./pc25
 ---
@@ -9,7 +9,7 @@ permalink: ./pc25
 ![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/landing35.gif)
 #### 24-27 Nov, Air University, Islamabad
 
-**[Tecnical Program](https://cbf.pakcrypt.org/technical-program)** 
+**[Tecnical Program]({{site.url}}/{{site.baseurl}}/assets/doc/ProgramPCC2025.pdf)**
 
 ## <span style="color: seagreen;"> **Important Dates** </span>
 

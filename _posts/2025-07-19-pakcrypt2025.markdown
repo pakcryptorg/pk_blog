@@ -41,114 +41,33 @@ All PakCrypt **finalists** who qualify and participate in the **Final Round** an
 ![PakCrypt](.{{site.baseurl}}/assets/images/falling_crypto_mini.gif)
 ## Meet Global Experts
 
-![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/SP11234.png)
+![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/pcc25/thre9.JPG)
 We’ve brought together the world’s leading experts to deliver keynote talks and lead hands-on workshops—a rare chance to learn directly from the people shaping the field, ask informed questions, and leave with practical guidance you can apply immediately.
 
 ![PakCrypt](.{{site.baseurl}}/assets/images/falling_crypto_mini.gif)
 
 
-## <span style="color: seagreen;"> **Our History** </span>
-PakCrypt competition was initiated in 2022 to promote young talent in the field of cryptography. Last three events of PakCrypt from 2022 to 2024 were great success! It’s truly inspiring to see bright minds across Pakistan come together and showcase their talent in the field of cryptography. 
-
-Last year, the PakCrypt 2024 competition included more than 900 participants from all regions of Pakistan competing in the three-round competition that culminated in a final round on the NCCS campus. The finalist teams competed for cash prizes totaling Rs. 1.8M, but the competition was much more than this. It provided young minds with opportunities to connect with industry experts, receive job offers, funding for further research, and engage in mutual collaboration. 
-
-![History](.{{site.baseurl}}/assets/images/H34234234.jpg)
-
-<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https://www.canva.com/design/DAGy22NXhx4/lf_93j1i4iXH3NnhLNTNLw/watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGy22NXhx4&#x2F;lf_93j1i4iXH3NnhLNTNLw&#x2F;watch?utm_content=DAGy22NXhx4&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">
-
-![PakCrypt](.{{site.baseurl}}/assets/images/falling_crypto_mini.gif)
+## <span style="color: seagreen;"> **Glimpse of Event** </span>
 
 
-## <span style="color: seagreen;"> **About Competition** </span>
-The cryptography competition is a two-track, three-round competition that comprises both online and on-campus rounds. The competition aims to bring together talented minds of Pakistan around the world to showcase their skills and compete for cash prizes in both professional and amateur tracks.
+![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/pcc25/all_winners.JPG)
 
-### <span style="color: seagreen;"> **Round 1: Registration** </span>		       
-The first round is open to all Pakistani nationals. It involves a registration process coupled with a screening test. The registration process collects basic information about candidates, while the test serves as an entry-level filter.
-Top qualifiers from Round 1 will be announced by the start of October and invited to compete in the second round.
+![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/pcc25/iacr1.JPG)
 
-### <span style="color: seagreen;"> **Round 2: Online Competition** </span>
-The second round of PakCrypt will be conducted online. It is planned to take place in middle of October. Participants who qualify from Round 1 will have the opportunity to display their skills and compete against other talented individuals. The qualifiers of Round 2 will be given opportunity to register for Round 3 as a team of 1-2 persons  (both of whom must be Round 3 qualified). Note that prizes will be equally shared among winning team members. 
-
-### <span style="color: seagreen;"> **Round 3: On-Campus Final** </span>
-The final round of PakCrypt 2025 will be held on campus at NCCS, Air University, Islamabad in Nov 2025. The top teams from the previous rounds will compete for the prize and prestige. 
-
-Please visit the Crypto Corner at the NCCS website regularly for further details & announcements. 
-
-![Final Round](.{{site.baseurl}}/assets/images/C5900999321.jpg)
-![PakCrypt](.{{site.baseurl}}/assets/images/falling_crypto_mini.gif)
-![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/landing34.gif)
-
-### <span style="color: seagreen;"> **Instructions** </span>
-- The registration for Round 1 is estimated to take approximately 30 minutes. It’s general math aptitude test.  Plan accordingly. 
-
-- The concepts in following resources will help to unlock many riddles of Round 2.
-Stu Schwartz: Cryptology for Beginners (Amateur)
-W. Stalling: Cryptography and Network Security 7e and JP Aumasson: Serious Cryptography (Professional)
-
-- For Round 3, if you are coming out of the twin-cities, there are a number of slots for free accommodation. Please contact the organizers if you are selected for Round 3, at least 2 weeks in advance.
-
-- No TA / DA is admissible for Round 3 participants, however, food and accommodation may be arranged for qualified top teams. Further, each finalist team that does not fall in top-3 slots will receive an encouragement cash prize (~30K-50K).
-
-- For Amateur Track in Round 3, a teacher of corresponding institute may accompany as part of the student team, however, the teacher will not be allowed to help students in Round 3 challenges.
-
-- For Amateurs, the upper age limit is 20-year. (born after 01-Jul-2005) 
-
-![PakCrypt](.{{site.baseurl}}/assets/images/landing39.gif)
-
-![PakCrypt](.{{site.baseurl}}/assets/images/falling_crypto_mini.gif)
-
-
-### <span style="color: seagreen;"> **Example in Initial Rounds** </span>
-**Q 1**
-Consider the sequence of numbers: 1, 1, 2, 3, 5, 8, 13, .... and so on. What would be the next number in this sequence?
-
-**Q 2**
-A group of friends went on a holiday to a beach resort. They’ve decided to participate in a relay race where each person can run at a different speed. The group consists of 4 friends: Alice, Bob, Charlie, and David. Here are their respective speeds:
-
-Alice can complete the race in 10 minutes; Bob can complete the race in 15 minutes; Charlie can complete the race in 20 minutes; David can complete the race in 25 minutes
-However, due to the rules of the relay race, only two people can run at the same time, and they must carry a baton that they pass on to the next pair. The speed of each pair is determined by the slower person.
-Given these conditions: 
-
-- What is the fastest time that all friends can complete the race?
-- What is the order of runners for that fastest time?
-
-
-**Q 3**
- Consider the following statements: “All apples are fruits. No fruit is a vegetable. Some vegetables are green.”
-Based on these statements (and nothing else), answer the following questions:
-
-- Are all fruits apples?
-- Can an apple be a vegetable?
-- Are all vegetables green?
-
-**Q 4**
-
-Please listen to following poscast:
-
-<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https://www.canva.com/design/DAGzn-9a-e0/g-GYOoZP6_f41W_WshmlKQ/watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGzn-9a-e0&#x2F;g-GYOoZP6_f41W_WshmlKQ&#x2F;watch?utm_content=DAGzn-9a-e0&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">
-
-Please answer the following questions:
-
-- What core technological dilemma motivated Whitfield Diffie to embark on his quest to advance cryptography early 1970s?
-- Explain why some experts publicly criticized the Data Encryption Standard (DES), specifically focusing on the key length originally set at 56 bits? 
-- What was the core purpose of the Clipper Chip?
-- What astonishing secret discovery regarding non-secret encryption did James Ellis make at Britain's GCHQ in 1969? 
-
-![PakCrypt](.{{site.baseurl}}/assets/images/falling_crypto_mini.gif)
-
-
-
+![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/pcc25/iacr2.JPG)
+![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/pcc25/iacr3.JPG)
+![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/pcc25/iacr4.JPG)
+![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/pcc25/iacr5.JPG)
+![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/pcc25/iacr7.JPG)
+![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/pcc25/iacr8.JPG)
+![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/pcc25/iacr9.JPG)
+![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/pcc25/iacr10.JPG)
+![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/pcc25/iacr11.JPG)
+![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/pcc25/iacr12.JPG)
+![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/pcc25/iacr13.JPG)
+![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/pcc25/iacr14.JPG)
+![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/pcc25/iacr15.JPG)
+![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/pcc25/iacr16.JPG)
+![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/pcc25/iacr17.JPG)
+![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/pcc25/iacr18.JPG)
+![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/pcc25/iacr19.JPG)

@@ -150,8 +150,6 @@ We’ve brought together the world’s leading experts to deliver keynote talks 
 
 ![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/pcc25/thre8.JPG)
 
-![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/pcc25/thre9.JPG)
-
 ![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/pcc25/thre10.JPG)
 
 ![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/pcc25/thre11.JPG)
@@ -166,6 +164,19 @@ We’ve brought together the world’s leading experts to deliver keynote talks 
 
 ![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/pcc25/thre16.JPG)
 
+![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/pcc25/ex1.JPG)
+
+![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/pcc25/ex2.JPG)
+
+![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/pcc25/ex3.JPG)
+
+![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/pcc25/ex4.JPG)
+
+![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/pcc25/ex5.JPG)
+
+![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/pcc25/ex6.JPG)
+
+![PakCrypt 2025 - Islamabad](.{{site.baseurl}}/assets/images/pcc25/ex7.JPG)
 
 
 

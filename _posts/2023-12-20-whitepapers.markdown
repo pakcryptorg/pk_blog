@@ -7,6 +7,7 @@ permalink: ./wp
 ---
 
 ### Taxonomic Framework for Block Cipher Modes of Operation
+*2026-02-15*|
 The proliferation of block cipher modes of operation across NIST publications (SP 800-38A through 800-38G), IEEE standards, and academic literature has created a genuine problem: practitioners face a bewildering array of choices without a principled framework for selection. We addresses that gap directly. The core thesis is simple: every mode of operation that deserves to exist must occupy a unique point in a well-defined requirement space. If two modes occupy the same point, one of them is redundant. If a mode appears to be universally inferior, either it serves a niche we have not identified, or it genuinely should be deprecated. We will be rigorous about both cases.
 [PDF]({{site.url}}/{{site.baseurl}}/assets/whitepapers/TFBCMO.pdf)
 

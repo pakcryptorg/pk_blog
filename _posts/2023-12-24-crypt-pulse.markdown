@@ -1,10 +1,23 @@
 ---
 layout: post
 title:  "Crypt Pulse"
-date:   2025-07-15 07:22:34 +0500
+date:   2026-02-15 07:22:34 +0500
 categories: pulse v1
 permalink: ./pulse
 ---
+
+## Fully homomorphic encryption without lattices
+Most practical leveled/FHE systems sit on lattices (LWE/RLWE) or related number-theoretic scaffolding, with fairly standardized engineering burdens (relinearization, modulus switching, circular-security discussions, etc.). An AFRICACRYPT 2025 [paper](https://link.springer.com/chapter/10.1007/978-3-031-97260-7_2)  makes a sharp pivot: it claims the first l-leveled homomorphic encryption schemes over composite groups (factoring-based), supporting both additive and multiplicative homomorphism-where prior composite-group work largely stayed partial (add-only or mult-only).
+
+## Integral cryptanalysis gets a full extension from F2 to Fq
+Integral cryptanalysis and its modern descendants (including ultrametric integral methods) have largely been developed with a comfortable binary worldview: F2 and bit sliced thinking. Michiel Verbauwhede work is somewhat uncomfortable for designers: the analysis indicates previous degree estimates for several constructions (e.g., Feistel-GMiMC, HadesMiMC, AES-Prime, small-pSquare, mid-pSquare) were overly optimistic, and - except for AES-Prime-some do not meet their own design criteria unless round counts increase substantially.
+
+## The "Fiat-Shamir with aborts" cost barrier gets meaningfully lowered
+A lot of practical lattice signatures rely on Fiat Shamir with aborts, and the abort/rejection mechanism is exactly where efficiency and tightness often go to die: you pay in rejection probability, signature size, and implementation complexity. Seunghoon Lee from Waterloo introduces a fresh way to design signatures so that the rejection condition is not an afterthought, but rather a first-class knob that shapes how signatures are formed.
+
+## One-shot signatures finally leave the oracle world
+There was a long-standing bottleneck around one-shot signatures (OSS): signatures where the signing key can be used exactly once and then “self-destructs,” something classically impossible but plausible with quantum states. The breakthrough is a standard-model construction. You can dive deep by reading the paper "On One-Shot Signatures, Quantum vs Classical Binding, and Obfuscating Permutations" (CRYPTO 2025 Best Paper)
+
 
 ## Zero Trust + PQC Convergence
 Cloudflare, along with other Zero Trust providers, is now embedding hybrid post-quantum key encapsulation mechanisms (KEMs) directly into access control points—like device posture agents, inline proxies, and SASE tunnels.. This evolution merges PQC deployment into broader Zero Trust initiatives, allowing organizations to frame quantum-safe upgrades as part of access modernization rather than niche crypto projects. Why it matters: hybrid KEMs protect against “harvest-now, decrypt-later” by ensuring even encrypted traffic to corporate assets like CI/CD, HR systems, or SSH jump hosts remains secure—even against future quantum threats. Practical steps include: auditing whether your existing agents and proxies maintain hybrid negotiation intact, verifying vendor roadmaps align with deprecation schedules, and updating Zero Trust inventories with a “PQC capability” status (enabled/partial/none). By aligning PQC adoption with ongoing transformation budgets, enterprises can accelerate secure coverage without needing separate funding.
